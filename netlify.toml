@@ -23,6 +23,12 @@
   to = "/.netlify/functions/api"
   status = 200
 
+# Pretty route for film awards endpoint
+[[redirects]]
+  from = "/film-awards"
+  to = "/.netlify/functions/film-awards"
+  status = 200
+
 # SPA fallback for client-side routing
 [[redirects]]
   from = "/*"
