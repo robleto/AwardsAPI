@@ -38,6 +38,7 @@ docs/business/
 
 # Development artifacts
 scripts/test-*.js
+!scripts/test-film-awards.js
 scripts/demo-*.js
 scripts/VERSION
 build-info.json
