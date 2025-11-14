@@ -1,0 +1,125 @@
+[
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Nolan", "role": "Director" },
+      { "name": "Emma Thomas", "role": "Producer" },
+      { "name": "Charles Roven", "role": "Producer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Nolan", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Cillian Murphy", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1517268",
+    "film_title": "Barbie",
+    "is_win": false,
+    "people": [
+      { "name": "Margot Robbie", "role": "Producer" },
+      { "name": "Tom Ackerley", "role": "Producer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1517268",
+    "film_title": "Barbie",
+    "is_win": false,
+    "people": [
+      { "name": "Greta Gerwig", "role": "Writer" },
+      { "name": "Noah Baumbach", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1160419",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Director" },
+      { "name": "Daniel Scheinert", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1160419",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Michelle Yeoh", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0133093",
+    "film_title": "The Matrix",
+    "is_win": true,
+    "people": [
+      { "name": "John Gaeta", "role": "Visual Effects Supervisor" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Film Editing",
+    "imdb_id": "tt0133093",
+    "film_title": "The Matrix",
+    "is_win": true,
+    "people": [
+      { "name": "Zach Staenberg", "role": "Editor" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Sound",
+    "imdb_id": "tt0133093",
+    "film_title": "The Matrix",
+    "is_win": true,
+    "people": []
+  }
+]

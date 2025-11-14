@@ -1,6 +1,10 @@
-# Game Awards API
+# Awards API
 
-A RESTful API for board game awards data (an OMDB-style service for tabletop). Public sample ships with a limited subset; a larger private dataset (non-redistributable) can be mounted under `internal/`.
+A RESTful API for comprehensive awards data across multiple domains (an OMDB-style service for awards).
+
+**Domains:**
+- 🎲 **Board Games** - Spiel des Jahres, Origins Awards, Diana Jones Award, and more
+- 🎬 **Film** - Academy Awards (Oscars), with planned expansion to Golden Globes, BAFTA, SAG
 
 > Commercial deployment asset. Not an open contribution project.
 ## 🚀 Deployment & Operations
@@ -59,12 +63,11 @@ curl http://localhost:4000/.netlify/functions/health
 
 ## 📋 API Endpoints
 
-### Base URL
-```
-http://localhost:3000/api/
-```
+### Board Game Awards
 
-### Parameters
+**Base URL:** `/api/` or `/.netlify/functions/api`
+
+#### Parameters
 
 | Parameter | Required | Description | Example |
 |-----------|----------|-------------|---------|
@@ -76,9 +79,30 @@ http://localhost:3000/api/
 | `category` | No | Filter by category | `Game of the Year` |
 | `award_set` | No | Filter by award set | `Spiel des Jahres` |
 | `type` | No | Filter by type | `winner` or `nominee` |
-| `r` | No | Response format | `json` (xml coming soon) |
 
 *At least one of `i`, `t`, `s`, or `bgg_id` is required.
+
+**Example:**
+```bash
+curl -H "x-api-key: YOUR_KEY" "https://gameawards.netlify.app/api/?s=Wingspan"
+```
+
+### Film Awards
+
+**Endpoint:** `/film-awards` or `/.netlify/functions/film-awards`
+
+#### Parameters
+
+| Parameter | Required | Description | Example |
+|-----------|----------|-------------|---------|
+| `imdb_id` | Yes | IMDb identifier | `tt0133093` |
+
+**Example:**
+```bash
+curl -H "x-api-key: YOUR_KEY" "https://gameawards.netlify.app/film-awards?imdb_id=tt15398776"
+```
+
+**Documentation:** [Film Awards API](docs/api/film.md)
 
 ### Example Requests
 
@@ -95,6 +119,11 @@ GET /api/?s=Spiel des Jahres&year=2023
 #### Get all awards for a specific game
 ```
 GET /api/?bgg_id=361
+```
+
+#### Get film awards by IMDb ID
+```
+GET /film-awards?imdb_id=tt0133093
 ```
 
 #### Get awards by year
