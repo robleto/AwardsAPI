@@ -2,7 +2,7 @@
 
 ```bash
 git clone <your-private-repo>
-cd GameAwardsAPI
+cd AwardsAPI
 cp .env.example .env  # fill DATABASE_URL + Stripe keys
 npm install
 netlify dev           # local serverless + static

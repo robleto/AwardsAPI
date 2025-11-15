@@ -42,4 +42,4 @@ All responses are in JSON format with consistent structure:
 
 ## Support
 
-- 📧 API Issues: support@gameawardsapi.com
+- 📧 API Issues: support@awardsapi.com

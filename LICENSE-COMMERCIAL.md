@@ -35,7 +35,7 @@ License terminates automatically if you breach these terms. Upon termination you
 Determined by Licensor's principal place of business unless superseded by mandatory local law.
 
 10. Contact
-For extended/commercial redistribution rights contact: sales@gameawardsapi.com
+For extended/commercial redistribution rights contact: sales@awardsapi.com
 
 If you need an open license (e.g., MIT) for limited components, request a dual‑license arrangement.
 
