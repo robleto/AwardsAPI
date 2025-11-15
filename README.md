@@ -233,7 +233,7 @@ Not Permitted:
 - Reselling the raw dataset or bulk exports as a standalone product
 - Open‑sourcing the private full dataset
 
-Need broader rights (OEM / white‑label)? Email sales@gameawardsapi.com.
+Need broader rights (OEM / white‑label)? Email sales@awardsapi.com.
 
 ### Managing the Private Dataset
 
@@ -258,7 +258,7 @@ See `LICENSE-COMMERCIAL.md`.
 
 ## 📞 Support
 
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 
 ---
 

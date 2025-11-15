@@ -186,7 +186,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt15398776"
 
 ## 💡 Key Design Decisions
 
-1. **Neon over Supabase**: Matches existing GameAwardsAPI stack
+1. **Neon over Supabase**: Matches existing AwardsAPI stack
 2. **Netlify Functions over Edge Functions**: Consistency with current setup
 3. **Reused API key infrastructure**: No new auth system needed
 4. **Idempotent migrations**: Safe to re-run, no version checking needed
@@ -229,7 +229,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt15398776"
 Questions or issues?
 - Review: `docs/FILM-AWARDS-SETUP.md`
 - API Docs: `docs/api/film.md`
-- Email: support@gameawardsapi.com
+- Email: support@awardsapi.com
 
 ---
 

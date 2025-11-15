@@ -1,7 +1,7 @@
 {
-  "name": "game-awards-api",
+  "name": "awards-api",
   "version": "1.0.0",
-  "description": "A RESTful API for board game awards data - similar to OMDB API but for board games",
+  "description": "A RESTful API for comprehensive awards data across multiple domains - similar to OMDB API but for awards",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -303,6 +303,6 @@ Should see: `nominations_category_id_imdb_id_key`
 
 ## Support
 
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 - 📚 Main docs: [README.md](../README.md)
 - 🎬 Film API docs: [docs/api/film.md](docs/api/film.md)

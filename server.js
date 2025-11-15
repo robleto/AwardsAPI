@@ -57,7 +57,7 @@ app.get('/api/', (req, res) => {
   if (process.env.NODE_ENV === 'production' && !apiKey) {
     return res.status(401).json({
       Response: "False",
-      Error: "No API key provided. Request API key at https://gameawardsapi.com/apikey"
+      Error: "No API key provided. Request API key at https://awardsapi.com/apikey"
     });
   }
 

@@ -229,7 +229,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt0133093"
 ## Support
 
 For API issues or questions:
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 - 📚 Main docs: [../README.md](../../README.md)
 
 ## Related Endpoints
