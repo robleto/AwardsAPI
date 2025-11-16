@@ -1,0 +1,6495 @@
+[
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0031385",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Donat",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clark Gable",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032145",
+    "film_title": "Wuthering Heights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0031066",
+    "film_title": "Babes in Arms",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mickey Rooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0031516",
+    "film_title": "Juarez",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brian Aherne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harry Carey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0031088",
+    "film_title": "Beau Geste",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brian Donlevy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0031971",
+    "film_title": "Stagecoach",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Thomas Mitchell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Rains",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031210",
+    "film_title": "Dark Victory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031593",
+    "film_title": "Love Affair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irene Dunne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031725",
+    "film_title": "Ninotchka",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greta Garbo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031385",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Vivien Leigh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Olivia de Havilland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032145",
+    "film_title": "Wuthering Heights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Fitzgerald",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hattie McDaniel",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0031252",
+    "film_title": "Drums along the Mohawk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edna May Oliver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0031593",
+    "film_title": "Love Affair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maria Ouspenskaya",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Victor Fleming",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0031385",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Wood",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0031971",
+    "film_title": "Stagecoach",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032145",
+    "film_title": "Wuthering Heights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031210",
+    "film_title": "Dark Victory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      },
+      {
+        "name": "First National",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Selznick International Pictures",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031385",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031593",
+    "film_title": "Love Affair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031725",
+    "film_title": "Ninotchka",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031742",
+    "film_title": "Of Mice and Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hal Roach (production company)",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031971",
+    "film_title": "Stagecoach",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Wanger (production company)",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032138",
+    "film_title": "The Wizard of Oz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032145",
+    "film_title": "Wuthering Heights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sidney Howard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0031385",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "R. C. Sherriff",
+        "role": "Writer"
+      },
+      {
+        "name": "Claudine West",
+        "role": "Writer"
+      },
+      {
+        "name": "Eric Maschwitz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0031679",
+    "film_title": "Mr. Smith Goes to Washington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Buchman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0031725",
+    "film_title": "Ninotchka",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Walter Reisch",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032145",
+    "film_title": "Wuthering Heights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles MacArthur",
+        "role": "Writer"
+      },
+      {
+        "name": "Ben Hecht",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032553",
+    "film_title": "The Great Dictator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Chaplin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032551",
+    "film_title": "The Grapes of Wrath",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Fonda",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032181",
+    "film_title": "Abe Lincoln in Illinois",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Raymond Massey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0032484",
+    "film_title": "Foreign Correspondent",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Basserman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033253",
+    "film_title": "The Westerner",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Brennan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033150",
+    "film_title": "They Knew What They Wanted",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Gargan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0032553",
+    "film_title": "The Great Dictator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Oakie",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0032701",
+    "film_title": "The Letter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Stephenson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0032701",
+    "film_title": "The Letter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Fontaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0032671",
+    "film_title": "Kitty Foyle",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ginger Rogers",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0032881",
+    "film_title": "Our Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martha Scott",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judith Anderson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032551",
+    "film_title": "The Grapes of Wrath",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jane Darwell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Hussey",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032194",
+    "film_title": "All This, and Heaven Too",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara O'Neil",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0032946",
+    "film_title": "Primrose Path",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marjorie Rambeau",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032551",
+    "film_title": "The Grapes of Wrath",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032671",
+    "film_title": "Kitty Foyle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Wood",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032701",
+    "film_title": "The Letter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Cukor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032194",
+    "film_title": "All This, and Heaven Too",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032484",
+    "film_title": "Foreign Correspondent",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Wanger (production company)",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032551",
+    "film_title": "The Grapes of Wrath",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032553",
+    "film_title": "The Great Dictator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Chaplin Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032671",
+    "film_title": "Kitty Foyle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032701",
+    "film_title": "The Letter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032728",
+    "film_title": "The Long Voyage Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Argosy-Wanger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032881",
+    "film_title": "Our Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sol Lesser (production company)",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Selznick International Pictures",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0032209",
+    "film_title": "Angels over Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Hecht",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0032413",
+    "film_title": "Dr. Ehrlich's Magic Bullet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      },
+      {
+        "name": "Heinz Herald",
+        "role": "Writer"
+      },
+      {
+        "name": "Norman Burnside",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0032484",
+    "film_title": "Foreign Correspondent",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Bennett",
+        "role": "Writer"
+      },
+      {
+        "name": "Joan Harrison",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0032553",
+    "film_title": "The Great Dictator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Chaplin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0032554",
+    "film_title": "The Great McGinty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Preston Sturges",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032551",
+    "film_title": "The Grapes of Wrath",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nunnally Johnson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032671",
+    "film_title": "Kitty Foyle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dalton Trumbo",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032728",
+    "film_title": "The Long Voyage Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dudley Nichols",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032904",
+    "film_title": "The Philadelphia Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Donald Ogden Stewart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0032976",
+    "film_title": "Rebecca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert E. Sherwood",
+        "role": "Writer"
+      },
+      {
+        "name": "Joan Harrison",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0034012",
+    "film_title": "Penny Serenade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cary Grant",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0033532",
+    "film_title": "All That Money Can Buy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Huston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0033712",
+    "film_title": "Here Comes Mr. Jordan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Montgomery",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Orson Welles",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Brennan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033533",
+    "film_title": "The Devil and Miss Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Coburn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033729",
+    "film_title": "How Green Was My Valley",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Donald Crisp",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033712",
+    "film_title": "Here Comes Mr. Jordan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Gleason",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033870",
+    "film_title": "The Maltese Falcon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sydney Greenstreet",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0033722",
+    "film_title": "Hold Back the Dawn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Olivia de Havilland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0034248",
+    "film_title": "Suspicion",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joan Fontaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0033407",
+    "film_title": "Blossoms in the Dust",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0033373",
+    "film_title": "Ball of Fire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Stanwyck",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0033729",
+    "film_title": "How Green Was My Valley",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sara Allgood",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0033677",
+    "film_title": "The Great Lie",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mary Astor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Patricia Collinge",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Teresa Wright",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margaret Wycherly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Orson Welles",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0033712",
+    "film_title": "Here Comes Mr. Jordan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alexander Hall",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0033729",
+    "film_title": "How Green Was My Valley",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Howard Hawks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033407",
+    "film_title": "Blossoms in the Dust",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mercury",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033712",
+    "film_title": "Here Comes Mr. Jordan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033722",
+    "film_title": "Hold Back the Dawn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033729",
+    "film_title": "How Green Was My Valley",
+    "is_win": true,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033870",
+    "film_title": "The Maltese Falcon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033980",
+    "film_title": "One Foot in Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034248",
+    "film_title": "Suspicion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Herman J. Mankiewicz",
+        "role": "Writer"
+      },
+      {
+        "name": "Orson Welles",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0033533",
+    "film_title": "The Devil and Miss Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Krasna",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0034167",
+    "film_title": "Sergeant York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Abem Finkel",
+        "role": "Writer"
+      },
+      {
+        "name": "Harry Chandlee",
+        "role": "Writer"
+      },
+      {
+        "name": "Howard Koch",
+        "role": "Writer"
+      },
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0034262",
+    "film_title": "Tall, Dark and Handsome",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Karl Tunberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Darrell Ware",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0034299",
+    "film_title": "Tom, Dick and Harry",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Jarrico",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033712",
+    "film_title": "Here Comes Mr. Jordan",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sidney Buchman",
+        "role": "Writer"
+      },
+      {
+        "name": "Seton I. Miller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033722",
+    "film_title": "Hold Back the Dawn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033729",
+    "film_title": "How Green Was My Valley",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip Dunne",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033836",
+    "film_title": "The Little Foxes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lillian Hellman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033870",
+    "film_title": "The Maltese Falcon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035575",
+    "film_title": "Yankee Doodle Dandy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Cagney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035238",
+    "film_title": "Random Harvest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ronald Colman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035211",
+    "film_title": "The Pride of the Yankees",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Pidgeon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035189",
+    "film_title": "The Pied Piper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Monty Woolley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0035530",
+    "film_title": "Wake Island",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Bendix",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0033774",
+    "film_title": "Johnny Eager",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Van Heflin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0035575",
+    "film_title": "Yankee Doodle Dandy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Huston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0035460",
+    "film_title": "Tortilla Flat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Morgan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Travers",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035140",
+    "film_title": "Now, Voyager",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035567",
+    "film_title": "Woman of the Year",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035105",
+    "film_title": "My Sister Eileen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosalind Russell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035211",
+    "film_title": "The Pride of the Yankees",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Teresa Wright",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035140",
+    "film_title": "Now, Voyager",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gladys Cooper",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035015",
+    "film_title": "The Magnificent Ambersons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Agnes Moorehead",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035238",
+    "film_title": "Random Harvest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Peters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dame May Whitty",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Teresa Wright",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0034946",
+    "film_title": "Kings Row",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Wood",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0035238",
+    "film_title": "Random Harvest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mervyn LeRoy",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0035530",
+    "film_title": "Wake Island",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Farrow",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0035575",
+    "film_title": "Yankee Doodle Dandy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Curtiz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033627",
+    "film_title": "The Invaders",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ortus",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034946",
+    "film_title": "Kings Row",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035015",
+    "film_title": "The Magnificent Ambersons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mercury",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035189",
+    "film_title": "The Pied Piper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035211",
+    "film_title": "The Pride of the Yankees",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035238",
+    "film_title": "Random Harvest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035417",
+    "film_title": "The Talk of the Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035530",
+    "film_title": "Wake Island",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035575",
+    "film_title": "Yankee Doodle Dandy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035153",
+    "film_title": "One of Our Aircraft Is Missing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Powell",
+        "role": "Writer"
+      },
+      {
+        "name": "Emeric Pressburger",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035262",
+    "film_title": "Road to Morocco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Butler",
+        "role": "Writer"
+      },
+      {
+        "name": "Don Hartman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035530",
+    "film_title": "Wake Island",
+    "is_win": false,
+    "people": [
+      {
+        "name": "W. R. Burnett",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Butler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035531",
+    "film_title": "The War against Mrs. Hadley",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Oppenheimer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035567",
+    "film_title": "Woman of the Year",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ring Lardner Jr.",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Kanin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0033627",
+    "film_title": "The Invaders",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rodney Ackland",
+        "role": "Writer"
+      },
+      {
+        "name": "Emeric Pressburger",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0035093",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Arthur Wimperis",
+        "role": "Writer"
+      },
+      {
+        "name": "George Froeschel",
+        "role": "Writer"
+      },
+      {
+        "name": "James Hilton",
+        "role": "Writer"
+      },
+      {
+        "name": "Claudine West",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0035211",
+    "film_title": "The Pride of the Yankees",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jo Swerling",
+        "role": "Writer"
+      },
+      {
+        "name": "Herman J. Mankiewicz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0035238",
+    "film_title": "Random Harvest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claudine West",
+        "role": "Writer"
+      },
+      {
+        "name": "George Froeschel",
+        "role": "Writer"
+      },
+      {
+        "name": "Arthur Wimperis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0035417",
+    "film_title": "The Talk of the Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irwin Shaw",
+        "role": "Writer"
+      },
+      {
+        "name": "Sidney Buchman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Humphrey Bogart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0035896",
+    "film_title": "For Whom the Bell Tolls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036515",
+    "film_title": "Watch on the Rhine",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paul Lukas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036126",
+    "film_title": "Madame Curie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Pidgeon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036022",
+    "film_title": "The Human Comedy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mickey Rooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Bickford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0036172",
+    "film_title": "The More the Merrier",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Coburn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0036323",
+    "film_title": "Sahara",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Carrol Naish",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Rains",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0035896",
+    "film_title": "For Whom the Bell Tolls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Akim Tamiroff",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0036172",
+    "film_title": "The More the Merrier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Arthur",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035896",
+    "film_title": "For Whom the Bell Tolls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0035751",
+    "film_title": "The Constant Nymph",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Fontaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0036126",
+    "film_title": "Madame Curie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jennifer Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gladys Cooper",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036367",
+    "film_title": "So Proudly We Hail!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paulette Goddard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0035896",
+    "film_title": "For Whom the Bell Tolls",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Katina Paxinou",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Revere",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036515",
+    "film_title": "Watch on the Rhine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lucile Watson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Curtiz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0035979",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernst Lubitsch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036022",
+    "film_title": "The Human Comedy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Brown",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036172",
+    "film_title": "The More the Merrier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry King",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035896",
+    "film_title": "For Whom the Bell Tolls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0035979",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036022",
+    "film_title": "The Human Comedy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034891",
+    "film_title": "In Which We Serve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Two Cities",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036126",
+    "film_title": "Madame Curie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036172",
+    "film_title": "The More the Merrier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036244",
+    "film_title": "The Ox-Bow Incident",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036515",
+    "film_title": "Watch on the Rhine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0035616",
+    "film_title": "Air Force",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dudley Nichols",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0034891",
+    "film_title": "In Which We Serve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Noel Coward",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0036217",
+    "film_title": "The North Star",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lillian Hellman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0036277",
+    "film_title": "Princess O'Rourke",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Norman Krasna",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0036367",
+    "film_title": "So Proudly We Hail!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Allan Scott",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julius J. Epstein",
+        "role": "Writer"
+      },
+      {
+        "name": "Philip G. Epstein",
+        "role": "Writer"
+      },
+      {
+        "name": "Howard Koch",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036009",
+    "film_title": "Holy Matrimony",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nunnally Johnson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036172",
+    "film_title": "The More the Merrier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Russell",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Ross",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard Flournoy",
+        "role": "Writer"
+      },
+      {
+        "name": "Lewis R. Foster",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036377",
+    "film_title": "The Song of Bernadette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Seaton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036515",
+    "film_title": "Watch on the Rhine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dashiell Hammett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036855",
+    "film_title": "Gaslight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Boyer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bing Crosby",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Fitzgerald",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0037135",
+    "film_title": "None but the Lonely Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cary Grant",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0037465",
+    "film_title": "Wilson",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alexander Knox",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037263",
+    "film_title": "The Seventh Cross",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hume Cronyn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barry Fitzgerald",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037094",
+    "film_title": "Mr. Skeffington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Rains",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037008",
+    "film_title": "Laura",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clifton Webb",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037280",
+    "film_title": "Since You Went Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Monty Woolley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0036855",
+    "film_title": "Gaslight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037280",
+    "film_title": "Since You Went Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claudette Colbert",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037094",
+    "film_title": "Mr. Skeffington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037096",
+    "film_title": "Mrs. Parkington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0036775",
+    "film_title": "Double Indemnity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Stanwyck",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037135",
+    "film_title": "None but the Lonely Heart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ethel Barrymore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037280",
+    "film_title": "Since You Went Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036855",
+    "film_title": "Gaslight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Angela Lansbury",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0036777",
+    "film_title": "Dragon Seed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Aline MacMahon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037096",
+    "film_title": "Mrs. Parkington",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Agnes Moorehead",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036775",
+    "film_title": "Double Indemnity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Leo McCarey",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037008",
+    "film_title": "Laura",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Otto Preminger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037017",
+    "film_title": "Lifeboat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037465",
+    "film_title": "Wilson",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry King",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036775",
+    "film_title": "Double Indemnity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036855",
+    "film_title": "Gaslight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037280",
+    "film_title": "Since You Went Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Selznick International Pictures",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037465",
+    "film_title": "Wilson",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0036891",
+    "film_title": "Hail the Conquering Hero",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Preston Sturges",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037077",
+    "film_title": "The Miracle of Morgan's Creek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Preston Sturges",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037408",
+    "film_title": "Two Girls and a Sailor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Connell",
+        "role": "Writer"
+      },
+      {
+        "name": "Gladys Lehman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037465",
+    "film_title": "Wilson",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lamar Trotti",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037466",
+    "film_title": "Wing and a Prayer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jerome Cady",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036775",
+    "film_title": "Double Indemnity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Raymond Chandler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036855",
+    "film_title": "Gaslight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Van Druten",
+        "role": "Writer"
+      },
+      {
+        "name": "Walter Reisch",
+        "role": "Writer"
+      },
+      {
+        "name": "John L. Balderston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036872",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Butler",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Cavett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0037008",
+    "film_title": "Laura",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jay Dratler",
+        "role": "Writer"
+      },
+      {
+        "name": "Samuel Hoffenstein",
+        "role": "Writer"
+      },
+      {
+        "name": "Betty Reinhardt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0037059",
+    "film_title": "Meet Me in St. Louis",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irving Brecher",
+        "role": "Writer"
+      },
+      {
+        "name": "Fred F. Finklehoffe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0037536",
+    "film_title": "The Bells of St. Mary's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bing Crosby",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0037514",
+    "film_title": "Anchors Aweigh",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Kelly",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0037884",
+    "film_title": "The Lost Weekend",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ray Milland",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036983",
+    "film_title": "The Keys of the Kingdom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory Peck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0038104",
+    "film_title": "A Song to Remember",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cornel Wilde",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038109",
+    "film_title": "Spellbound",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Chekhov",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037614",
+    "film_title": "The Corn Is Green",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Dall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038190",
+    "film_title": "A Tree Grows in Brooklyn",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Dunn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038120",
+    "film_title": "G. I. Joe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Mitchum",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0037906",
+    "film_title": "A Medal for Benny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Carrol Naish",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037536",
+    "film_title": "The Bells of St. Mary's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037913",
+    "film_title": "Mildred Pierce",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joan Crawford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0038213",
+    "film_title": "The Valley of Decision",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037885",
+    "film_title": "Love Letters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037865",
+    "film_title": "Leave Her to Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Tierney",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037913",
+    "film_title": "Mildred Pierce",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eve Arden",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037913",
+    "film_title": "Mildred Pierce",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ann Blyth",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037988",
+    "film_title": "The Picture of Dorian Gray",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Angela Lansbury",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037614",
+    "film_title": "The Corn Is Green",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Lorring",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0037120",
+    "film_title": "National Velvet",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anne Revere",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037536",
+    "film_title": "The Bells of St. Mary's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leo McCarey",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037884",
+    "film_title": "The Lost Weekend",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037120",
+    "film_title": "National Velvet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Brown",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038107",
+    "film_title": "The Southerner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Renoir",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038109",
+    "film_title": "Spellbound",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037514",
+    "film_title": "Anchors Aweigh",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037536",
+    "film_title": "The Bells of St. Mary's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rainbow Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037884",
+    "film_title": "The Lost Weekend",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037913",
+    "film_title": "Mildred Pierce",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038109",
+    "film_title": "Spellbound",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Selznick International Pictures",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037644",
+    "film_title": "Dillinger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip Yordan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037899",
+    "film_title": "Marie-Louise",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard Schweizer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037104",
+    "film_title": "Music for Millions",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Myles Connolly",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038047",
+    "film_title": "Salty O'Rourke",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Milton Holmes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038243",
+    "film_title": "What Next, Corporal Hargrove?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harry Kurnitz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038120",
+    "film_title": "G. I. Joe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leopold Atlas",
+        "role": "Writer"
+      },
+      {
+        "name": "Guy Endore",
+        "role": "Writer"
+      },
+      {
+        "name": "Philip Stevenson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0037884",
+    "film_title": "The Lost Weekend",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0037913",
+    "film_title": "Mildred Pierce",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ranald MacDougall",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038000",
+    "film_title": "Pride of the Marines",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Maltz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038190",
+    "film_title": "A Tree Grows in Brooklyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tess Slesinger",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Davis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036868",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fredric March",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0036910",
+    "film_title": "Henry V",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0038661",
+    "film_title": "The Jolson Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Larry Parks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039111",
+    "film_title": "The Yearling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory Peck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0038650",
+    "film_title": "It's a Wonderful Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038578",
+    "film_title": "The Green Years",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Coburn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038661",
+    "film_title": "The Jolson Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Demarest",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038787",
+    "film_title": "Notorious",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Rains",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0036868",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Harold Russell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0038873",
+    "film_title": "The Razor's Edge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clifton Webb",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039040",
+    "film_title": "To Each His Own",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Olivia de Havilland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0037558",
+    "film_title": "Brief Encounter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Celia Johnson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0038499",
+    "film_title": "Duel in the Sun",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0038948",
+    "film_title": "Sister Kenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosalind Russell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039111",
+    "film_title": "The Yearling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Wyman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0038975",
+    "film_title": "The Spiral Staircase",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethel Barrymore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0038873",
+    "film_title": "The Razor's Edge",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anne Baxter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0038499",
+    "film_title": "Duel in the Sun",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lillian Gish",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0038053",
+    "film_title": "Saratoga Trunk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Flora Robson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0038303",
+    "film_title": "Anna and the King of Siam",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gale Sondergaard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0036868",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0037558",
+    "film_title": "Brief Encounter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038650",
+    "film_title": "It's a Wonderful Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038669",
+    "film_title": "The Killers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Siodmak",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0039111",
+    "film_title": "The Yearling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Brown",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036868",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036910",
+    "film_title": "Henry V",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Arthur Rank",
+        "role": "Honoree"
+      },
+      {
+        "name": "Two Cities Films",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038650",
+    "film_title": "It's a Wonderful Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Liberty Films",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038873",
+    "film_title": "The Razor's Edge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039111",
+    "film_title": "The Yearling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038369",
+    "film_title": "The Blue Dahlia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Raymond Chandler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0037674",
+    "film_title": "Children of Paradise",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacques Prevert",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038787",
+    "film_title": "Notorious",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Hecht",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038032",
+    "film_title": "Road to Utopia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Panama",
+        "role": "Writer"
+      },
+      {
+        "name": "Melvin Frank",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038924",
+    "film_title": "The Seventh Veil",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Muriel Box",
+        "role": "Writer"
+      },
+      {
+        "name": "Sydney Box",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038303",
+    "film_title": "Anna and the King of Siam",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Talbot Jennings",
+        "role": "Writer"
+      },
+      {
+        "name": "Sally Benson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0036868",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert E. Sherwood",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0037558",
+    "film_title": "Brief Encounter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Writer"
+      },
+      {
+        "name": "Anthony Havelock-Allan",
+        "role": "Writer"
+      },
+      {
+        "name": "Ronald Neame",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038669",
+    "film_title": "The Killers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Veiller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038890",
+    "film_title": "Open City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sergio Amidei",
+        "role": "Writer"
+      },
+      {
+        "name": "F. Fellini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039335",
+    "film_title": "A Double Life",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ronald Colman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039204",
+    "film_title": "Body and Soul",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Garfield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory Peck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039566",
+    "film_title": "Life with Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Powell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0039636",
+    "film_title": "Mourning Becomes Electra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Redgrave",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0039370",
+    "film_title": "The Farmer's Daughter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Bickford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0039768",
+    "film_title": "Ride the Pink Horse",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thomas Gomez",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0039628",
+    "film_title": "Miracle on 34th Street",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edmund Gwenn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0039286",
+    "film_title": "Crossfire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Ryan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0039536",
+    "film_title": "Kiss of Death",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Widmark",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039725",
+    "film_title": "Possessed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Crawford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039840",
+    "film_title": "Smash-Up--The Story of a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Hayward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dorothy McGuire",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039636",
+    "film_title": "Mourning Becomes Electra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosalind Russell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0039370",
+    "film_title": "The Farmer's Daughter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Loretta Young",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0039694",
+    "film_title": "The Paradine Case",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethel Barrymore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0039286",
+    "film_title": "Crossfire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gloria Grahame",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Celeste Holm",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0039349",
+    "film_title": "The Egg and I",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marjorie Main",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Revere",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0039190",
+    "film_title": "The Bishop's Wife",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Koster",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0039286",
+    "film_title": "Crossfire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Dmytryk",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0039335",
+    "film_title": "A Double Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Cukor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038574",
+    "film_title": "Great Expectations",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039190",
+    "film_title": "The Bishop's Wife",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039286",
+    "film_title": "Crossfire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038574",
+    "film_title": "Great Expectations",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Arthur Rank",
+        "role": "Honoree"
+      },
+      {
+        "name": "Cineguild",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039628",
+    "film_title": "Miracle on 34th Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0039169",
+    "film_title": "The Bachelor and the Bobby-Soxer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sidney Sheldon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0039204",
+    "film_title": "Body and Soul",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Abraham Polonsky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0039335",
+    "film_title": "A Double Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Gordon",
+        "role": "Writer"
+      },
+      {
+        "name": "Garson Kanin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0039631",
+    "film_title": "Monsieur Verdoux",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Chaplin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038913",
+    "film_title": "Shoe-Shine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sergio Amidei",
+        "role": "Writer"
+      },
+      {
+        "name": "Adolfo Franci",
+        "role": "Writer"
+      },
+      {
+        "name": "C. G. Viola",
+        "role": "Writer"
+      },
+      {
+        "name": "Cesare Zavattini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0039208",
+    "film_title": "Boomerang!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Murphy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0039286",
+    "film_title": "Crossfire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Paxton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Moss Hart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0038574",
+    "film_title": "Great Expectations",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Writer"
+      },
+      {
+        "name": "Anthony Havelock-Allan",
+        "role": "Writer"
+      },
+      {
+        "name": "Ronald Neame",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0039628",
+    "film_title": "Miracle on 34th Street",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Seaton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lew Ayres",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0040765",
+    "film_title": "The Search",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Montgomery Clift",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0040962",
+    "film_title": "When My Baby Smiles at Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dan Dailey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0040416",
+    "film_title": "Hamlet",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0040795",
+    "film_title": "Sitting Pretty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clifton Webb",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Bickford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0040491",
+    "film_title": "Joan of Arc",
+    "is_win": false,
+    "people": [
+      {
+        "name": "José Ferrer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0040458",
+    "film_title": "I Remember Mama",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oscar Homolka",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0040897",
+    "film_title": "The Treasure of the Sierra Madre",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Huston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0040553",
+    "film_title": "The Luck of the Irish",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cecil Kellaway",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0040491",
+    "film_title": "Joan of Arc",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0040806",
+    "film_title": "The Snake Pit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Olivia de Havilland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0040458",
+    "film_title": "I Remember Mama",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irene Dunne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0040823",
+    "film_title": "Sorry, Wrong Number",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Stanwyck",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jane Wyman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0040458",
+    "film_title": "I Remember Mama",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Bel Geddes",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0040458",
+    "film_title": "I Remember Mama",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Corby",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Agnes Moorehead",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0040416",
+    "film_title": "Hamlet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Simmons",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0040506",
+    "film_title": "Key Largo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Claire Trevor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040416",
+    "film_title": "Hamlet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Negulesco",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040765",
+    "film_title": "The Search",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040806",
+    "film_title": "The Snake Pit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anatole Litvak",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040897",
+    "film_title": "The Treasure of the Sierra Madre",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040416",
+    "film_title": "Hamlet",
+    "is_win": true,
+    "people": [
+      {
+        "name": "J. Arthur Rank",
+        "role": "Honoree"
+      },
+      {
+        "name": "Two Cities Films",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040725",
+    "film_title": "The Red Shoes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Arthur Rank",
+        "role": "Honoree"
+      },
+      {
+        "name": "Archers",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040806",
+    "film_title": "The Snake Pit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040897",
+    "film_title": "The Treasure of the Sierra Madre",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040367",
+    "film_title": "A Foreign Affair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard L. Breen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040495",
+    "film_title": "Johnny Belinda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irmgard Von Cube",
+        "role": "Writer"
+      },
+      {
+        "name": "Allen Vincent",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040765",
+    "film_title": "The Search",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Schweizer",
+        "role": "Writer"
+      },
+      {
+        "name": "David Wechsler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040806",
+    "film_title": "The Snake Pit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Partos",
+        "role": "Writer"
+      },
+      {
+        "name": "Millen Brand",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040897",
+    "film_title": "The Treasure of the Sierra Madre",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  }
+]

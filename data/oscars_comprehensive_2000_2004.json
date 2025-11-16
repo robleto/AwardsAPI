@@ -1,0 +1,3564 @@
+[
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0140352",
+    "film_title": "The Insider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Russell Crowe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0166896",
+    "film_title": "The Straight Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Farnsworth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0158371",
+    "film_title": "Sweet and Lowdown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sean Penn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kevin Spacey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0174856",
+    "film_title": "The Hurricane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0124315",
+    "film_title": "The Cider House Rules",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0175880",
+    "film_title": "Magnolia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Cruise",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0120689",
+    "film_title": "The Green Mile",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Clarke Duncan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0134119",
+    "film_title": "The Talented Mr. Ripley",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jude Law",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0167404",
+    "film_title": "The Sixth Sense",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Haley Joel Osment",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Annette Bening",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0161023",
+    "film_title": "Tumbleweeds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Janet McTeer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0172396",
+    "film_title": "The End of the Affair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julianne Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0166943",
+    "film_title": "Music of the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0171804",
+    "film_title": "Boys Don't Cry",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hilary Swank",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0167404",
+    "film_title": "The Sixth Sense",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Toni Collette",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0172493",
+    "film_title": "Girl, Interrupted",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Angelina Jolie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0120601",
+    "film_title": "Being John Malkovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Catherine Keener",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0158371",
+    "film_title": "Sweet and Lowdown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samantha Morton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0171804",
+    "film_title": "Boys Don't Cry",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chloë Sevigny",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Mendes",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120601",
+    "film_title": "Being John Malkovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spike Jonze",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0124315",
+    "film_title": "The Cider House Rules",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lasse Hallström",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0140352",
+    "film_title": "The Insider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Mann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0167404",
+    "film_title": "The Sixth Sense",
+    "is_win": false,
+    "people": [
+      {
+        "name": "M. Night Shyamalan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bruce Cohen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dan Jinks",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0124315",
+    "film_title": "The Cider House Rules",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard N. Gladstein",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120689",
+    "film_title": "The Green Mile",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Valdes",
+        "role": "Honoree"
+      },
+      {
+        "name": "Frank Darabont",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0140352",
+    "film_title": "The Insider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Mann",
+        "role": "Honoree"
+      },
+      {
+        "name": "Pieter Jan Brugge",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0167404",
+    "film_title": "The Sixth Sense",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Marshall",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      },
+      {
+        "name": "Barry Mendel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0124315",
+    "film_title": "The Cider House Rules",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Irving",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0126886",
+    "film_title": "Election",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alexander Payne",
+        "role": "Writer"
+      },
+      {
+        "name": "Jim Taylor",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120689",
+    "film_title": "The Green Mile",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Darabont",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0140352",
+    "film_title": "The Insider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Roth",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Mann",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0134119",
+    "film_title": "The Talented Mr. Ripley",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Minghella",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alan Ball",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0120601",
+    "film_title": "Being John Malkovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charlie Kaufman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0175880",
+    "film_title": "Magnolia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Thomas Anderson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0167404",
+    "film_title": "The Sixth Sense",
+    "is_win": false,
+    "people": [
+      {
+        "name": "M. Night Shyamalan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0151568",
+    "film_title": "Topsy-Turvy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Leigh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Andrzej Wajda",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0247196",
+    "film_title": "Before Night Falls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Javier Bardem",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Russell Crowe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0162222",
+    "film_title": "Cast Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Hanks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0183659",
+    "film_title": "Pollock",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0180073",
+    "film_title": "Quills",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geoffrey Rush",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0208874",
+    "film_title": "The Contender",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0189998",
+    "film_title": "Shadow of the Vampire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Willem Dafoe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0181865",
+    "film_title": "Traffic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Benicio Del Toro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0195685",
+    "film_title": "Erin Brockovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Finney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joaquin Phoenix",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0208874",
+    "film_title": "The Contender",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Allen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0241303",
+    "film_title": "Chocolat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Juliette Binoche",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0180093",
+    "film_title": "Requiem for a Dream",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0203230",
+    "film_title": "You Can Count on Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laura Linney",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0195685",
+    "film_title": "Erin Brockovich",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julia Roberts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0241303",
+    "film_title": "Chocolat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judi Dench",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0183659",
+    "film_title": "Pollock",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marcia Gay Harden",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0181875",
+    "film_title": "Almost Famous",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Hudson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0181875",
+    "film_title": "Almost Famous",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances McDormand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0249462",
+    "film_title": "Billy Elliot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Walters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0249462",
+    "film_title": "Billy Elliot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen Daldry",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0190332",
+    "film_title": "Crouching Tiger, Hidden Dragon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ang Lee",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0195685",
+    "film_title": "Erin Brockovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Soderbergh",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ridley Scott",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0181865",
+    "film_title": "Traffic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steven Soderbergh",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0241303",
+    "film_title": "Chocolat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Brown",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kit Golden",
+        "role": "Honoree"
+      },
+      {
+        "name": "Leslie Holleran",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0190332",
+    "film_title": "Crouching Tiger, Hidden Dragon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Kong",
+        "role": "Honoree"
+      },
+      {
+        "name": "Hsu Li Kong",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ang Lee",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0195685",
+    "film_title": "Erin Brockovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Danny DeVito",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Shamberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Stacey Sher",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Douglas Wick",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Franzoni",
+        "role": "Honoree"
+      },
+      {
+        "name": "Branko Lustig",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0181865",
+    "film_title": "Traffic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Zwick",
+        "role": "Honoree"
+      },
+      {
+        "name": "Marshall Herskovitz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Laura Bickford",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0241303",
+    "film_title": "Chocolat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Nelson Jacobs",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0190332",
+    "film_title": "Crouching Tiger, Hidden Dragon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wang Hui Ling",
+        "role": "Writer"
+      },
+      {
+        "name": "James Schamus",
+        "role": "Writer"
+      },
+      {
+        "name": "Tsai Kuo Jung",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0190590",
+    "film_title": "O Brother, Where Art Thou?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0181865",
+    "film_title": "Traffic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Stephen Gaghan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0185014",
+    "film_title": "Wonder Boys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Kloves",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0181875",
+    "film_title": "Almost Famous",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cameron Crowe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0249462",
+    "film_title": "Billy Elliot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Hall",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0195685",
+    "film_title": "Erin Brockovich",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susannah Grant",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Franzoni",
+        "role": "Writer"
+      },
+      {
+        "name": "John Logan",
+        "role": "Writer"
+      },
+      {
+        "name": "William Nicholson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0203230",
+    "film_title": "You Can Count on Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Lonergan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Cardiff",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Russell Crowe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0277027",
+    "film_title": "I Am Sam",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sean Penn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0248667",
+    "film_title": "Ali",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Will Smith",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0139654",
+    "film_title": "Training Day",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0247425",
+    "film_title": "In the Bedroom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Wilkinson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0280778",
+    "film_title": "Iris",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jim Broadbent",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0139654",
+    "film_title": "Training Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethan Hawke",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0203119",
+    "film_title": "Sexy Beast",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Kingsley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0120737",
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian McKellen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0248667",
+    "film_title": "Ali",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jon Voight",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0285742",
+    "film_title": "Monster's Ball",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Halle Berry",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0280778",
+    "film_title": "Iris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judi Dench",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0203009",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicole Kidman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0247425",
+    "film_title": "In the Bedroom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0243155",
+    "film_title": "Bridget Jones's Diary",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Renée Zellweger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jennifer Connelly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0280707",
+    "film_title": "Gosford Park",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Mirren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0280707",
+    "film_title": "Gosford Park",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0247425",
+    "film_title": "In the Bedroom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marisa Tomei",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0280778",
+    "film_title": "Iris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Winslet",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0268397",
+    "film_title": "Jimmy Neutron: Boy Genius",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Oedekerk",
+        "role": "Honoree"
+      },
+      {
+        "name": "John A. Davis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0198781",
+    "film_title": "Monsters, Inc.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pete Docter",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Lasseter",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0126029",
+    "film_title": "Shrek",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Aron Warner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ron Howard",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0265086",
+    "film_title": "Black Hawk Down",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ridley Scott",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0280707",
+    "film_title": "Gosford Park",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120737",
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Jackson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0166924",
+    "film_title": "Mulholland Drive",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lynch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Brian Grazer",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ron Howard",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0280707",
+    "film_title": "Gosford Park",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bob Balaban",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Levy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0247425",
+    "film_title": "In the Bedroom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham Leader",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ross Katz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Todd Field",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120737",
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Jackson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fran Walsh",
+        "role": "Honoree"
+      },
+      {
+        "name": "Barrie M. Osborne",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0203009",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Brown",
+        "role": "Honoree"
+      },
+      {
+        "name": "Baz Luhrmann",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fred Baron",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Akiva Goldsman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0162346",
+    "film_title": "Ghost World",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Clowes",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Zwigoff",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0247425",
+    "film_title": "In the Bedroom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rob Festinger",
+        "role": "Writer"
+      },
+      {
+        "name": "Todd Field",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120737",
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fran Walsh",
+        "role": "Writer"
+      },
+      {
+        "name": "Philippa Boyens",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0126029",
+    "film_title": "Shrek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ted Elliott",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Rossio",
+        "role": "Writer"
+      },
+      {
+        "name": "Joe Stillman",
+        "role": "Writer"
+      },
+      {
+        "name": "Roger S.H. Schulman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0211915",
+    "film_title": "Amélie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Guillaume Laurant",
+        "role": "Writer"
+      },
+      {
+        "name": "Jean-Pierre Jeunet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0280707",
+    "film_title": "Gosford Park",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julian Fellowes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0209144",
+    "film_title": "Memento",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Nolan",
+        "role": "Writer"
+      },
+      {
+        "name": "Jonathan Nolan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0285742",
+    "film_title": "Monster's Ball",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Milo Addica",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Rokos",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0265666",
+    "film_title": "The Royal Tenenbaums",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Writer"
+      },
+      {
+        "name": "Owen Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sidney Poitier",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Redford",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0253474",
+    "film_title": "The Pianist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Adrien Brody",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0268126",
+    "film_title": "Adaptation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicolas Cage",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0258068",
+    "film_title": "The Quiet American",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0217505",
+    "film_title": "Gangs of New York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Day-Lewis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0257360",
+    "film_title": "About Schmidt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0268126",
+    "film_title": "Adaptation",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Chris Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0257044",
+    "film_title": "Road to Perdition",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John C. Reilly",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0264464",
+    "film_title": "Catch Me If You Can",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Walken",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0120679",
+    "film_title": "Frida",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Salma Hayek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Nicole Kidman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0250797",
+    "film_title": "Unfaithful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Lane",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0297884",
+    "film_title": "Far from Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julianne Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Renée Zellweger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0257360",
+    "film_title": "About Schmidt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kathy Bates",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julianne Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Queen Latifah",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0268126",
+    "film_title": "Adaptation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Catherine Zeta-Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0268380",
+    "film_title": "Ice Age",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Wedge",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0275847",
+    "film_title": "Lilo & Stitch",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Sanders",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0166813",
+    "film_title": "Spirit: Stallion of the Cimarron",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeffrey Katzenberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0245429",
+    "film_title": "Spirited Away",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hayao Miyazaki",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0133240",
+    "film_title": "Treasure Planet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ron Clements",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rob Marshall",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0217505",
+    "film_title": "Gangs of New York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen Daldry",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0253474",
+    "film_title": "The Pianist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Roman Polanski",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0287467",
+    "film_title": "Talk to Her",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pedro Almodóvar",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Martin Richards",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0217505",
+    "film_title": "Gangs of New York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alberto Grimaldi",
+        "role": "Honoree"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0167261",
+    "film_title": "The Lord of the Rings: The Two Towers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barrie M. Osborne",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fran Walsh",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0253474",
+    "film_title": "The Pianist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roman Polanski",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Benmussa",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alain Sarde",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0276751",
+    "film_title": "About a Boy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Hedges",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Weitz",
+        "role": "Writer"
+      },
+      {
+        "name": "Paul Weitz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0268126",
+    "film_title": "Adaptation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charlie Kaufman",
+        "role": "Writer"
+      },
+      {
+        "name": "Donald Kaufman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Condon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0274558",
+    "film_title": "The Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Hare",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0253474",
+    "film_title": "The Pianist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ronald Harwood",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0297884",
+    "film_title": "Far from Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Todd Haynes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0217505",
+    "film_title": "Gangs of New York",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jay Cocks",
+        "role": "Writer"
+      },
+      {
+        "name": "Steve Zaillian",
+        "role": "Writer"
+      },
+      {
+        "name": "Kenneth Lonergan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0259446",
+    "film_title": "My Big Fat Greek Wedding",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nia Vardalos",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0287467",
+    "film_title": "Talk to Her",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Pedro Almodóvar",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0245574",
+    "film_title": "Y Tu Mamá También",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carlos Cuarón",
+        "role": "Writer"
+      },
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0325980",
+    "film_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Johnny Depp",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0315983",
+    "film_title": "House of Sand and Fog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Kingsley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0159365",
+    "film_title": "Cold Mountain",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jude Law",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0335266",
+    "film_title": "Lost in Translation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Murray",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sean Penn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0318374",
+    "film_title": "The Cooler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alec Baldwin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0315733",
+    "film_title": "21 Grams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Benicio Del Toro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0298845",
+    "film_title": "In America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Djimon Hounsou",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tim Robbins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0325710",
+    "film_title": "The Last Samurai",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ken Watanabe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0298228",
+    "film_title": "Whale Rider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Keisha Castle-Hughes",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0337741",
+    "film_title": "Something's Gotta Give",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Keaton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0298845",
+    "film_title": "In America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samantha Morton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0340855",
+    "film_title": "Monster",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charlize Theron",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0315733",
+    "film_title": "21 Grams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Naomi Watts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0315983",
+    "film_title": "House of Sand and Fog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shohreh Aghdashloo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0311648",
+    "film_title": "Pieces of April",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Patricia Clarkson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marcia Gay Harden",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0328538",
+    "film_title": "Thirteen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Holly Hunter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0159365",
+    "film_title": "Cold Mountain",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Renée Zellweger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0328880",
+    "film_title": "Brother Bear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Aaron Blaise",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Walker",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0266543",
+    "film_title": "Finding Nemo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Andrew Stanton",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0286244",
+    "film_title": "The Triplets of Belleville",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvain Chomet",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0317248",
+    "film_title": "City of God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fernando Meirelles",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter Jackson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0335266",
+    "film_title": "Lost in Translation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sofia Coppola",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0311113",
+    "film_title": "Master and Commander: The Far Side of the World",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Weir",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clint Eastwood",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barrie M. Osborne",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fran Walsh",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0335266",
+    "film_title": "Lost in Translation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ross Katz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Sofia Coppola",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0311113",
+    "film_title": "Master and Commander: The Far Side of the World",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Jr.",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Weir",
+        "role": "Honoree"
+      },
+      {
+        "name": "Duncan Henderson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Lorenz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Judie G. Hoyt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Clint Eastwood",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0329575",
+    "film_title": "Seabiscuit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      },
+      {
+        "name": "Frank Marshall",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gary Ross",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0305206",
+    "film_title": "American Splendor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Pulcini",
+        "role": "Writer"
+      },
+      {
+        "name": "Shari Springer Berman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0317248",
+    "film_title": "City of God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Braulio Mantovani",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fran Walsh",
+        "role": "Writer"
+      },
+      {
+        "name": "Philippa Boyens",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0327056",
+    "film_title": "Mystic River",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brian Helgeland",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0329575",
+    "film_title": "Seabiscuit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Ross",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0338135",
+    "film_title": "The Barbarian Invasions",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denys Arcand",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0301199",
+    "film_title": "Dirty Pretty Things",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Knight",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0266543",
+    "film_title": "Finding Nemo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andrew Stanton",
+        "role": "Writer"
+      },
+      {
+        "name": "Bob Peterson",
+        "role": "Writer"
+      },
+      {
+        "name": "David Reynolds",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0298845",
+    "film_title": "In America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Sheridan",
+        "role": "Writer"
+      },
+      {
+        "name": "Naomi Sheridan",
+        "role": "Writer"
+      },
+      {
+        "name": "Kirsten Sheridan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0335266",
+    "film_title": "Lost in Translation",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sofia Coppola",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Blake Edwards",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

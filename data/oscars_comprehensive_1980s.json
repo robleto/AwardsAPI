@@ -1,0 +1,6525 @@
+[
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0078966",
+    "film_title": "The China Syndrome",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0078718",
+    "film_title": "...And Justice for All",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0078754",
+    "film_title": "All That Jazz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roy Scheider",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0078841",
+    "film_title": "Being There",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Sellers",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0078841",
+    "film_title": "Being There",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Melvyn Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0078788",
+    "film_title": "Apocalypse Now",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0079826",
+    "film_title": "The Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frederic Forrest",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Justin Henry",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0078872",
+    "film_title": "The Black Stallion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mickey Rooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0079948",
+    "film_title": "Starting Over",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jill Clayburgh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0079638",
+    "film_title": "Norma Rae",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sally Field",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0078966",
+    "film_title": "The China Syndrome",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0078952",
+    "film_title": "Chapter Two",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marsha Mason",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0079826",
+    "film_title": "The Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Midler",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Alexander",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0078902",
+    "film_title": "Breaking Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Barrie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0079948",
+    "film_title": "Starting Over",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Candice Bergen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0079522",
+    "film_title": "Manhattan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mariel Hemingway",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0078754",
+    "film_title": "All That Jazz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Fosse",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0078788",
+    "film_title": "Apocalypse Now",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Coppola",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0078902",
+    "film_title": "Breaking Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Yates",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077288",
+    "film_title": "La Cage aux Folles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edouard Molinaro",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0078754",
+    "film_title": "All That Jazz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Alan Aurthur",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0078788",
+    "film_title": "Apocalypse Now",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Coppola",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fred Roos",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gray Frederickson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Tom Sternberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0078902",
+    "film_title": "Breaking Away",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Yates",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Stanley R. Jaffe",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0079638",
+    "film_title": "Norma Rae",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tamara Asseyev",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alex Rose",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0078788",
+    "film_title": "Apocalypse Now",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Milius",
+        "role": "Writer"
+      },
+      {
+        "name": "Francis Coppola",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0079417",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0077288",
+    "film_title": "La Cage aux Folles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Veber",
+        "role": "Writer"
+      },
+      {
+        "name": "Edouard Molinaro",
+        "role": "Writer"
+      },
+      {
+        "name": "Marcello Danon",
+        "role": "Writer"
+      },
+      {
+        "name": "Jean Poiret",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0079477",
+    "film_title": "A Little Romance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Allan Burns",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0079638",
+    "film_title": "Norma Rae",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irving Ravetch",
+        "role": "Writer"
+      },
+      {
+        "name": "Harriet Frank Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0078754",
+    "film_title": "All That Jazz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Alan Aurthur",
+        "role": "Writer"
+      },
+      {
+        "name": "Bob Fosse",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0078718",
+    "film_title": "...And Justice for All",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Valerie Curtin",
+        "role": "Writer"
+      },
+      {
+        "name": "Barry Levinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0078902",
+    "film_title": "Breaking Away",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steve Tesich",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0078966",
+    "film_title": "The China Syndrome",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Gray",
+        "role": "Writer"
+      },
+      {
+        "name": "T.S. Cook",
+        "role": "Writer"
+      },
+      {
+        "name": "James Bridges",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0079522",
+    "film_title": "Manhattan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      },
+      {
+        "name": "Marshall Brickman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hal Elias",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0081398",
+    "film_title": "Raging Bull",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0079239",
+    "film_title": "The Great Santini",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0080678",
+    "film_title": "The Elephant Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Hurt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0081656",
+    "film_title": "Tribute",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0081568",
+    "film_title": "The Stunt Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judd Hirsch",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Timothy Hutton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0079239",
+    "film_title": "The Great Santini",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael O'Keefe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0081398",
+    "film_title": "Raging Bull",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joe Pesci",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0081150",
+    "film_title": "Melvin and Howard",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Robards",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0081414",
+    "film_title": "Resurrection",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0081375",
+    "film_title": "Private Benjamin",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Goldie Hawn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary Tyler Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0080798",
+    "film_title": "Gloria",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gena Rowlands",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0080549",
+    "film_title": "Coal Miner's Daughter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0081375",
+    "film_title": "Private Benjamin",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eileen Brennan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0081414",
+    "film_title": "Resurrection",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eva Le Gallienne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0081398",
+    "film_title": "Raging Bull",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cathy Moriarty",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0080928",
+    "film_title": "Inside Moves",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diana Scarwid",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0081150",
+    "film_title": "Melvin and Howard",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mary Steenburgen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0080678",
+    "film_title": "The Elephant Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lynch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Redford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0081398",
+    "film_title": "Raging Bull",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0081568",
+    "film_title": "The Stunt Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Rush",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0080009",
+    "film_title": "Tess",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roman Polanski",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080549",
+    "film_title": "Coal Miner's Daughter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernard Schwartz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080678",
+    "film_title": "The Elephant Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonathan Sanger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ronald L. Schwary",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0081398",
+    "film_title": "Raging Bull",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irwin Winkler",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Chartoff",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080009",
+    "film_title": "Tess",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Berri",
+        "role": "Honoree"
+      },
+      {
+        "name": "Timothy Burrill",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0080310",
+    "film_title": "Breaker Morant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonathan Hardy",
+        "role": "Writer"
+      },
+      {
+        "name": "David Stevens",
+        "role": "Writer"
+      },
+      {
+        "name": "Bruce Beresford",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0080549",
+    "film_title": "Coal Miner's Daughter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Rickman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0080678",
+    "film_title": "The Elephant Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher DeVore",
+        "role": "Writer"
+      },
+      {
+        "name": "Eric Bergren",
+        "role": "Writer"
+      },
+      {
+        "name": "David Lynch",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0081283",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alvin Sargent",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0081568",
+    "film_title": "The Stunt Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence B. Marcus",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard Rush",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0080474",
+    "film_title": "Brubaker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "W. D. Richter",
+        "role": "Writer"
+      },
+      {
+        "name": "Arthur Ross",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0080716",
+    "film_title": "Fame",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Gore",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0081150",
+    "film_title": "Melvin and Howard",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bo Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0081176",
+    "film_title": "Mon Oncle D'Amerique",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Gruault",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0081375",
+    "film_title": "Private Benjamin",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nancy Meyers",
+        "role": "Writer"
+      },
+      {
+        "name": "Charles Shyer",
+        "role": "Writer"
+      },
+      {
+        "name": "Harvey Miller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Henry Fonda",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Henry Fonda",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0080388",
+    "film_title": "Atlantic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Lancaster",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0082031",
+    "film_title": "Arthur",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dudley Moore",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0081974",
+    "film_title": "Absence of Malice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0082853",
+    "film_title": "Only When I Laugh",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Coco",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0082031",
+    "film_title": "Arthur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Gielgud",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0082158",
+    "film_title": "Chariots of Fire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian Holm",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0082970",
+    "film_title": "Ragtime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Howard E. Rollins Jr.",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Keaton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0082853",
+    "film_title": "Only When I Laugh",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marsha Mason",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0080388",
+    "film_title": "Atlantic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Sarandon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0082416",
+    "film_title": "The French Lieutenant's Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0081974",
+    "film_title": "Absence of Malice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melinda Dillon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0082853",
+    "film_title": "Only When I Laugh",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Hackett",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0082970",
+    "film_title": "Ragtime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elizabeth McGovern",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maureen Stapleton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0080388",
+    "film_title": "Atlantic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Louis Malle",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0082158",
+    "film_title": "Chariots of Fire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hugh Hudson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Rydell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0082971",
+    "film_title": "Raiders of the Lost Ark",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080388",
+    "film_title": "Atlantic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denis Heroux",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Kemeny",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082158",
+    "film_title": "Chariots of Fire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Puttnam",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Gilbert",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082971",
+    "film_title": "Raiders of the Lost Ark",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Marshall",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082416",
+    "film_title": "The French Lieutenant's Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harold Pinter",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082846",
+    "film_title": "On Golden Pond",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ernest Thompson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082894",
+    "film_title": "Pennies from Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dennis Potter",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082945",
+    "film_title": "Prince of the City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jay Presson Allen",
+        "role": "Writer"
+      },
+      {
+        "name": "Sidney Lumet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082970",
+    "film_title": "Ragtime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Weller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0081974",
+    "film_title": "Absence of Malice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kurt Luedtke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0082031",
+    "film_title": "Arthur",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Gordon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0080388",
+    "film_title": "Atlantic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Guare",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0082158",
+    "film_title": "Chariots of Fire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Colin Welland",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0082979",
+    "film_title": "Reds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Writer"
+      },
+      {
+        "name": "Trevor Griffiths",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barbara Stanwyck",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0083987",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ben Kingsley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0084335",
+    "film_title": "Missing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0084855",
+    "film_title": "The Verdict",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0084370",
+    "film_title": "My Favorite Year",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0083642",
+    "film_title": "The Best Little Whorehouse in Texas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Durning",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0084434",
+    "film_title": "An Officer and a Gentleman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Louis Gossett Jr.",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0084917",
+    "film_title": "The World According to Garp",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Lithgow",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0084855",
+    "film_title": "The Verdict",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Mason",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0084865",
+    "film_title": "Victor/Victoria",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Preston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0084865",
+    "film_title": "Victor/Victoria",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Andrews",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0083967",
+    "film_title": "Frances",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0084335",
+    "film_title": "Missing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0084707",
+    "film_title": "Sophie's Choice",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0084434",
+    "film_title": "An Officer and a Gentleman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Debra Winger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0084917",
+    "film_title": "The World According to Garp",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Teri Garr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0083967",
+    "film_title": "Frances",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kim Stanley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0084865",
+    "film_title": "Victor/Victoria",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lesley Ann Warren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0082096",
+    "film_title": "Das Boot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wolfgang Petersen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0083866",
+    "film_title": "E.T. The Extra-Terrestrial",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0083987",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard Attenborough",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sydney Pollack",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0084855",
+    "film_title": "The Verdict",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Lumet",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0083866",
+    "film_title": "E.T. The Extra-Terrestrial",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0083987",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard Attenborough",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0084335",
+    "film_title": "Missing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Lewis",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mildred Lewis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sydney Pollack",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dick Richards",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0084855",
+    "film_title": "The Verdict",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard D. Zanuck",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Brown",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0082096",
+    "film_title": "Das Boot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wolfgang Petersen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0084335",
+    "film_title": "Missing",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Costa-Gavras",
+        "role": "Writer"
+      },
+      {
+        "name": "Donald Stewart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0084707",
+    "film_title": "Sophie's Choice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan J. Pakula",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0084855",
+    "film_title": "The Verdict",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Mamet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0084865",
+    "film_title": "Victor/Victoria",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Blake Edwards",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0083833",
+    "film_title": "Diner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Levinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0083866",
+    "film_title": "E.T. The Extra-Terrestrial",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melissa Mathison",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0083987",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Briley",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0084434",
+    "film_title": "An Officer and a Gentleman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Douglas Day Stewart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0084805",
+    "film_title": "Tootsie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Larry Gelbart",
+        "role": "Writer"
+      },
+      {
+        "name": "Murray Schisgal",
+        "role": "Writer"
+      },
+      {
+        "name": "Don McGuire",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mickey Rooney",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0085478",
+    "film_title": "Educating Rita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0084591",
+    "film_title": "Reuben, Reuben",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Conti",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0085461",
+    "film_title": "The Dresser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Courtenay",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0086423",
+    "film_title": "Tender Mercies",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0085461",
+    "film_title": "The Dresser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Finney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0086450",
+    "film_title": "To Be or Not to Be",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Durning",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Lithgow",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0086197",
+    "film_title": "The Right Stuff",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Shepard",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0085380",
+    "film_title": "Cross Creek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rip Torn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0086429",
+    "film_title": "Testament",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Alexander",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Shirley MacLaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0086312",
+    "film_title": "Silkwood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0085478",
+    "film_title": "Educating Rita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Walters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Debra Winger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0086312",
+    "film_title": "Silkwood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cher",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0085244",
+    "film_title": "The Big Chill",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0086617",
+    "film_title": "The Year of Living Dangerously",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Linda Hunt",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0086619",
+    "film_title": "Yentl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Irving",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0085380",
+    "film_title": "Cross Creek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfre Woodard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0085461",
+    "film_title": "The Dresser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Yates",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0083922",
+    "film_title": "Fanny & Alexander",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0086312",
+    "film_title": "Silkwood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Nichols",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0086423",
+    "film_title": "Tender Mercies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Beresford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0085244",
+    "film_title": "The Big Chill",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Shamberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0085461",
+    "film_title": "The Dresser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Yates",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086197",
+    "film_title": "The Right Stuff",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irwin Winkler",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Chartoff",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086423",
+    "film_title": "Tender Mercies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip S. Hobel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0085234",
+    "film_title": "Betrayal",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harold Pinter",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0085461",
+    "film_title": "The Dresser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ronald Harwood",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0085478",
+    "film_title": "Educating Rita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Willy Russell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0084591",
+    "film_title": "Reuben, Reuben",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julius J. Epstein",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0086425",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0085244",
+    "film_title": "The Big Chill",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Kasdan",
+        "role": "Writer"
+      },
+      {
+        "name": "Barbara Benedek",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0083922",
+    "film_title": "Fanny & Alexander",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0086312",
+    "film_title": "Silkwood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nora Ephron",
+        "role": "Writer"
+      },
+      {
+        "name": "Alice Arlen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0086423",
+    "film_title": "Tender Mercies",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Horton Foote",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0086567",
+    "film_title": "WarGames",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Lasker",
+        "role": "Writer"
+      },
+      {
+        "name": "Walter F. Parkes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hal Roach",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      {
+        "name": "F. Murray Abraham",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0088172",
+    "film_title": "Starman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0088322",
+    "film_title": "Under the Volcano",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Finney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Hulce",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0087553",
+    "film_title": "The Killing Fields",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Waterston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0088146",
+    "film_title": "A Soldier's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adolph Caesar",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Malkovich",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0087538",
+    "film_title": "The Karate Kid",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Noriyuki 'Pat' Morita",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0087553",
+    "film_title": "The Killing Fields",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Haing S. Ngor",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0087365",
+    "film_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Richardson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0087892",
+    "film_title": "A Passage to India",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judy Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sally Field",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0087091",
+    "film_title": "Country",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0086992",
+    "film_title": "The Bostonians",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0088007",
+    "film_title": "The River",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0087892",
+    "film_title": "A Passage to India",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peggy Ashcroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0087781",
+    "film_title": "The Natural",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lindsay Crouse",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0088213",
+    "film_title": "Swing Shift",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christine Lahti",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0087932",
+    "film_title": "The Pope of Greenwich Village",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Milos Forman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0087003",
+    "film_title": "Broadway Danny Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0087553",
+    "film_title": "The Killing Fields",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roland Joffé",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0087892",
+    "film_title": "A Passage to India",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Saul Zaentz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0087553",
+    "film_title": "The Killing Fields",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Puttnam",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0087892",
+    "film_title": "A Passage to India",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Brabourne",
+        "role": "Honoree"
+      },
+      {
+        "name": "Richard Goodwin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arlene Donovan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0088146",
+    "film_title": "A Soldier's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ronald L. Schwary",
+        "role": "Honoree"
+      },
+      {
+        "name": "Patrick Palmer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter Shaffer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0087365",
+    "film_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "P.H. Vazak",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Austin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0087553",
+    "film_title": "The Killing Fields",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Robinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0087892",
+    "film_title": "A Passage to India",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0088146",
+    "film_title": "A Soldier's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Fuller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0086960",
+    "film_title": "Beverly Hills Cop",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Petrie Jr.",
+        "role": "Writer"
+      },
+      {
+        "name": "Danilo Bach",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0087003",
+    "film_title": "Broadway Danny Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0085482",
+    "film_title": "El Norte",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory Nava",
+        "role": "Writer"
+      },
+      {
+        "name": "Anna Thomas",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0087921",
+    "film_title": "Places in the Heart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0088161",
+    "film_title": "Splash",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lowell Ganz",
+        "role": "Writer"
+      },
+      {
+        "name": "Babaloo Mandel",
+        "role": "Writer"
+      },
+      {
+        "name": "Bruce Jay Friedman",
+        "role": "Writer"
+      },
+      {
+        "name": "Brian Grazer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "the National Endowment for the Arts",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0090329",
+    "film_title": "Witness",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harrison Ford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0089643",
+    "film_title": "Murphy's Romance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Garner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0089424",
+    "film_title": "Kiss of the Spider Woman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Hurt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0089941",
+    "film_title": "Runaway Train",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jon Voight",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0088933",
+    "film_title": "Cocoon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Don Ameche",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0089755",
+    "film_title": "Out of Africa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Klaus Maria Brandauer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Hickey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0089360",
+    "film_title": "Jagged Edge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Loggia",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0089941",
+    "film_title": "Runaway Train",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Roberts",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0088683",
+    "film_title": "Agnes of God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Bancroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0088939",
+    "film_title": "The Color Purple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Whoopi Goldberg",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0090110",
+    "film_title": "Sweet Dreams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0090203",
+    "film_title": "The Trip to Bountiful",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0089755",
+    "film_title": "Out of Africa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0088939",
+    "film_title": "The Color Purple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margaret Avery",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anjelica Huston",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0090223",
+    "film_title": "Twice in a Lifetime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Madigan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0088683",
+    "film_title": "Agnes of God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meg Tilly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0088939",
+    "film_title": "The Color Purple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oprah Winfrey",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089424",
+    "film_title": "Kiss of the Spider Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hector Babenco",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089755",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sydney Pollack",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089881",
+    "film_title": "Ran",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Akira Kurosawa",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0090329",
+    "film_title": "Witness",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Weir",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0088939",
+    "film_title": "The Color Purple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      },
+      {
+        "name": "Frank Marshall",
+        "role": "Honoree"
+      },
+      {
+        "name": "Quincy Jones",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0089424",
+    "film_title": "Kiss of the Spider Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Weisman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0089755",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sydney Pollack",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Foreman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0090329",
+    "film_title": "Witness",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward S. Feldman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0088939",
+    "film_title": "The Color Purple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Menno Meyjes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0089424",
+    "film_title": "Kiss of the Spider Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leonard Schrader",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0089755",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kurt Luedtke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0089841",
+    "film_title": "Prizzi's Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Condon",
+        "role": "Writer"
+      },
+      {
+        "name": "Janet Roach",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0090203",
+    "film_title": "The Trip to Bountiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Horton Foote",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0088763",
+    "film_title": "Back to the Future",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Zemeckis",
+        "role": "Writer"
+      },
+      {
+        "name": "Bob Gale",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0088846",
+    "film_title": "Brazil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terry Gilliam",
+        "role": "Writer"
+      },
+      {
+        "name": "Tom Stoppard",
+        "role": "Writer"
+      },
+      {
+        "name": "Charles McKeown",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0089276",
+    "film_title": "The Official Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Luis Puenzo",
+        "role": "Writer"
+      },
+      {
+        "name": "Aida Bortnik",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0089853",
+    "film_title": "The Purple Rose of Cairo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0090329",
+    "film_title": "Witness",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Earl W. Wallace",
+        "role": "Writer"
+      },
+      {
+        "name": "William Kelley",
+        "role": "Writer"
+      },
+      {
+        "name": "Pamela Wallace",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alex North",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0090557",
+    "film_title": "'Round Midnight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dexter Gordon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0091538",
+    "film_title": "Mona Lisa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Hoskins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0090830",
+    "film_title": "Children of a Lesser God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Hurt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0090863",
+    "film_title": "The Color of Money",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0091886",
+    "film_title": "Salvador",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Woods",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Berenger",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0091167",
+    "film_title": "Hannah and Her Sisters",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Willem Dafoe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0091867",
+    "film_title": "A Room with a View",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denholm Elliott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0091217",
+    "film_title": "Hoosiers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dennis Hopper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0091554",
+    "film_title": "The Morning After",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0090830",
+    "film_title": "Children of a Lesser God",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marlee Matlin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0090886",
+    "film_title": "Crimes of the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0091738",
+    "film_title": "Peggy Sue Got Married",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kathleen Turner",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0090605",
+    "film_title": "Aliens",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sigourney Weaver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0090886",
+    "film_title": "Crimes of the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tess Harper",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0090830",
+    "film_title": "Children of a Lesser God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Piper Laurie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0090863",
+    "film_title": "The Color of Money",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary Elizabeth Mastrantonio",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0091867",
+    "film_title": "A Room with a View",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0091167",
+    "film_title": "Hannah and Her Sisters",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dianne Wiest",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0090756",
+    "film_title": "Blue Velvet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lynch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091167",
+    "film_title": "Hannah and Her Sisters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091530",
+    "film_title": "The Mission",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roland Joffé",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091867",
+    "film_title": "A Room with a View",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Ivory",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0090830",
+    "film_title": "Children of a Lesser God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Sugarman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Patrick Palmer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091167",
+    "film_title": "Hannah and Her Sisters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Greenhut",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091530",
+    "film_title": "The Mission",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fernando Ghia",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Puttnam",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Arnold Kopelson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091867",
+    "film_title": "A Room with a View",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ismail Merchant",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0090830",
+    "film_title": "Children of a Lesser God",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hesper Anderson",
+        "role": "Writer"
+      },
+      {
+        "name": "Mark Medoff",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0090863",
+    "film_title": "The Color of Money",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Price",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0090886",
+    "film_title": "Crimes of the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Beth Henley",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0091867",
+    "film_title": "A Room with a View",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ruth Prawer Jhabvala",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0092005",
+    "film_title": "Stand by Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Raynold Gideon",
+        "role": "Writer"
+      },
+      {
+        "name": "Bruce A. Evans",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0090555",
+    "film_title": "'Crocodile' Dundee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Hogan",
+        "role": "Writer"
+      },
+      {
+        "name": "Ken Shadie",
+        "role": "Writer"
+      },
+      {
+        "name": "John Cornell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0091167",
+    "film_title": "Hannah and Her Sisters",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0091578",
+    "film_title": "My Beautiful Laundrette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hanif Kureishi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0091886",
+    "film_title": "Salvador",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard Boyle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ralph Bellamy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0094291",
+    "film_title": "Wall Street",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0092699",
+    "film_title": "Broadcast News",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Hurt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0093664",
+    "film_title": "Dark Eyes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marcello Mastroianni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0093277",
+    "film_title": "Ironweed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0093105",
+    "film_title": "Good Morning, Vietnam",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robin Williams",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0092699",
+    "film_title": "Broadcast News",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Brooks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0094226",
+    "film_title": "The Untouchables",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sean Connery",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0094056",
+    "film_title": "Street Smart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morgan Freeman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vincent Gardenia",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0092804",
+    "film_title": "Cry Freedom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cher",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0093010",
+    "film_title": "Fatal Attraction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0092699",
+    "film_title": "Broadcast News",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Holly Hunter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0092569",
+    "film_title": "Anna",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sally Kirkland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0093277",
+    "film_title": "Ironweed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0093067",
+    "film_title": "Gaby - A True Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Aleandro",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0093010",
+    "film_title": "Fatal Attraction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Archer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Olympia Dukakis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0094142",
+    "film_title": "Throw Momma from the Train",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Ramsey",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0094315",
+    "film_title": "The Whales of August",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ann Sothern",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0093010",
+    "film_title": "Fatal Attraction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adrian Lyne",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0093209",
+    "film_title": "Hope and Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Boorman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0093389",
+    "film_title": "The Last Emperor",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bernardo Bertolucci",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089606",
+    "film_title": "My Life as a Dog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lasse Hallström",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0092699",
+    "film_title": "Broadcast News",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0093010",
+    "film_title": "Fatal Attraction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley R. Jaffe",
+        "role": "Honoree"
+      },
+      {
+        "name": "Sherry Lansing",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0093209",
+    "film_title": "Hope and Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Boorman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0093389",
+    "film_title": "The Last Emperor",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jeremy Thomas",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Patrick Palmer",
+        "role": "Honoree"
+      },
+      {
+        "name": "Norman Jewison",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0092843",
+    "film_title": "The Dead",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tony Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0093010",
+    "film_title": "Fatal Attraction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Dearden",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0093058",
+    "film_title": "Full Metal Jacket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Herr",
+        "role": "Writer"
+      },
+      {
+        "name": "Gustav Hasford",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0093389",
+    "film_title": "The Last Emperor",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mark Peploe",
+        "role": "Writer"
+      },
+      {
+        "name": "Bernardo Bertolucci",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0089606",
+    "film_title": "My Life as a Dog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lasse Hallström",
+        "role": "Writer"
+      },
+      {
+        "name": "Reidar Jönsson",
+        "role": "Writer"
+      },
+      {
+        "name": "Brasse Brännström",
+        "role": "Writer"
+      },
+      {
+        "name": "Per Berglund",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0092593",
+    "film_title": "Au Revoir Les Enfants (Goodbye, Children)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Louis Malle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0092699",
+    "film_title": "Broadcast News",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0093209",
+    "film_title": "Hope and Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Boorman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0093565",
+    "film_title": "Moonstruck",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Patrick Shanley",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0093818",
+    "film_title": "Radio Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0095647",
+    "film_title": "Mississippi Burning",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Hackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0094737",
+    "film_title": "Big",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Hanks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0094027",
+    "film_title": "Stand and Deliver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward James Olmos",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0093713",
+    "film_title": "Pelle the Conqueror",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Max von Sydow",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0095530",
+    "film_title": "Little Dorrit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0095159",
+    "film_title": "A Fish Called Wanda",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kevin Kline",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0096316",
+    "film_title": "Tucker The Man and His Dream",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Landau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0096018",
+    "film_title": "Running on Empty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "River Phoenix",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0095593",
+    "film_title": "Married to the Mob",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dean Stockwell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0094947",
+    "film_title": "Dangerous Liaisons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0094608",
+    "film_title": "The Accused",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jodie Foster",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0096463",
+    "film_title": "Working Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melanie Griffith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0094924",
+    "film_title": "A Cry in the Dark",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0095243",
+    "film_title": "Gorillas in the Mist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sigourney Weaver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0096463",
+    "film_title": "Working Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Cusack",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0094606",
+    "film_title": "The Accidental Tourist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Geena Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0095647",
+    "film_title": "Mississippi Burning",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances McDormand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0094947",
+    "film_title": "Dangerous Liaisons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Pfeiffer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0096463",
+    "film_title": "Working Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sigourney Weaver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0095159",
+    "film_title": "A Fish Called Wanda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Crichton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0095497",
+    "film_title": "The Last Temptation of Christ",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0095647",
+    "film_title": "Mississippi Burning",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Parker",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barry Levinson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0096463",
+    "film_title": "Working Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Nichols",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0094606",
+    "film_title": "The Accidental Tourist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Kasdan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Charles Okun",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Grillo",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0094947",
+    "film_title": "Dangerous Liaisons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Heyman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Hank Moonjean",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0095647",
+    "film_title": "Mississippi Burning",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frederick Zollo",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert F. Colesberry",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mark Johnson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0096463",
+    "film_title": "Working Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Douglas Wick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0094606",
+    "film_title": "The Accidental Tourist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Galati",
+        "role": "Writer"
+      },
+      {
+        "name": "Lawrence Kasdan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0094947",
+    "film_title": "Dangerous Liaisons",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christopher Hampton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0095243",
+    "film_title": "Gorillas in the Mist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anna Hamilton Phelan",
+        "role": "Writer"
+      },
+      {
+        "name": "Tab Murphy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0095530",
+    "film_title": "Little Dorrit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christine Edzard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0096332",
+    "film_title": "The Unbearable Lightness of Being",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean-Claude Carrière",
+        "role": "Writer"
+      },
+      {
+        "name": "Philip Kaufman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0094737",
+    "film_title": "Big",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Ross",
+        "role": "Writer"
+      },
+      {
+        "name": "Anne Spielberg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0094812",
+    "film_title": "Bull Durham",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ron Shelton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0095159",
+    "film_title": "A Fish Called Wanda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Cleese",
+        "role": "Writer"
+      },
+      {
+        "name": "Charles Crichton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ronald Bass",
+        "role": "Writer"
+      },
+      {
+        "name": "Barry Morrow",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0096018",
+    "film_title": "Running on Empty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Naomi Foner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "The National Film Board of Canada",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eastman Kodak Company",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

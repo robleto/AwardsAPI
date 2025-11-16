@@ -1,0 +1,537 @@
+[
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10272386",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2582802",
+    "film_title": "The Father",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10838180",
+    "film_title": "The Trial of the Chicago 7",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10633456",
+    "film_title": "Promising Young Woman",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt10272386",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Chloé Zhao", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": [
+      { "name": "Lee Isaac Chung", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt10633456",
+    "film_title": "Promising Young Woman",
+    "is_win": false,
+    "people": [
+      { "name": "Emerald Fennell", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2582802",
+    "film_title": "The Father",
+    "is_win": false,
+    "people": [
+      { "name": "Florian Zeller", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4016934",
+    "film_title": "Another Round",
+    "is_win": false,
+    "people": [
+      { "name": "Thomas Vinterberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2582802",
+    "film_title": "The Father",
+    "is_win": true,
+    "people": [
+      { "name": "Anthony Hopkins", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt7146812",
+    "film_title": "Ma Rainey's Black Bottom",
+    "is_win": false,
+    "people": [
+      { "name": "Chadwick Boseman", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt9032400",
+    "film_title": "One Night in Miami",
+    "is_win": false,
+    "people": [
+      { "name": "Riz Ahmed", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": [
+      { "name": "Steven Yeun", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4016934",
+    "film_title": "Another Round",
+    "is_win": false,
+    "people": [
+      { "name": "Mads Mikkelsen", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt10272386",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Frances McDormand", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt7975244",
+    "film_title": "Pieces of a Woman",
+    "is_win": false,
+    "people": [
+      { "name": "Vanessa Kirby", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt7146812",
+    "film_title": "Ma Rainey's Black Bottom",
+    "is_win": false,
+    "people": [
+      { "name": "Viola Davis", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt10633456",
+    "film_title": "Promising Young Woman",
+    "is_win": false,
+    "people": [
+      { "name": "Carey Mulligan", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5013056",
+    "film_title": "The United States vs. Billie Holiday",
+    "is_win": false,
+    "people": [
+      { "name": "Andra Day", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6878306",
+    "film_title": "Judas and the Black Messiah",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kaluuya", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6878306",
+    "film_title": "Judas and the Black Messiah",
+    "is_win": false,
+    "people": [
+      { "name": "LaKeith Stanfield", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10838180",
+    "film_title": "The Trial of the Chicago 7",
+    "is_win": false,
+    "people": [
+      { "name": "Sacha Baron Cohen", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt9032400",
+    "film_title": "Sound of Metal",
+    "is_win": false,
+    "people": [
+      { "name": "Paul Raci", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": [
+      { "name": "Leslie Odom Jr.", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": true,
+    "people": [
+      { "name": "Youn Yuh-jung", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt9419884",
+    "film_title": "Hillbilly Elegy",
+    "is_win": false,
+    "people": [
+      { "name": "Glenn Close", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7146812",
+    "film_title": "Ma Rainey's Black Bottom",
+    "is_win": false,
+    "people": [
+      { "name": "Olivia Colman", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt9419884",
+    "film_title": "Hillbilly Elegy",
+    "is_win": false,
+    "people": [
+      { "name": "Amanda Seyfried", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": [
+      { "name": "Maria Bakalova", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt10633456",
+    "film_title": "Promising Young Woman",
+    "is_win": true,
+    "people": [
+      { "name": "Emerald Fennell", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt7131622",
+    "film_title": "Minari",
+    "is_win": false,
+    "people": [
+      { "name": "Lee Isaac Chung", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6878306",
+    "film_title": "Judas and the Black Messiah",
+    "is_win": false,
+    "people": [
+      { "name": "Shaka King", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt9032400",
+    "film_title": "Sound of Metal",
+    "is_win": false,
+    "people": [
+      { "name": "Darius Marder", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt10838180",
+    "film_title": "The Trial of the Chicago 7",
+    "is_win": false,
+    "people": [
+      { "name": "Aaron Sorkin", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2582802",
+    "film_title": "The Father",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Hampton", "role": "Writer" },
+      { "name": "Florian Zeller", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt10272386",
+    "film_title": "Nomadland",
+    "is_win": false,
+    "people": [
+      { "name": "Chloé Zhao", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt9032400",
+    "film_title": "One Night in Miami",
+    "is_win": false,
+    "people": [
+      { "name": "Kemp Powers", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6398046",
+    "film_title": "Borat Subsequent Moviefilm",
+    "is_win": false,
+    "people": [
+      { "name": "Sacha Baron Cohen", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt8503618",
+    "film_title": "The White Tiger",
+    "is_win": false,
+    "people": [
+      { "name": "Ramin Bahrani", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt7146812",
+    "film_title": "Soul",
+    "is_win": true,
+    "people": [
+      { "name": "Pete Docter", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2948356",
+    "film_title": "Onward",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt8633464",
+    "film_title": "Over the Moon",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt5113044",
+    "film_title": "A Shaun the Sheep Movie: Farmageddon",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt11347462",
+    "film_title": "Wolfwalkers",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Tyler Perry", "role": "Honoree" }
+    ]
+  }
+]

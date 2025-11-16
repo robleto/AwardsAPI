@@ -1,0 +1,148 @@
+[
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Jackson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Jackson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      { "name": "James Cameron", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      { "name": "James Cameron", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0116231",
+    "film_title": "The English Patient",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0116209",
+    "film_title": "Fargo",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": true,
+    "people": [
+      { "name": "Clint Eastwood", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": true,
+    "people": [
+      { "name": "Clint Eastwood", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0097165",
+    "film_title": "Driving Miss Daisy",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      { "name": "Barry Levinson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      { "name": "Dustin Hoffman", "role": "Actor" }
+    ]
+  }
+]

@@ -1,0 +1,4536 @@
+[
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1100089",
+    "film_title": "Foxcatcher",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Carell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2179136",
+    "film_title": "American Sniper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bradley Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2084970",
+    "film_title": "The Imitation Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Benedict Cumberbatch",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Keaton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2980516",
+    "film_title": "The Theory of Everything",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eddie Redmayne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1872194",
+    "film_title": "The Judge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1065073",
+    "film_title": "Boyhood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethan Hawke",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Norton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1100089",
+    "film_title": "Foxcatcher",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Ruffalo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2582802",
+    "film_title": "Whiplash",
+    "is_win": true,
+    "people": [
+      {
+        "name": "J.K. Simmons",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2737050",
+    "film_title": "Two Days, One Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marion Cotillard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2980516",
+    "film_title": "The Theory of Everything",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Felicity Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3316960",
+    "film_title": "Still Alice",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julianne Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2267998",
+    "film_title": "Gone Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosamund Pike",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2305051",
+    "film_title": "Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Reese Witherspoon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1065073",
+    "film_title": "Boyhood",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Patricia Arquette",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2305051",
+    "film_title": "Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laura Dern",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2084970",
+    "film_title": "The Imitation Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Keira Knightley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Stone",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2180411",
+    "film_title": "Into the Woods",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2245084",
+    "film_title": "Big Hero 6",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Don Hall",
+        "role": "Honoree"
+      },
+      {
+        "name": "Chris Williams",
+        "role": "Honoree"
+      },
+      {
+        "name": "Roy Conli",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0787474",
+    "film_title": "The Boxtrolls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Stacchi",
+        "role": "Honoree"
+      },
+      {
+        "name": "Graham Annable",
+        "role": "Honoree"
+      },
+      {
+        "name": "Travis Knight",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1646971",
+    "film_title": "How to Train Your Dragon 2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dean DeBlois",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bonnie Arnold",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1865505",
+    "film_title": "Song of the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tomm Moore",
+        "role": "Honoree"
+      },
+      {
+        "name": "Paul Young",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2576852",
+    "film_title": "The Tale of the Princess Kaguya",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Isao Takahata",
+        "role": "Honoree"
+      },
+      {
+        "name": "Yoshiaki Nishimura",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alejandro G. Iñárritu",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1065073",
+    "film_title": "Boyhood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Linklater",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1100089",
+    "film_title": "Foxcatcher",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bennett Miller",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2278388",
+    "film_title": "The Grand Budapest Hotel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2084970",
+    "film_title": "The Imitation Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morten Tyldum",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2179136",
+    "film_title": "American Sniper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clint Eastwood",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Lorenz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Andrew Lazar",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bradley Cooper",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Morgan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alejandro G. Iñárritu",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Lesher",
+        "role": "Honoree"
+      },
+      {
+        "name": "James W. Skotchdopole",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1065073",
+    "film_title": "Boyhood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Linklater",
+        "role": "Honoree"
+      },
+      {
+        "name": "Cathleen Sutherland",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2278388",
+    "film_title": "The Grand Budapest Hotel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steven Rales",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Dawson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2084970",
+    "film_title": "The Imitation Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nora Grossman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ido Ostrowsky",
+        "role": "Honoree"
+      },
+      {
+        "name": "Teddy Schwarzman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1020072",
+    "film_title": "Selma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christian Colson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Oprah Winfrey",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2980516",
+    "film_title": "The Theory of Everything",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Bevan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Eric Fellner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lisa Bruce",
+        "role": "Honoree"
+      },
+      {
+        "name": "Anthony McCarten",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2582802",
+    "film_title": "Whiplash",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Blum",
+        "role": "Honoree"
+      },
+      {
+        "name": "Helen Estabrook",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Lancaster",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2179136",
+    "film_title": "American Sniper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Hall",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2084970",
+    "film_title": "The Imitation Game",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Graham Moore",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1791528",
+    "film_title": "Inherent Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Thomas Anderson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2980516",
+    "film_title": "The Theory of Everything",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony McCarten",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2582802",
+    "film_title": "Whiplash",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Damien Chazelle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alejandro G. Iñárritu",
+        "role": "Writer"
+      },
+      {
+        "name": "Nicolás Giacobone",
+        "role": "Writer"
+      },
+      {
+        "name": "Alexander Dinelaris Jr.",
+        "role": "Writer"
+      },
+      {
+        "name": "Armando Bo",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1065073",
+    "film_title": "Boyhood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Linklater",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1100089",
+    "film_title": "Foxcatcher",
+    "is_win": false,
+    "people": [
+      {
+        "name": "E. Max Frye",
+        "role": "Writer"
+      },
+      {
+        "name": "Dan Futterman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2278388",
+    "film_title": "The Grand Budapest Hotel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Writer"
+      },
+      {
+        "name": "Hugo Guinness",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2872718",
+    "film_title": "Nightcrawler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dan Gilroy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jean-Claude Carrière",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hayao Miyazaki",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maureen O'Hara",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt3203606",
+    "film_title": "Trumbo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bryan Cranston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt3659388",
+    "film_title": "The Martian",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Matt Damon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2080374",
+    "film_title": "Steve Jobs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Fassbender",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0810819",
+    "film_title": "The Danish Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eddie Redmayne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1596363",
+    "film_title": "The Big Short",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christian Bale",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Hardy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1895587",
+    "film_title": "Spotlight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Ruffalo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt3682448",
+    "film_title": "Bridge of Spies",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mark Rylance",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt3076658",
+    "film_title": "Creed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvester Stallone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2402927",
+    "film_title": "Carol",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cate Blanchett",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3170832",
+    "film_title": "Room",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Brie Larson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2446980",
+    "film_title": "Joy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Lawrence",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3544082",
+    "film_title": "45 Years",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charlotte Rampling",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2381111",
+    "film_title": "Brooklyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Saoirse Ronan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt3460252",
+    "film_title": "The Hateful Eight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Jason Leigh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2402927",
+    "film_title": "Carol",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rooney Mara",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1895587",
+    "film_title": "Spotlight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rachel McAdams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0810819",
+    "film_title": "The Danish Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alicia Vikander",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2080374",
+    "film_title": "Steve Jobs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Winslet",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2401878",
+    "film_title": "Anomalisa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charlie Kaufman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Duke Johnson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rosa Tran",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3183630",
+    "film_title": "Boy and the World",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alê Abreu",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2096673",
+    "film_title": "Inside Out",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Pete Docter",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jonas Rivera",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2872750",
+    "film_title": "Shaun the Sheep Movie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Burton",
+        "role": "Honoree"
+      },
+      {
+        "name": "Richard Starzak",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3398268",
+    "film_title": "When Marnie Was There",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hiromasa Yonebayashi",
+        "role": "Honoree"
+      },
+      {
+        "name": "Yoshiaki Nishimura",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1596363",
+    "film_title": "The Big Short",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adam McKay",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1392190",
+    "film_title": "Mad Max: Fury Road",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Miller",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alejandro G. Iñárritu",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt3170832",
+    "film_title": "Room",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lenny Abrahamson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1895587",
+    "film_title": "Spotlight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom McCarthy",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1596363",
+    "film_title": "The Big Short",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brad Pitt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3682448",
+    "film_title": "Bridge of Spies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Marc Platt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kristie Macosko Krieger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2381111",
+    "film_title": "Brooklyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Finola Dwyer",
+        "role": "Honoree"
+      },
+      {
+        "name": "Amanda Posey",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1392190",
+    "film_title": "Mad Max: Fury Road",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Doug Mitchell",
+        "role": "Honoree"
+      },
+      {
+        "name": "George Miller",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3659388",
+    "film_title": "The Martian",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Simon Kinberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ridley Scott",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Schaefer",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mark Huffam",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arnon Milchan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve Golin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alejandro G. Iñárritu",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mary Parent",
+        "role": "Honoree"
+      },
+      {
+        "name": "Keith Redmon",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3170832",
+    "film_title": "Room",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Guiney",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1895587",
+    "film_title": "Spotlight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Sugar",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve Golin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Nicole Rocklin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Blye Pagon Faust",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1596363",
+    "film_title": "The Big Short",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Randolph",
+        "role": "Writer"
+      },
+      {
+        "name": "Adam McKay",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2381111",
+    "film_title": "Brooklyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Hornby",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2402927",
+    "film_title": "Carol",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Phyllis Nagy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt3659388",
+    "film_title": "The Martian",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Drew Goddard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt3170832",
+    "film_title": "Room",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Donoghue",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt3682448",
+    "film_title": "Bridge of Spies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Matt Charman",
+        "role": "Writer"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0470752",
+    "film_title": "Ex Machina",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alex Garland",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2096673",
+    "film_title": "Inside Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pete Docter",
+        "role": "Writer"
+      },
+      {
+        "name": "Meg LeFauve",
+        "role": "Writer"
+      },
+      {
+        "name": "Josh Cooley",
+        "role": "Writer"
+      },
+      {
+        "name": "Ronnie del Carmen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1895587",
+    "film_title": "Spotlight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Josh Singer",
+        "role": "Writer"
+      },
+      {
+        "name": "Tom McCarthy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1398426",
+    "film_title": "Straight Outta Compton",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonathan Herman",
+        "role": "Writer"
+      },
+      {
+        "name": "Andrea Berloff",
+        "role": "Writer"
+      },
+      {
+        "name": "S. Leigh Savidge",
+        "role": "Writer"
+      },
+      {
+        "name": "Alan Wenkus",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Spike Lee",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gena Rowlands",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Casey Affleck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2119532",
+    "film_title": "Hacksaw Ridge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andrew Garfield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ryan Gosling",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt3553976",
+    "film_title": "Captain Fantastic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Viggo Mortensen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2671706",
+    "film_title": "Fences",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt4975722",
+    "film_title": "Moonlight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mahershala Ali",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2582782",
+    "film_title": "Hell or High Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lucas Hedges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt3741834",
+    "film_title": "Lion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dev Patel",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt4550098",
+    "film_title": "Nocturnal Animals",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Shannon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3716530",
+    "film_title": "Elle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Isabelle Huppert",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4669986",
+    "film_title": "Loving",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Negga",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1619029",
+    "film_title": "Jackie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Natalie Portman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Emma Stone",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4136084",
+    "film_title": "Florence Foster Jenkins",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2671706",
+    "film_title": "Fences",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Viola Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4975722",
+    "film_title": "Moonlight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Naomie Harris",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt3741834",
+    "film_title": "Lion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicole Kidman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4846340",
+    "film_title": "Hidden Figures",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Octavia Spencer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Williams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt4302938",
+    "film_title": "Kubo and the Two Strings",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Travis Knight",
+        "role": "Honoree"
+      },
+      {
+        "name": "Arianne Sutner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3521164",
+    "film_title": "Moana",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Musker",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ron Clements",
+        "role": "Honoree"
+      },
+      {
+        "name": "Osnat Shurer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2321405",
+    "film_title": "My Life as a Zucchini",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Barras",
+        "role": "Honoree"
+      },
+      {
+        "name": "Max Karli",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3666024",
+    "film_title": "The Red Turtle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Dudok de Wit",
+        "role": "Honoree"
+      },
+      {
+        "name": "Toshio Suzuki",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2948356",
+    "film_title": "Zootopia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Byron Howard",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rich Moore",
+        "role": "Honoree"
+      },
+      {
+        "name": "Clark Spencer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2543164",
+    "film_title": "Arrival",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denis Villeneuve",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2119532",
+    "film_title": "Hacksaw Ridge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mel Gibson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Damien Chazelle",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Lonergan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4975722",
+    "film_title": "Moonlight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Jenkins",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2543164",
+    "film_title": "Arrival",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shawn Levy",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dan Levine",
+        "role": "Honoree"
+      },
+      {
+        "name": "Aaron Ryder",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Linde",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2671706",
+    "film_title": "Fences",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Denzel Washington",
+        "role": "Honoree"
+      },
+      {
+        "name": "Todd Black",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2119532",
+    "film_title": "Hacksaw Ridge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Mechanic",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Permut",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2582782",
+    "film_title": "Hell or High Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carla Hacken",
+        "role": "Honoree"
+      },
+      {
+        "name": "Julie Yorn",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4846340",
+    "film_title": "Hidden Figures",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Donna Gigliotti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Chernin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jenno Topping",
+        "role": "Honoree"
+      },
+      {
+        "name": "Pharrell Williams",
+        "role": "Honoree"
+      },
+      {
+        "name": "Theodore Melfi",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Berger",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jordan Horowitz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Marc Platt",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3741834",
+    "film_title": "Lion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emile Sherman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Iain Canning",
+        "role": "Honoree"
+      },
+      {
+        "name": "Angie Fielder",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Matt Damon",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kimberly Steward",
+        "role": "Honoree"
+      },
+      {
+        "name": "Chris Moore",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lauren Beck",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kevin J. Walsh",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4975722",
+    "film_title": "Moonlight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Adele Romanski",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2543164",
+    "film_title": "Arrival",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Heisserer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2671706",
+    "film_title": "Fences",
+    "is_win": false,
+    "people": [
+      {
+        "name": "August Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4846340",
+    "film_title": "Hidden Figures",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Allison Schroeder",
+        "role": "Writer"
+      },
+      {
+        "name": "Theodore Melfi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt3741834",
+    "film_title": "Lion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Luke Davies",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4975722",
+    "film_title": "Moonlight",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barry Jenkins",
+        "role": "Writer"
+      },
+      {
+        "name": "Tarell Alvin McCraney",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2582782",
+    "film_title": "Hell or High Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Taylor Sheridan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Damien Chazelle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt3464902",
+    "film_title": "The Lobster",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Yorgos Lanthimos",
+        "role": "Writer"
+      },
+      {
+        "name": "Efthimis Filippou",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt4034228",
+    "film_title": "Manchester by the Sea",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kenneth Lonergan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt4385888",
+    "film_title": "20th Century Women",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Mills",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jackie Chan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anne V. Coates",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lynn Stalmaster",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frederick Wiseman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt5726616",
+    "film_title": "Call Me by Your Name",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Timothée Chalamet",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt5776858",
+    "film_title": "Phantom Thread",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Day-Lewis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt5052448",
+    "film_title": "Get Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Kaluuya",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4555426",
+    "film_title": "Darkest Hour",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gary Oldman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6000478",
+    "film_title": "Roman J. Israel, Esq.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5649144",
+    "film_title": "The Florida Project",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Willem Dafoe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5027774",
+    "film_title": "Three Billboards outside Ebbing, Missouri",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Harrelson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Jenkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5294550",
+    "film_title": "All the Money in the World",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Plummer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5027774",
+    "film_title": "Three Billboards outside Ebbing, Missouri",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Rockwell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sally Hawkins",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5027774",
+    "film_title": "Three Billboards outside Ebbing, Missouri",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frances McDormand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5580036",
+    "film_title": "I, Tonya",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margot Robbie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4925292",
+    "film_title": "Lady Bird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Saoirse Ronan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6294822",
+    "film_title": "The Post",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2396589",
+    "film_title": "Mudbound",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary J. Blige",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5580036",
+    "film_title": "I, Tonya",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Allison Janney",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5776858",
+    "film_title": "Phantom Thread",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lesley Manville",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4925292",
+    "film_title": "Lady Bird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurie Metcalf",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Octavia Spencer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3874544",
+    "film_title": "The Boss Baby",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom McGrath",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ramsey Naito",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3901826",
+    "film_title": "The Breadwinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nora Twomey",
+        "role": "Honoree"
+      },
+      {
+        "name": "Anthony Leo",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2380307",
+    "film_title": "Coco",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lee Unkrich",
+        "role": "Honoree"
+      },
+      {
+        "name": "Darla K. Anderson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3411444",
+    "film_title": "Ferdinand",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carlos Saldanha",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lori Forte",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3262342",
+    "film_title": "Loving Vincent",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dorota Kobiela",
+        "role": "Honoree"
+      },
+      {
+        "name": "Hugh Welchman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ivan Mactaggart",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5013056",
+    "film_title": "Dunkirk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Nolan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5052448",
+    "film_title": "Get Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jordan Peele",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4925292",
+    "film_title": "Lady Bird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greta Gerwig",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5776858",
+    "film_title": "Phantom Thread",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Thomas Anderson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Guillermo del Toro",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5726616",
+    "film_title": "Call Me by Your Name",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Spears",
+        "role": "Honoree"
+      },
+      {
+        "name": "Luca Guadagnino",
+        "role": "Honoree"
+      },
+      {
+        "name": "Emilie Georges",
+        "role": "Honoree"
+      },
+      {
+        "name": "Marco Morabito",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4555426",
+    "film_title": "Darkest Hour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Bevan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Eric Fellner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lisa Bruce",
+        "role": "Honoree"
+      },
+      {
+        "name": "Anthony McCarten",
+        "role": "Honoree"
+      },
+      {
+        "name": "Douglas Urbanski",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5013056",
+    "film_title": "Dunkirk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Thomas",
+        "role": "Honoree"
+      },
+      {
+        "name": "Christopher Nolan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5052448",
+    "film_title": "Get Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sean McKittrick",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jason Blum",
+        "role": "Honoree"
+      },
+      {
+        "name": "Edward H. Hamm Jr.",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jordan Peele",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4925292",
+    "film_title": "Lady Bird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Eli Bush",
+        "role": "Honoree"
+      },
+      {
+        "name": "Evelyn O'Neill",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5776858",
+    "film_title": "Phantom Thread",
+    "is_win": false,
+    "people": [
+      {
+        "name": "JoAnne Sellar",
+        "role": "Honoree"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Megan Ellison",
+        "role": "Honoree"
+      },
+      {
+        "name": "Daniel Lupi",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6294822",
+    "film_title": "The Post",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Pascal",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kristie Macosko Krieger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Guillermo del Toro",
+        "role": "Honoree"
+      },
+      {
+        "name": "J. Miles Dale",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5027774",
+    "film_title": "Three Billboards outside Ebbing, Missouri",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham Broadbent",
+        "role": "Honoree"
+      },
+      {
+        "name": "Pete Czernin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Martin McDonagh",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt5726616",
+    "film_title": "Call Me by Your Name",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Ivory",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt3521126",
+    "film_title": "The Disaster Artist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Neustadter",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael H. Weber",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt3315342",
+    "film_title": "Logan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Frank",
+        "role": "Writer"
+      },
+      {
+        "name": "James Mangold",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Green",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4209788",
+    "film_title": "Molly's Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Aaron Sorkin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2396589",
+    "film_title": "Mudbound",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Virgil Williams",
+        "role": "Writer"
+      },
+      {
+        "name": "Dee Rees",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5462602",
+    "film_title": "The Big Sick",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emily V. Gordon",
+        "role": "Writer"
+      },
+      {
+        "name": "Kumail Nanjiani",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5052448",
+    "film_title": "Get Out",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jordan Peele",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt4925292",
+    "film_title": "Lady Bird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greta Gerwig",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5580390",
+    "film_title": "The Shape of Water",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Guillermo del Toro",
+        "role": "Writer"
+      },
+      {
+        "name": "Vanessa Taylor",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5027774",
+    "film_title": "Three Billboards outside Ebbing, Missouri",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin McDonagh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Burnett",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Owen Roizman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Donald Sutherland",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Agnès Varda",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christian Bale",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1517451",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bradley Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6938828",
+    "film_title": "At Eternity's Gate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Willem Dafoe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1727824",
+    "film_title": "Bohemian Rhapsody",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Rami Malek",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Viggo Mortensen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mahershala Ali",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt7349662",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adam Driver",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1517451",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Elliott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt4595882",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard E. Grant",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Rockwell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6155172",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Yalitza Aparicio",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3750872",
+    "film_title": "The Wife",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Olivia Colman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1517451",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lady Gaga",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4595882",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melissa McCarthy",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Adams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6155172",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marina de Tavira",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7125860",
+    "film_title": "If Beale Street Could Talk",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Regina King",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Stone",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rachel Weisz",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3606756",
+    "film_title": "Incredibles 2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brad Bird",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Walker",
+        "role": "Honoree"
+      },
+      {
+        "name": "Nicole Paradis Grindle",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt5104604",
+    "film_title": "Isle of Dogs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steven Rales",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Dawson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt6900448",
+    "film_title": "Mirai",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mamoru Hosoda",
+        "role": "Honoree"
+      },
+      {
+        "name": "Yuichiro Saito",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt5848272",
+    "film_title": "Ralph Breaks the Internet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rich Moore",
+        "role": "Honoree"
+      },
+      {
+        "name": "Phil Johnston",
+        "role": "Honoree"
+      },
+      {
+        "name": "Clark Spencer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt4633694",
+    "film_title": "Spider-Man: Into the Spider-Verse",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bob Persichetti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Ramsey",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rodney Rothman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Phil Lord",
+        "role": "Honoree"
+      },
+      {
+        "name": "Christopher Miller",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7349662",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spike Lee",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6543652",
+    "film_title": "Cold War",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pawel Pawlikowski",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Yorgos Lanthimos",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6155172",
+    "film_title": "Roma",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adam McKay",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1825683",
+    "film_title": "Black Panther",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kevin Feige",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7349662",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sean McKittrick",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jason Blum",
+        "role": "Honoree"
+      },
+      {
+        "name": "Raymond Mansfield",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jordan Peele",
+        "role": "Honoree"
+      },
+      {
+        "name": "Spike Lee",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1727824",
+    "film_title": "Bohemian Rhapsody",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham King",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ceci Dempsey",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ed Guiney",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lee Magiday",
+        "role": "Honoree"
+      },
+      {
+        "name": "Yorgos Lanthimos",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jim Burke",
+        "role": "Honoree"
+      },
+      {
+        "name": "Charles B. Wessler",
+        "role": "Honoree"
+      },
+      {
+        "name": "Brian Currie",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Farrelly",
+        "role": "Honoree"
+      },
+      {
+        "name": "Nick Vallelonga",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6155172",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gabriela Rodríguez",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1517451",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Gerber",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bradley Cooper",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lynette Howell Taylor",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Adam McKay",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kevin Messick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6412452",
+    "film_title": "The Ballad of Buster Scruggs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt7349662",
+    "film_title": "BlacKkKlansman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charlie Wachtel",
+        "role": "Writer"
+      },
+      {
+        "name": "David Rabinowitz",
+        "role": "Writer"
+      },
+      {
+        "name": "Kevin Willmott",
+        "role": "Writer"
+      },
+      {
+        "name": "Spike Lee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4595882",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicole Holofcener",
+        "role": "Writer"
+      },
+      {
+        "name": "Jeff Whitty",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt7125860",
+    "film_title": "If Beale Street Could Talk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Jenkins",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1517451",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Roth",
+        "role": "Writer"
+      },
+      {
+        "name": "Bradley Cooper",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Fetters",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5083738",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Davis",
+        "role": "Writer"
+      },
+      {
+        "name": "Tony McNamara",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6053438",
+    "film_title": "First Reformed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Schrader",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Nick Vallelonga",
+        "role": "Writer"
+      },
+      {
+        "name": "Brian Currie",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Farrelly",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6155172",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6266538",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adam McKay",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marvin Levy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lalo Schifrin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cicely Tyson",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

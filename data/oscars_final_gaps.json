@@ -1,0 +1,264 @@
+[
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1010048",
+    "film_title": "Slumdog Millionaire",
+    "is_win": true,
+    "people": [
+      { "name": "Danny Boyle", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1010048",
+    "film_title": "Slumdog Millionaire",
+    "is_win": true,
+    "people": [
+      { "name": "Danny Boyle", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0808506",
+    "film_title": "The Curious Case of Benjamin Button",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0477348",
+    "film_title": "No Country for Old Men",
+    "is_win": true,
+    "people": [
+      { "name": "Joel Coen", "role": "Director" },
+      { "name": "Ethan Coen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0477348",
+    "film_title": "No Country for Old Men",
+    "is_win": true,
+    "people": [
+      { "name": "Joel Coen", "role": "Director" },
+      { "name": "Ethan Coen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0375679",
+    "film_title": "Crash",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0388795",
+    "film_title": "Brokeback Mountain",
+    "is_win": true,
+    "people": [
+      { "name": "Ang Lee", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0388795",
+    "film_title": "Brokeback Mountain",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120338",
+    "film_title": "Shakespeare in Love",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0112573",
+    "film_title": "Braveheart",
+    "is_win": true,
+    "people": [
+      { "name": "Mel Gibson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0112573",
+    "film_title": "Braveheart",
+    "is_win": true,
+    "people": [
+      { "name": "Mel Gibson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Zemeckis", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Zemeckis", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0111161",
+    "film_title": "The Shawshank Redemption",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      { "name": "Jonathan Demme", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      { "name": "Jonathan Demme", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      { "name": "Anthony Hopkins", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances with Wolves",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Costner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances with Wolves",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Costner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099685",
+    "film_title": "GoodFellas",
+    "is_win": false,
+    "people": []
+  }
+]

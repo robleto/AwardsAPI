@@ -40,12 +40,14 @@ Optional:
 4. Set `DATABASE_URL` in Netlify env settings.
 
 ### 5. Stripe Setup
-1. Create Products: "Professional" and "Enterprise" with recurring prices (monthly + annual) or run helper script locally (see `scripts/setup-stripe-products.js` if retained / adapt from dev-scripts).
+
+1. Create Products with recurring prices (monthly + annual): Games API (Starter/Pro), Film API (Starter/Pro), Bundle (Starter/Pro). See `docs/technical/STRIPE-SETUP.md` for exact mapping.
+
 2. Capture resulting price IDs → map to env vars:
-	- `STRIPE_PRICE_PROFESSIONAL_MONTHLY`
-	- `STRIPE_PRICE_PROFESSIONAL_ANNUAL`
-	- `STRIPE_PRICE_ENTERPRISE_MONTHLY`
-	- `STRIPE_PRICE_ENTERPRISE_ANNUAL`
+	- Games: `STRIPE_PRICE_GAMES_STARTER_MONTHLY`, `STRIPE_PRICE_GAMES_STARTER_ANNUAL`, `STRIPE_PRICE_GAMES_PRO_MONTHLY`, `STRIPE_PRICE_GAMES_PRO_ANNUAL`
+	- Film: `STRIPE_PRICE_FILM_STARTER_MONTHLY`, `STRIPE_PRICE_FILM_STARTER_ANNUAL`, `STRIPE_PRICE_FILM_PRO_MONTHLY`, `STRIPE_PRICE_FILM_PRO_ANNUAL`
+	- Bundle: `STRIPE_PRICE_BUNDLE_STARTER_MONTHLY`, `STRIPE_PRICE_BUNDLE_STARTER_ANNUAL`, `STRIPE_PRICE_BUNDLE_PRO_MONTHLY`, `STRIPE_PRICE_BUNDLE_PRO_ANNUAL`
+
 3. Add a webhook endpoint (Netlify function URL `/.netlify/functions/webhook-stripe`) listening for:
 	- `customer.subscription.updated`
 	- `customer.subscription.deleted`
@@ -54,13 +56,16 @@ Optional:
 4. Store the webhook signing secret as `STRIPE_WEBHOOK_SECRET`.
 
 ### 6. Netlify Configuration
+
 Netlify UI → Site Settings:
+
 - Build command: `npm run build`
 - Publish directory: `public`
 - Functions directory: `netlify/functions`
 - Environment variables: add all required keys
 
 ### 7. Local Development
+
 ```bash
 cp .env.example .env   # populate values
 npm install
@@ -70,22 +75,27 @@ npm run dev            # Express only (no serverless simulation)
 ```
 
 ### 8. Award Dataset
+
 Public repo includes `data/sample-awards.json` (subset). Place full licensed dataset at `internal/enhanced-honors-complete.json` (gitignored) to enable full results locally / production. Loader auto‑detects.
 
 ### 9. Subscription Flow
-1. Front-end calls `/.netlify/functions/create-subscription` with email, name, plan or priceId.
+
+1. Front-end calls `/.netlify/functions/create-subscription-new` with email, name, plan or priceId (see plan keys in `STRIPE-SETUP.md`).
 2. Function creates (or reuses) Stripe customer + subscription (incomplete) → returns `client_secret` + provisional API key with plan limits.
 3. Stripe finalizes payment → webhook adjusts/suspends/resumes limits.
 
 ### 10. Rate Limiting & Validation
+
 - PL/pgSQL `validate_api_key_enhanced` enforces daily + monthly limits, suspension, resets.
 - Response headers include remaining daily & monthly usage.
 
 ### 11. Logging & Observability
+
 - Usage logged to `api_usage` (basic fields). Extend schema for latency / user agent detail as needed.
 - Health endpoint: `/.netlify/functions/health` includes build info (if generated) + DB check.
 
 ### 12. Deploy Steps Recap
+
 ```bash
 # First time
 psql "$DATABASE_URL" -f neon/schema.sql
@@ -100,6 +110,7 @@ git add . && git commit -m "deploy: production release" && git push
 ```
 
 ### 13. Hardening Suggestions
+
 - Add WAF / custom domain (Netlify)
 - Implement IP throttling via external gateway if exceeding function rate possibilities
 - Add encrypted hashing with pepper for API keys
@@ -107,10 +118,12 @@ git add . && git commit -m "deploy: production release" && git push
 - Monitor Stripe webhook delivery (retry logic handled by Stripe)
 
 ### 14. Versioning & Releases
+
 - Track version in `VERSION`
 - Update `CHANGELOG.md` with user‑visible changes
 
 ### 15. Disaster Recovery
+
 - Backup Neon (point-in-time via Neon branching)
 - Export dataset occasionally if mutated (currently read-only dataset)
 

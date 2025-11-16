@@ -1,0 +1,82 @@
+[
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107207",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0107207",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107688",
+    "film_title": "The Piano",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      { "name": "Oliver Stone", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      { "name": "Oliver Stone", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0089881",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0089881",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": [
+      { "name": "Sydney Pollack", "role": "Director" }
+    ]
+  }
+]

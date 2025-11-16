@@ -1,0 +1,6527 @@
+[
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Harvey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charlton Heston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053291",
+    "film_title": "Some Like It Hot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052990",
+    "film_title": "The Last Angry Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052561",
+    "film_title": "Anatomy of a Murder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hugh Griffith",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052561",
+    "film_title": "Anatomy of a Murder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur O'Connell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052561",
+    "film_title": "Anatomy of a Murder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George C. Scott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0053462",
+    "film_title": "The Young Philadelphians",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Vaughn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052738",
+    "film_title": "The Diary of Anne Frank",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Wynn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053172",
+    "film_title": "Pillow Talk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Doris Day",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053131",
+    "film_title": "The Nun's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Audrey Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053318",
+    "film_title": "Suddenly, Last Summer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Simone Signoret",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053318",
+    "film_title": "Suddenly, Last Summer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elizabeth Taylor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hermione Baddeley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0052918",
+    "film_title": "Imitation of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Kohner",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0052918",
+    "film_title": "Imitation of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Juanita Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0053172",
+    "film_title": "Pillow Talk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0052738",
+    "film_title": "The Diary of Anne Frank",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Shelley Winters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0052738",
+    "film_title": "The Diary of Anne Frank",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053131",
+    "film_title": "The Nun's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Clayton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053291",
+    "film_title": "Some Like It Hot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0052561",
+    "film_title": "Anatomy of a Murder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Otto Preminger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Zimbalist",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0052738",
+    "film_title": "The Diary of Anne Frank",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053131",
+    "film_title": "The Nun's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Blanke",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Woolf",
+        "role": "Honoree"
+      },
+      {
+        "name": "James Woolf",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0052561",
+    "film_title": "Anatomy of a Murder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wendell Mayes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Karl Tunberg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0053131",
+    "film_title": "The Nun's Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Anderson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0053226",
+    "film_title": "Room at the Top",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Neil Paterson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0053291",
+    "film_title": "Some Like It Hot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "I. A. L. Diamond",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053198",
+    "film_title": "The 400 Blows",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francois Truffaut",
+        "role": "Writer"
+      },
+      {
+        "name": "Marcel Moussy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053125",
+    "film_title": "North by Northwest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053143",
+    "film_title": "Operation Petticoat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul King",
+        "role": "Writer"
+      },
+      {
+        "name": "Joseph Stone",
+        "role": "Writer"
+      },
+      {
+        "name": "Stanley Shapiro",
+        "role": "Writer"
+      },
+      {
+        "name": "Maurice Richlin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053172",
+    "film_title": "Pillow Talk",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Russell Rouse",
+        "role": "Writer"
+      },
+      {
+        "name": "Clarence Greene",
+        "role": "Writer"
+      },
+      {
+        "name": "Stanley Shapiro",
+        "role": "Writer"
+      },
+      {
+        "name": "Maurice Richlin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0050986",
+    "film_title": "Wild Strawberries",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lee De Forest",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Buster Keaton",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0054326",
+    "film_title": "Sons and Lovers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Trevor Howard",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053793",
+    "film_title": "Elmer Gantry",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Burt Lancaster",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053796",
+    "film_title": "The Entertainer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0053946",
+    "film_title": "Inherit the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0054102",
+    "film_title": "Murder, Inc.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Falk",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Kruschen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0053804",
+    "film_title": "Exodus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sal Mineo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0054331",
+    "film_title": "Spartacus",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter Ustinov",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0053580",
+    "film_title": "The Alamo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chill Wills",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054354",
+    "film_title": "Sunrise at Campobello",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greer Garson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054353",
+    "film_title": "The Sundowners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley MacLaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054198",
+    "film_title": "Never on Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melina Mercouri",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0053622",
+    "film_title": "Butterfield 8",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Elizabeth Taylor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0054353",
+    "film_title": "The Sundowners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glynis Johns",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0053793",
+    "film_title": "Elmer Gantry",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Shirley Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0053750",
+    "film_title": "The Dark at the Top of the Stairs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley Knight",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0054215",
+    "film_title": "Psycho",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Janet Leigh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0054326",
+    "film_title": "Sons and Lovers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary Ure",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054198",
+    "film_title": "Never on Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jules Dassin",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054215",
+    "film_title": "Psycho",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054326",
+    "film_title": "Sons and Lovers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Cardiff",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054353",
+    "film_title": "The Sundowners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053580",
+    "film_title": "The Alamo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Wayne",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053793",
+    "film_title": "Elmer Gantry",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernard Smith",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054326",
+    "film_title": "Sons and Lovers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jerry Wald",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054353",
+    "film_title": "The Sundowners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0053793",
+    "film_title": "Elmer Gantry",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0053946",
+    "film_title": "Inherit the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nedrick Young",
+        "role": "Writer"
+      },
+      {
+        "name": "Harold Jacob Smith",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054326",
+    "film_title": "Sons and Lovers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gavin Lambert",
+        "role": "Writer"
+      },
+      {
+        "name": "T. E. B. Clarke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054353",
+    "film_title": "The Sundowners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Isobel Lennart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054412",
+    "film_title": "Tunes of Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Kennaway",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053602",
+    "film_title": "The Angry Silence",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Gregson",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Craig",
+        "role": "Writer"
+      },
+      {
+        "name": "Bryan Forbes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053604",
+    "film_title": "The Apartment",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "I. A. L. Diamond",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053810",
+    "film_title": "The Facts of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Panama",
+        "role": "Writer"
+      },
+      {
+        "name": "Melvin Frank",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0052893",
+    "film_title": "Hiroshima, Mon Amour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marguerite Duras",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0054198",
+    "film_title": "Never on Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jules Dassin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Stan Laurel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0054195",
+    "film_title": "Pollyanna",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hayley Mills",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0054866",
+    "film_title": "Fanny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Boyer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maximilian Schell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055146",
+    "film_title": "The Mark",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stuart Whitman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0055614",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Chakiris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Montgomery Clift",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0055312",
+    "film_title": "Pocketful of Miracles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Falk",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jackie Gleason",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George C. Scott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054698",
+    "film_title": "Breakfast at Tiffany's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Audrey Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Piper Laurie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0054749",
+    "film_title": "Two Women",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sophia Loren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0055489",
+    "film_title": "Summer and Smoke",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0055471",
+    "film_title": "Splendor in the Grass",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Natalie Wood",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0054743",
+    "film_title": "The Children's Hour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fay Bainter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judy Garland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0055382",
+    "film_title": "The Roman Spring of Mrs. Stone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lotte Lenya",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0055489",
+    "film_title": "Summer and Smoke",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Una Merkel",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0055614",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Rita Moreno",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054953",
+    "film_title": "The Guns of Navarone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J. Lee Thompson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Rossen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053779",
+    "film_title": "La Dolce Vita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0055614",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Director"
+      },
+      {
+        "name": "Jerome Robbins",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054866",
+    "film_title": "Fanny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joshua Logan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054953",
+    "film_title": "The Guns of Navarone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Rossen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0055614",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054698",
+    "film_title": "Breakfast at Tiffany's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Axelrod",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054953",
+    "film_title": "The Guns of Navarone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0054997",
+    "film_title": "The Hustler",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Carroll",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert Rossen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0055031",
+    "film_title": "Judgment at Nuremberg",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Abby Mann",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0055614",
+    "film_title": "West Side Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0052600",
+    "film_title": "Ballad of a Soldier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Valentin Yoshov",
+        "role": "Writer"
+      },
+      {
+        "name": "Grigori Chukhrai",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053856",
+    "film_title": "General Della Rovere",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sergio Amidei",
+        "role": "Writer"
+      },
+      {
+        "name": "Diego Fabbri",
+        "role": "Writer"
+      },
+      {
+        "name": "Indro Montanelli",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0053779",
+    "film_title": "La Dolce Vita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Tullio Pinelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Ennio Flaiano",
+        "role": "Writer"
+      },
+      {
+        "name": "Brunello Rondi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0055100",
+    "film_title": "Lover Come Back",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Shapiro",
+        "role": "Writer"
+      },
+      {
+        "name": "Paul Henning",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0055471",
+    "film_title": "Splendor in the Grass",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Inge",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0121293",
+    "film_title": "A Force in Readiness",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William L. Hendricks",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fred L. Metzler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jerome Robbins",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055798",
+    "film_title": "Birdman of Alcatraz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Lancaster",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055895",
+    "film_title": "Days of Wine and Roses",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0055913",
+    "film_title": "Divorce--Italian Style",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marcello Mastroianni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0056592",
+    "film_title": "To Kill a Mockingbird",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gregory Peck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0056541",
+    "film_title": "Sweet Bird of Youth",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ed Begley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0056687",
+    "film_title": "What Ever Happened to Baby Jane?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Victor Buono",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0055798",
+    "film_title": "Birdman of Alcatraz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Telly Savalas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Omar Sharif",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0055796",
+    "film_title": "Billy Budd",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terence Stamp",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0056241",
+    "film_title": "The Miracle Worker",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anne Bancroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0056687",
+    "film_title": "What Ever Happened to Baby Jane?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0056196",
+    "film_title": "Long Day's Journey into Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0056541",
+    "film_title": "Sweet Bird of Youth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0055895",
+    "film_title": "Days of Wine and Roses",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Remick",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0056592",
+    "film_title": "To Kill a Mockingbird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary Badham",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0056241",
+    "film_title": "The Miracle Worker",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Patty Duke",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0056541",
+    "film_title": "Sweet Bird of Youth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley Knight",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0056218",
+    "film_title": "The Manchurian Candidate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Angela Lansbury",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0055798",
+    "film_title": "Birdman of Alcatraz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0055892",
+    "film_title": "David and Lisa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Perry",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0055913",
+    "film_title": "Divorce--Italian Style",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pietro Germi",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056241",
+    "film_title": "The Miracle Worker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Penn",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056592",
+    "film_title": "To Kill a Mockingbird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Mulligan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Spiegel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056197",
+    "film_title": "The Longest Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Darryl F. Zanuck",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056262",
+    "film_title": "Meredith Willson's The Music Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morton Da Costa",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056264",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Aaron Rosenberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056592",
+    "film_title": "To Kill a Mockingbird",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan J. Pakula",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0055892",
+    "film_title": "David and Lisa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eleanor Perry",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Bolt",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0056193",
+    "film_title": "Lolita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vladimir Nabokov",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0056241",
+    "film_title": "The Miracle Worker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Gibson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0056592",
+    "film_title": "To Kill a Mockingbird",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Horton Foote",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0055913",
+    "film_title": "Divorce--Italian Style",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ennio de Concini",
+        "role": "Writer"
+      },
+      {
+        "name": "Alfredo Giannetti",
+        "role": "Writer"
+      },
+      {
+        "name": "Pietro Germi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0055998",
+    "film_title": "Freud",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Kaufman",
+        "role": "Writer"
+      },
+      {
+        "name": "Wolfgang Reinhardt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0054632",
+    "film_title": "Last Year at Marienbad",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alain Robbe-Grillet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056575",
+    "film_title": "That Touch of Mink",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Shapiro",
+        "role": "Writer"
+      },
+      {
+        "name": "Nate Monaster",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0055499",
+    "film_title": "Through a Glass Darkly",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Finney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057578",
+    "film_title": "This Sporting Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0056937",
+    "film_title": "Cleopatra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rex Harrison",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057163",
+    "film_title": "Hud",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057251",
+    "film_title": "Lilies of the Field",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sidney Poitier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0057609",
+    "film_title": "Twilight of Honor",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Adams",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0056903",
+    "film_title": "Captain Newman, M.D.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bobby Darin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0057163",
+    "film_title": "Hud",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Melvyn Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hugh Griffith",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0056907",
+    "film_title": "The Cardinal",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0057239",
+    "film_title": "The L-Shaped Room",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leslie Caron",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0057187",
+    "film_title": "Irma La Douce",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley MacLaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0057163",
+    "film_title": "Hud",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Patricia Neal",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0057578",
+    "film_title": "This Sporting Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rachel Roberts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0057263",
+    "film_title": "Love with the Proper Stranger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Natalie Wood",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Cilento",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dame Edith Evans",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joyce Redman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057634",
+    "film_title": "The V.I.P.s",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Margaret Rutherford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057251",
+    "film_title": "Lilies of the Field",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lilia Skala",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056825",
+    "film_title": "America America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056907",
+    "film_title": "The Cardinal",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Otto Preminger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056801",
+    "film_title": "Federico Fellini's 8-1/2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0057163",
+    "film_title": "Hud",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Ritt",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tony Richardson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056825",
+    "film_title": "America America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056937",
+    "film_title": "Cleopatra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Wanger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056085",
+    "film_title": "How the West Was Won",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernard Smith",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057251",
+    "film_title": "Lilies of the Field",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Nelson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tony Richardson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0056903",
+    "film_title": "Captain Newman, M.D.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard L. Breen",
+        "role": "Writer"
+      },
+      {
+        "name": "Phoebe Ephron",
+        "role": "Writer"
+      },
+      {
+        "name": "Henry Ephron",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057163",
+    "film_title": "Hud",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irving Ravetch",
+        "role": "Writer"
+      },
+      {
+        "name": "Harriet Frank Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057251",
+    "film_title": "Lilies of the Field",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Poe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0055910",
+    "film_title": "Sundays and Cybele",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Serge Bourguignon",
+        "role": "Writer"
+      },
+      {
+        "name": "Antoine Tudal",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057590",
+    "film_title": "Tom Jones",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Osborne",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056825",
+    "film_title": "America America",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056801",
+    "film_title": "Federico Fellini's 8-1/2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Ennio Flaiano",
+        "role": "Writer"
+      },
+      {
+        "name": "Tullio Pinelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Brunello Rondi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056389",
+    "film_title": "The Four Days of Naples",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pasquale Festa Campanile",
+        "role": "Writer"
+      },
+      {
+        "name": "Massimo Franciosa",
+        "role": "Writer"
+      },
+      {
+        "name": "Nanni Loy",
+        "role": "Writer"
+      },
+      {
+        "name": "Vasco Pratolini",
+        "role": "Writer"
+      },
+      {
+        "name": "Carlo Bernari",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056085",
+    "film_title": "How the West Was Won",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James R. Webb",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0057263",
+    "film_title": "Love with the Proper Stranger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arnold Schulman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Rex Harrison",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057831",
+    "film_title": "Zorba the Greek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Quinn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0057012",
+    "film_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Sellers",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Gielgud",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Holloway",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0058576",
+    "film_title": "Seven Days in May",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edmond O'Brien",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0057883",
+    "film_title": "The Best Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0058672",
+    "film_title": "Topkapi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter Ustinov",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0058331",
+    "film_title": "Mary Poppins",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julie Andrews",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0058500",
+    "film_title": "The Pumpkin Eater",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Bancroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0058335",
+    "film_title": "Marriage Italian Style",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sophia Loren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0058708",
+    "film_title": "The Unsinkable Molly Brown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Debbie Reynolds",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0058557",
+    "film_title": "Seance on a Wet Afternoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kim Stanley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gladys Cooper",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057933",
+    "film_title": "The Chalk Garden",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dame Edith Evans",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0058404",
+    "film_title": "The Night of the Iguana",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Grayson Hall",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0057831",
+    "film_title": "Zorba the Greek",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lila Kedrova",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0058213",
+    "film_title": "Hush...Hush, Sweet Charlotte",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Agnes Moorehead",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Glenville",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0057012",
+    "film_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0058331",
+    "film_title": "Mary Poppins",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Stevenson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Cukor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0057831",
+    "film_title": "Zorba the Greek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Cacoyannis",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hal B. Wallis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057012",
+    "film_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0058331",
+    "film_title": "Mary Poppins",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walt Disney",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bill Walsh",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack L. Warner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057831",
+    "film_title": "Zorba the Greek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Cacoyannis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057877",
+    "film_title": "Becket",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edward Anhalt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057012",
+    "film_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter George",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Southern",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0058331",
+    "film_title": "Mary Poppins",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Walsh",
+        "role": "Writer"
+      },
+      {
+        "name": "Don DaGradi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Jay Lerner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0057831",
+    "film_title": "Zorba the Greek",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Cacoyannis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058092",
+    "film_title": "Father Goose",
+    "is_win": true,
+    "people": [
+      {
+        "name": "S. H. Barnett",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Stone",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Tarloff",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058182",
+    "film_title": "A Hard Day's Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alun Owen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058429",
+    "film_title": "One Potato, Two Potato",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Orville H. Hampton",
+        "role": "Writer"
+      },
+      {
+        "name": "Raphael Hayes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0056945",
+    "film_title": "The Organizer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Age",
+        "role": "Writer"
+      },
+      {
+        "name": "Scarpelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Mario Monicelli",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058203",
+    "film_title": "That Man from Rio",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean-Paul Rappeneau",
+        "role": "Writer"
+      },
+      {
+        "name": "Ariane Mnouchkine",
+        "role": "Writer"
+      },
+      {
+        "name": "Daniel Boulanger",
+        "role": "Writer"
+      },
+      {
+        "name": "Philippe De Broca",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0057812",
+    "film_title": "7 Faces of Dr. Lao.",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Tuttle",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0059749",
+    "film_title": "The Spy Who Came In from the Cold",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0059017",
+    "film_title": "Cat Ballou",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lee Marvin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0059555",
+    "film_title": "Othello",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0059575",
+    "film_title": "The Pawnbroker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rod Steiger",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0059712",
+    "film_title": "Ship of Fools",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oskar Werner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0059798",
+    "film_title": "A Thousand Clowns",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Martin Balsam",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0059183",
+    "film_title": "The Flight of the Phoenix",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian Bannen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0059113",
+    "film_title": "Doctor Zhivago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Courtenay",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0059712",
+    "film_title": "Ship of Fools",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Dunn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0059555",
+    "film_title": "Othello",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Finlay",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Andrews",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059084",
+    "film_title": "Darling",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Julie Christie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059043",
+    "film_title": "The Collector",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samantha Eggar",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059573",
+    "film_title": "A Patch of Blue",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elizabeth Hartman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059712",
+    "film_title": "Ship of Fools",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Simone Signoret",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0059314",
+    "film_title": "Inside Daisy Clover",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Gordon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0059555",
+    "film_title": "Othello",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joyce Redman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0059555",
+    "film_title": "Othello",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0059573",
+    "film_title": "A Patch of Blue",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Shelley Winters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peggy Wood",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0059043",
+    "film_title": "The Collector",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0059084",
+    "film_title": "Darling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Schlesinger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0059113",
+    "film_title": "Doctor Zhivago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0058625",
+    "film_title": "Woman in the Dunes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hiroshi Teshigahara",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059084",
+    "film_title": "Darling",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph Janni",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059113",
+    "film_title": "Doctor Zhivago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carlo Ponti",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059712",
+    "film_title": "Ship of Fools",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059798",
+    "film_title": "A Thousand Clowns",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Coe",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0059017",
+    "film_title": "Cat Ballou",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Newman",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank R. Pierson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0059043",
+    "film_title": "The Collector",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Mann",
+        "role": "Writer"
+      },
+      {
+        "name": "John Kohn",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0059113",
+    "film_title": "Doctor Zhivago",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Bolt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0059712",
+    "film_title": "Ship of Fools",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Abby Mann",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0059798",
+    "film_title": "A Thousand Clowns",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Herb Gardner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0059015",
+    "film_title": "Casanova '70",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Age",
+        "role": "Writer"
+      },
+      {
+        "name": "Scarpelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Mario Monicelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Tonino Guerra",
+        "role": "Writer"
+      },
+      {
+        "name": "Giorgio Salvioni",
+        "role": "Writer"
+      },
+      {
+        "name": "Suso Cecchi D'Amico",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0059084",
+    "film_title": "Darling",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frederic Raphael",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0059797",
+    "film_title": "Those Magnificent Men in Their Flying Machines",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Davies",
+        "role": "Writer"
+      },
+      {
+        "name": "Ken Annakin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0059825",
+    "film_title": "The Train",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Franklin Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Davis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058450",
+    "film_title": "The Umbrellas of Cherbourg",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacques Demy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bob Hope",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0060921",
+    "film_title": "The Russians Are Coming The Russians Are Coming",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Arkin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0060086",
+    "film_title": "Alfie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0060934",
+    "film_title": "The Sand Pebbles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve McQueen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paul Scofield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0060934",
+    "film_title": "The Sand Pebbles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mako",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0060453",
+    "film_title": "Georgy Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Mason",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0060424",
+    "film_title": "The Fortune Cookie",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Matthau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Segal",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Shaw",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061138",
+    "film_title": "A Man and a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anouk Aimee",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0059527",
+    "film_title": "The Shop on Main Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ida Kaminska",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0060453",
+    "film_title": "Georgy Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lynn Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0060714",
+    "film_title": "Morgan!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Elizabeth Taylor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sandy Dennis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wendy Hiller",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0060491",
+    "film_title": "Hawaii",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jocelyne Lagarde",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0060086",
+    "film_title": "Alfie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vivien Merchant",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061209",
+    "film_title": "You're a Big Boy Now",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0060176",
+    "film_title": "Blow-Up",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelangelo Antonioni",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061138",
+    "film_title": "A Man and a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Lelouch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0060862",
+    "film_title": "The Professionals",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Nichols",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0060086",
+    "film_title": "Alfie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lewis Gilbert",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0060921",
+    "film_title": "The Russians Are Coming The Russians Are Coming",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0060934",
+    "film_title": "The Sand Pebbles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0060086",
+    "film_title": "Alfie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bill Naughton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0060665",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Bolt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0060862",
+    "film_title": "The Professionals",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0060921",
+    "film_title": "The Russians Are Coming The Russians Are Coming",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0061184",
+    "film_title": "Who's Afraid of Virginia Woolf?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0060176",
+    "film_title": "Blow-Up",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelangelo Antonioni",
+        "role": "Writer"
+      },
+      {
+        "name": "Tonino Guerra",
+        "role": "Writer"
+      },
+      {
+        "name": "Edward Bond",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0060424",
+    "film_title": "The Fortune Cookie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "I. A. L. Diamond",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0060588",
+    "film_title": "Khartoum",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Ardrey",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0061138",
+    "film_title": "A Man and a Woman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Claude Lelouch",
+        "role": "Writer"
+      },
+      {
+        "name": "Pierre Uytterhoeven",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0060736",
+    "film_title": "The Naked Prey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clint Johnston",
+        "role": "Writer"
+      },
+      {
+        "name": "Don Peters",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Y. Frank Freeman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Yakima Canutt",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061512",
+    "film_title": "Cool Hand Luke",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061811",
+    "film_title": "In the Heat of the Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Rod Steiger",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061578",
+    "film_title": "The Dirty Dozen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Cassavetes",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Hackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cecil Kellaway",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061512",
+    "film_title": "Cool Hand Luke",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael J. Pollard",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Bancroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Faye Dunaway",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061180",
+    "film_title": "The Whisperers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dame Edith Evans",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0062467",
+    "film_title": "Wait until Dark",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Audrey Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0062362",
+    "film_title": "Thoroughly Modern Millie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carol Channing",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061385",
+    "film_title": "Barefoot in the Park",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mildred Natwick",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Estelle Parsons",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Beah Richards",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Ross",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Penn",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mike Nichols",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061809",
+    "film_title": "In Cold Blood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061811",
+    "film_title": "In the Heat of the Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061584",
+    "film_title": "Doctor Dolittle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur P. Jacobs",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Turman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061811",
+    "film_title": "In the Heat of the Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Mirisch",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0061512",
+    "film_title": "Cool Hand Luke",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Donn Pearce",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank R. Pierson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Calder Willingham",
+        "role": "Writer"
+      },
+      {
+        "name": "Buck Henry",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0061809",
+    "film_title": "In Cold Blood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0061811",
+    "film_title": "In the Heat of the Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Stirling Silliphant",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0062414",
+    "film_title": "Ulysses",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph Strick",
+        "role": "Writer"
+      },
+      {
+        "name": "Fred Haines",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Newman",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert Benton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0061581",
+    "film_title": "Divorce American Style",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Kaufman",
+        "role": "Writer"
+      },
+      {
+        "name": "Norman Lear",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0061735",
+    "film_title": "Guess Who's Coming to Dinner",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0060481",
+    "film_title": "La Guerre Est Finie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jorge Semprun",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0062407",
+    "film_title": "Two for the Road",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frederic Raphael",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Arthur Freed",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0063050",
+    "film_title": "The Heart Is a Lonely Hunter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Arkin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0062977",
+    "film_title": "The Fixer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Bates",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ron Moody",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0063227",
+    "film_title": "The Lion in Winter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0062794",
+    "film_title": "Charly",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cliff Robertson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0063654",
+    "film_title": "The Subject Was Roses",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Albertson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0062952",
+    "film_title": "Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Seymour Cassel",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0063642",
+    "film_title": "Star!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Massey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Wild",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0063462",
+    "film_title": "The Producers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Wilder",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0063227",
+    "film_title": "The Lion in Winter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0063654",
+    "film_title": "The Subject Was Roses",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Patricia Neal",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0063141",
+    "film_title": "Isadora",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0062994",
+    "film_title": "Funny Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barbra Streisand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0063483",
+    "film_title": "Rachel, Rachel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joanne Woodward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0062952",
+    "film_title": "Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lynn Carlin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0063522",
+    "film_title": "Rosemary's Baby",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ruth Gordon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0063050",
+    "film_title": "The Heart Is a Lonely Hunter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sondra Locke",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0062994",
+    "film_title": "Funny Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kay Medford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0063483",
+    "film_title": "Rachel, Rachel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Estelle Parsons",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0058946",
+    "film_title": "The Battle of Algiers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gillo Pontecorvo",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0063227",
+    "film_title": "The Lion in Winter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Harvey",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Carol Reed",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0063518",
+    "film_title": "Romeo and Juliet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Franco Zeffirelli",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0062622",
+    "film_title": "2001: A Space Odyssey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0062994",
+    "film_title": "Funny Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ray Stark",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0063227",
+    "film_title": "The Lion in Winter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Poll",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Woolf",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0063483",
+    "film_title": "Rachel, Rachel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0063518",
+    "film_title": "Romeo and Juliet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Havelock-Allan",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Brabourne",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0063227",
+    "film_title": "The Lion in Winter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0063374",
+    "film_title": "The Odd Couple",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neil Simon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vernon Harris",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0063483",
+    "film_title": "Rachel, Rachel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stewart Stern",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0063522",
+    "film_title": "Rosemary's Baby",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roman Polanski",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0058946",
+    "film_title": "The Battle of Algiers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Franco Solinas",
+        "role": "Writer"
+      },
+      {
+        "name": "Gillo Pontecorvo",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0062952",
+    "film_title": "Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Cassavetes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0063094",
+    "film_title": "Hot Millions",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ira Wallach",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Ustinov",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0063462",
+    "film_title": "The Producers",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mel Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0062622",
+    "film_title": "2001: A Space Odyssey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Writer"
+      },
+      {
+        "name": "Arthur C. Clarke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0063442",
+    "film_title": "Planet of the Apes",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Chambers",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0063385",
+    "film_title": "Oliver!",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Onna White",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

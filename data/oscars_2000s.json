@@ -1,0 +1,218 @@
+[
+  {
+    "ceremony_year": 2007,
+    "org_name": "Academy Awards",
+    "ceremony_name": "79th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0407887",
+    "film_title": "The Departed",
+    "is_win": true,
+    "people": [
+      { "name": "Martin Scorsese", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2007,
+    "org_name": "Academy Awards",
+    "ceremony_name": "79th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0407887",
+    "film_title": "The Departed",
+    "is_win": true,
+    "people": [
+      { "name": "Martin Scorsese", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2005,
+    "org_name": "Academy Awards",
+    "ceremony_name": "77th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0405159",
+    "film_title": "Million Dollar Baby",
+    "is_win": true,
+    "people": [
+      { "name": "Clint Eastwood", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2005,
+    "org_name": "Academy Awards",
+    "ceremony_name": "77th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0405159",
+    "film_title": "Million Dollar Baby",
+    "is_win": true,
+    "people": [
+      { "name": "Clint Eastwood", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2005,
+    "org_name": "Academy Awards",
+    "ceremony_name": "77th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0367279",
+    "film_title": "The Aviator",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0299658",
+    "film_title": "Chicago",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0282530",
+    "film_title": "Gangs of New York",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0325980",
+    "film_title": "The Pianist",
+    "is_win": true,
+    "people": [
+      { "name": "Roman Polanski", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2003,
+    "org_name": "Academy Awards",
+    "ceremony_name": "75th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0325980",
+    "film_title": "The Pianist",
+    "is_win": true,
+    "people": [
+      { "name": "Adrien Brody", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      { "name": "Ron Howard", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0268978",
+    "film_title": "A Beautiful Mind",
+    "is_win": true,
+    "people": [
+      { "name": "Ron Howard", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2002,
+    "org_name": "Academy Awards",
+    "ceremony_name": "74th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120737",
+    "film_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0181689",
+    "film_title": "Traffic",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Soderbergh", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2001,
+    "org_name": "Academy Awards",
+    "ceremony_name": "73rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0172495",
+    "film_title": "Gladiator",
+    "is_win": true,
+    "people": [
+      { "name": "Russell Crowe", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Spacey", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2000,
+    "org_name": "Academy Awards",
+    "ceremony_name": "72nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0137523",
+    "film_title": "Fight Club",
+    "is_win": false,
+    "people": []
+  }
+]

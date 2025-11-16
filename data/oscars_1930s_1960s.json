@@ -1,0 +1,756 @@
+[
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0064276",
+    "film_title": "Midnight Cowboy",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0064276",
+    "film_title": "Midnight Cowboy",
+    "is_win": true,
+    "people": [
+      { "name": "John Schlesinger", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0064115",
+    "film_title": "True Grit",
+    "is_win": true,
+    "people": [
+      { "name": "John Wayne", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0063442",
+    "film_title": "Oliver!",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0062622",
+    "film_title": "2001: A Space Odyssey",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1969,
+    "org_name": "Academy Awards",
+    "ceremony_name": "41st Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0062622",
+    "film_title": "2001: A Space Odyssey",
+    "is_win": true,
+    "people": [
+      { "name": "Stanley Kubrick", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061512",
+    "film_title": "In the Heat of the Night",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0061512",
+    "film_title": "In the Heat of the Night",
+    "is_win": true,
+    "people": [
+      { "name": "Rod Steiger", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0061722",
+    "film_title": "The Graduate",
+    "is_win": true,
+    "people": [
+      { "name": "Mike Nichols", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1968,
+    "org_name": "Academy Awards",
+    "ceremony_name": "40th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0061418",
+    "film_title": "Bonnie and Clyde",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0060666",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1967,
+    "org_name": "Academy Awards",
+    "ceremony_name": "39th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0060666",
+    "film_title": "A Man for All Seasons",
+    "is_win": true,
+    "people": [
+      { "name": "Fred Zinnemann", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0059742",
+    "film_title": "The Sound of Music",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Wise", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1966,
+    "org_name": "Academy Awards",
+    "ceremony_name": "38th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0059113",
+    "film_title": "Doctor Zhivago",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": [
+      { "name": "George Cukor", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1965,
+    "org_name": "Academy Awards",
+    "ceremony_name": "37th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0058385",
+    "film_title": "My Fair Lady",
+    "is_win": true,
+    "people": [
+      { "name": "Rex Harrison", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1964,
+    "org_name": "Academy Awards",
+    "ceremony_name": "36th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0057012",
+    "film_title": "Tom Jones",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": true,
+    "people": [
+      { "name": "David Lean", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": true,
+    "people": [
+      { "name": "David Lean", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1963,
+    "org_name": "Academy Awards",
+    "ceremony_name": "35th Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt0056172",
+    "film_title": "Lawrence of Arabia",
+    "is_win": true,
+    "people": [
+      { "name": "Freddie Young", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0055031",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1962,
+    "org_name": "Academy Awards",
+    "ceremony_name": "34th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0055031",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Wise", "role": "Director" },
+      { "name": "Jerome Robbins", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0053291",
+    "film_title": "The Apartment",
+    "is_win": true,
+    "people": [
+      { "name": "Billy Wilder", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0053291",
+    "film_title": "The Apartment",
+    "is_win": true,
+    "people": [
+      { "name": "Billy Wilder", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1961,
+    "org_name": "Academy Awards",
+    "ceremony_name": "33rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0054152",
+    "film_title": "Psycho",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      { "name": "William Wyler", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      { "name": "William Wyler", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1960,
+    "org_name": "Academy Awards",
+    "ceremony_name": "32nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052618",
+    "film_title": "Ben-Hur",
+    "is_win": true,
+    "people": [
+      { "name": "Charlton Heston", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051201",
+    "film_title": "Gigi",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051554",
+    "film_title": "Vertigo",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      { "name": "David Lean", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      { "name": "David Lean", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      { "name": "Alec Guinness", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0049223",
+    "film_title": "Around the World in 80 Days",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048973",
+    "film_title": "Marty",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      { "name": "Elia Kazan", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      { "name": "Elia Kazan", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      { "name": "Marlon Brando", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0045152",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044706",
+    "film_title": "The Greatest Show on Earth",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044741",
+    "film_title": "High Noon",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043338",
+    "film_title": "An American in Paris",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042192",
+    "film_title": "All About Eve",
+    "is_win": true,
+    "people": [
+      { "name": "Joseph L. Mankiewicz", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0042192",
+    "film_title": "All About Eve",
+    "is_win": true,
+    "people": [
+      { "name": "Joseph L. Mankiewicz", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042994",
+    "film_title": "Sunset Boulevard",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041959",
+    "film_title": "All the King's Men",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040416",
+    "film_title": "Hamlet",
+    "is_win": true,
+    "people": [
+      { "name": "Laurence Olivier", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1949,
+    "org_name": "Academy Awards",
+    "ceremony_name": "21st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0040897",
+    "film_title": "The Treasure of the Sierra Madre",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1948,
+    "org_name": "Academy Awards",
+    "ceremony_name": "20th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0039416",
+    "film_title": "Gentleman's Agreement",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038650",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      { "name": "William Wyler", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0038650",
+    "film_title": "The Best Years of Our Lives",
+    "is_win": true,
+    "people": [
+      { "name": "William Wyler", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1947,
+    "org_name": "Academy Awards",
+    "ceremony_name": "19th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0038787",
+    "film_title": "It's a Wonderful Life",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1946,
+    "org_name": "Academy Awards",
+    "ceremony_name": "18th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0037884",
+    "film_title": "The Lost Weekend",
+    "is_win": true,
+    "people": [
+      { "name": "Billy Wilder", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036868",
+    "film_title": "Going My Way",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1945,
+    "org_name": "Academy Awards",
+    "ceremony_name": "17th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0036775",
+    "film_title": "Double Indemnity",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": true,
+    "people": [
+      { "name": "Michael Curtiz", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1944,
+    "org_name": "Academy Awards",
+    "ceremony_name": "16th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0034583",
+    "film_title": "Casablanca",
+    "is_win": true,
+    "people": [
+      { "name": "Michael Curtiz", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0032138",
+    "film_title": "Rebecca",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1941,
+    "org_name": "Academy Awards",
+    "ceremony_name": "13th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0033467",
+    "film_title": "Citizen Kane",
+    "is_win": true,
+    "people": [
+      { "name": "Herman J. Mankiewicz", "role": "Writer" },
+      { "name": "Orson Welles", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      { "name": "Victor Fleming", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      { "name": "Victor Fleming", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0031381",
+    "film_title": "Gone with the Wind",
+    "is_win": true,
+    "people": [
+      { "name": "Vivien Leigh", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 1940,
+    "org_name": "Academy Awards",
+    "ceremony_name": "12th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0031971",
+    "film_title": "The Wizard of Oz",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029870",
+    "film_title": "You Can't Take It with You",
+    "is_win": true,
+    "people": []
+  }
+]

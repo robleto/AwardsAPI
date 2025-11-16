@@ -1,0 +1,4403 @@
+[
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1263670",
+    "film_title": "Crazy Heart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Clooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1315981",
+    "film_title": "A Single Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Colin Firth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1057500",
+    "film_title": "Invictus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morgan Freeman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0887912",
+    "film_title": "The Hurt Locker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeremy Renner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1057500",
+    "film_title": "Invictus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Matt Damon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0790712",
+    "film_title": "The Messenger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Harrelson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0824758",
+    "film_title": "The Last Station",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Plummer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0380510",
+    "film_title": "The Lovely Bones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Tucci",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0361748",
+    "film_title": "Inglourious Basterds",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christoph Waltz",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0878804",
+    "film_title": "The Blind Side",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sandra Bullock",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0824758",
+    "film_title": "The Last Station",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Mirren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1174732",
+    "film_title": "An Education",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carey Mulligan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0929632",
+    "film_title": "Precious: Based on the Novel 'Push' by Sapphire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gabourey Sidibe",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1135503",
+    "film_title": "Julie & Julia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0875034",
+    "film_title": "Nine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Penélope Cruz",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vera Farmiga",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1263670",
+    "film_title": "Crazy Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie Gyllenhaal",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anna Kendrick",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0929632",
+    "film_title": "Precious: Based on the Novel 'Push' by Sapphire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mo'Nique",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0327597",
+    "film_title": "Coraline",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Selick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0432283",
+    "film_title": "Fantastic Mr. Fox",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0780521",
+    "film_title": "The Princess and the Frog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Musker",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ron Clements",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0485601",
+    "film_title": "The Secret of Kells",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tomm Moore",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1049413",
+    "film_title": "Up",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Pete Docter",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0499549",
+    "film_title": "Avatar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Cameron",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0887912",
+    "film_title": "The Hurt Locker",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kathryn Bigelow",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0361748",
+    "film_title": "Inglourious Basterds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Quentin Tarantino",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0929632",
+    "film_title": "Precious: Based on the Novel 'Push' by Sapphire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Daniels",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Reitman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0499549",
+    "film_title": "Avatar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Cameron",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jon Landau",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0878804",
+    "film_title": "The Blind Side",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gil Netter",
+        "role": "Honoree"
+      },
+      {
+        "name": "Andrew A. Kosove",
+        "role": "Honoree"
+      },
+      {
+        "name": "Broderick Johnson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1136608",
+    "film_title": "District 9",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Jackson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Carolynne Cunningham",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1174732",
+    "film_title": "An Education",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Finola Dwyer",
+        "role": "Honoree"
+      },
+      {
+        "name": "Amanda Posey",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0887912",
+    "film_title": "The Hurt Locker",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kathryn Bigelow",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mark Boal",
+        "role": "Honoree"
+      },
+      {
+        "name": "Nicolas Chartier",
+        "role": "Honoree"
+      },
+      {
+        "name": "Greg Shapiro",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0361748",
+    "film_title": "Inglourious Basterds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Bender",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0929632",
+    "film_title": "Precious: Based on the Novel 'Push' by Sapphire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Daniels",
+        "role": "Honoree"
+      },
+      {
+        "name": "Sarah Siegel-Magness",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gary Magness",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1019452",
+    "film_title": "A Serious Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1049413",
+    "film_title": "Up",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonas Rivera",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Dubiecki",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ivan Reitman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jason Reitman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1136608",
+    "film_title": "District 9",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neill Blomkamp",
+        "role": "Writer"
+      },
+      {
+        "name": "Terri Tatchell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1174732",
+    "film_title": "An Education",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Hornby",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1226774",
+    "film_title": "In the Loop",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jesse Armstrong",
+        "role": "Writer"
+      },
+      {
+        "name": "Simon Blackwell",
+        "role": "Writer"
+      },
+      {
+        "name": "Armando Iannucci",
+        "role": "Writer"
+      },
+      {
+        "name": "Tony Roche",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0929632",
+    "film_title": "Precious: Based on the Novel 'Push' by Sapphire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Geoffrey Fletcher",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1193138",
+    "film_title": "Up in the Air",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Reitman",
+        "role": "Writer"
+      },
+      {
+        "name": "Sheldon Turner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0887912",
+    "film_title": "The Hurt Locker",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mark Boal",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0361748",
+    "film_title": "Inglourious Basterds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Quentin Tarantino",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0790712",
+    "film_title": "The Messenger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alessandro Camon",
+        "role": "Writer"
+      },
+      {
+        "name": "Oren Moverman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1019452",
+    "film_title": "A Serious Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1049413",
+    "film_title": "Up",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Peterson",
+        "role": "Writer"
+      },
+      {
+        "name": "Pete Docter",
+        "role": "Writer"
+      },
+      {
+        "name": "Tom McCarthy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lauren Bacall",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Roger Corman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gordon Willis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1164999",
+    "film_title": "Biutiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Javier Bardem",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1403865",
+    "film_title": "True Grit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1285016",
+    "film_title": "The Social Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jesse Eisenberg",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Colin Firth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1542344",
+    "film_title": "127 Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Franco",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christian Bale",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1399683",
+    "film_title": "Winter's Bone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Hawkes",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0840361",
+    "film_title": "The Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeremy Renner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0842926",
+    "film_title": "The Kids Are All Right",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Ruffalo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geoffrey Rush",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0842926",
+    "film_title": "The Kids Are All Right",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Annette Bening",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0935075",
+    "film_title": "Rabbit Hole",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicole Kidman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1399683",
+    "film_title": "Winter's Bone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Lawrence",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0947798",
+    "film_title": "Black Swan",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Natalie Portman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1120985",
+    "film_title": "Blue Valentine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Williams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Adams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helena Bonham Carter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Melissa Leo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1403865",
+    "film_title": "True Grit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hailee Steinfeld",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1313092",
+    "film_title": "Animal Kingdom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacki Weaver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0892769",
+    "film_title": "How to Train Your Dragon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Sanders",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dean DeBlois",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0775489",
+    "film_title": "The Illusionist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvain Chomet",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0435761",
+    "film_title": "Toy Story 3",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lee Unkrich",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0947798",
+    "film_title": "Black Swan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Darren Aronofsky",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David O. Russell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tom Hooper",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1285016",
+    "film_title": "The Social Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Fincher",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1403865",
+    "film_title": "True Grit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Director"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0947798",
+    "film_title": "Black Swan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Medavoy",
+        "role": "Honoree"
+      },
+      {
+        "name": "Brian Oliver",
+        "role": "Honoree"
+      },
+      {
+        "name": "Scott Franklin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Hoberman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Todd Lieberman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1375666",
+    "film_title": "Inception",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Thomas",
+        "role": "Honoree"
+      },
+      {
+        "name": "Christopher Nolan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0842926",
+    "film_title": "The Kids Are All Right",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Gilbert",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeffrey Levy-Hinte",
+        "role": "Honoree"
+      },
+      {
+        "name": "Celine Rattray",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Iain Canning",
+        "role": "Honoree"
+      },
+      {
+        "name": "Emile Sherman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gareth Unwin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1542344",
+    "film_title": "127 Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christian Colson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Danny Boyle",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Smithson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1285016",
+    "film_title": "The Social Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dana Brunetti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael De Luca",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ceán Chaffin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0435761",
+    "film_title": "Toy Story 3",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Darla K. Anderson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1403865",
+    "film_title": "True Grit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Joel Coen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1399683",
+    "film_title": "Winter's Bone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Rosellini",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alix Madigan-Yorkin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1542344",
+    "film_title": "127 Hours",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Danny Boyle",
+        "role": "Writer"
+      },
+      {
+        "name": "Simon Beaufoy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1285016",
+    "film_title": "The Social Network",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Aaron Sorkin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0435761",
+    "film_title": "Toy Story 3",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Arndt",
+        "role": "Writer"
+      },
+      {
+        "name": "John Lasseter",
+        "role": "Writer"
+      },
+      {
+        "name": "Andrew Stanton",
+        "role": "Writer"
+      },
+      {
+        "name": "Lee Unkrich",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1403865",
+    "film_title": "True Grit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1399683",
+    "film_title": "Winter's Bone",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Debra Granik",
+        "role": "Writer"
+      },
+      {
+        "name": "Anne Rosellini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1431181",
+    "film_title": "Another Year",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Leigh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0964517",
+    "film_title": "The Fighter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Silver",
+        "role": "Writer"
+      },
+      {
+        "name": "Paul Tamasy",
+        "role": "Writer"
+      },
+      {
+        "name": "Eric Johnson",
+        "role": "Writer"
+      },
+      {
+        "name": "Keith Dorrington",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1375666",
+    "film_title": "Inception",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christopher Nolan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0842926",
+    "film_title": "The Kids Are All Right",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lisa Cholodenko",
+        "role": "Writer"
+      },
+      {
+        "name": "Stuart Blumberg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1504320",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Seidler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kevin Brownlow",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jean-Luc Godard",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eli Wallach",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1554091",
+    "film_title": "A Better Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Demián Bichir",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1033575",
+    "film_title": "The Descendants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Clooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1655442",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jean Dujardin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1340800",
+    "film_title": "Tinker Tailor Soldier Spy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Oldman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1210166",
+    "film_title": "Moneyball",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brad Pitt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1655420",
+    "film_title": "My Week with Marilyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Branagh",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1210166",
+    "film_title": "Moneyball",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonah Hill",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1291584",
+    "film_title": "Warrior",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Nolte",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1532503",
+    "film_title": "Beginners",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christopher Plummer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0477302",
+    "film_title": "Extremely Loud & Incredibly Close",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Max von Sydow",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1602098",
+    "film_title": "Albert Nobbs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenn Close",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1454029",
+    "film_title": "The Help",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Viola Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1568346",
+    "film_title": "The Girl with the Dragon Tattoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rooney Mara",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1007029",
+    "film_title": "The Iron Lady",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1655420",
+    "film_title": "My Week with Marilyn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Williams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1655442",
+    "film_title": "The Artist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bérénice Bejo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1454029",
+    "film_title": "The Help",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Chastain",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1478338",
+    "film_title": "Bridesmaids",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melissa McCarthy",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1602098",
+    "film_title": "Albert Nobbs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Janet McTeer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1454029",
+    "film_title": "The Help",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Octavia Spencer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1673702",
+    "film_title": "A Cat in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alain Gagnol",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jean-Loup Felicioli",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1235830",
+    "film_title": "Chico & Rita",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fernando Trueba",
+        "role": "Honoree"
+      },
+      {
+        "name": "Javier Mariscal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1302011",
+    "film_title": "Kung Fu Panda 2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Yuh Nelson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0448694",
+    "film_title": "Puss in Boots",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Miller",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1192628",
+    "film_title": "Rango",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gore Verbinski",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1655442",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michel Hazanavicius",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1033575",
+    "film_title": "The Descendants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alexander Payne",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0970179",
+    "film_title": "Hugo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1605783",
+    "film_title": "Midnight in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0478304",
+    "film_title": "The Tree of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terrence Malick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1655442",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Thomas Langmann",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1033575",
+    "film_title": "The Descendants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Burke",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alexander Payne",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jim Taylor",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0477302",
+    "film_title": "Extremely Loud & Incredibly Close",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1454029",
+    "film_title": "The Help",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brunson Green",
+        "role": "Honoree"
+      },
+      {
+        "name": "Chris Columbus",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Barnathan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0970179",
+    "film_title": "Hugo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham King",
+        "role": "Honoree"
+      },
+      {
+        "name": "Martin Scorsese",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1605783",
+    "film_title": "Midnight in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Letty Aronson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Stephen Tenenbaum",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1210166",
+    "film_title": "Moneyball",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael De Luca",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rachael Horovitz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Brad Pitt",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0478304",
+    "film_title": "The Tree of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sarah Green",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bill Pohlad",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Grant Hill",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1568911",
+    "film_title": "War Horse",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1033575",
+    "film_title": "The Descendants",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alexander Payne",
+        "role": "Writer"
+      },
+      {
+        "name": "Nat Faxon",
+        "role": "Writer"
+      },
+      {
+        "name": "Jim Rash",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0970179",
+    "film_title": "Hugo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Logan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1124035",
+    "film_title": "The Ides of March",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Clooney",
+        "role": "Writer"
+      },
+      {
+        "name": "Grant Heslov",
+        "role": "Writer"
+      },
+      {
+        "name": "Beau Willimon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1210166",
+    "film_title": "Moneyball",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Zaillian",
+        "role": "Writer"
+      },
+      {
+        "name": "Aaron Sorkin",
+        "role": "Writer"
+      },
+      {
+        "name": "Stan Chervin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1340800",
+    "film_title": "Tinker Tailor Soldier Spy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bridget O'Connor",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Straughan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1655442",
+    "film_title": "The Artist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michel Hazanavicius",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1478338",
+    "film_title": "Bridesmaids",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Annie Mumolo",
+        "role": "Writer"
+      },
+      {
+        "name": "Kristen Wiig",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1615147",
+    "film_title": "Margin Call",
+    "is_win": false,
+    "people": [
+      {
+        "name": "J.C. Chandor",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1605783",
+    "film_title": "Midnight in Paris",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1832382",
+    "film_title": "A Separation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Asghar Farhadi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Earl Jones",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dick Smith",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bradley Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Daniel Day-Lewis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1707386",
+    "film_title": "Les Misérables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hugh Jackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1560747",
+    "film_title": "The Master",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joaquin Phoenix",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1907668",
+    "film_title": "Flight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1024648",
+    "film_title": "Argo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Arkin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1560747",
+    "film_title": "The Master",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip Seymour Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tommy Lee Jones",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1853728",
+    "film_title": "Django Unchained",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christoph Waltz",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1790885",
+    "film_title": "Zero Dark Thirty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Chastain",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jennifer Lawrence",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1602620",
+    "film_title": "Amour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emmanuelle Riva",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2125435",
+    "film_title": "Beasts of the Southern Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Quvenzhané Wallis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1649419",
+    "film_title": "The Impossible",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Naomi Watts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1560747",
+    "film_title": "The Master",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Adams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sally Field",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1707386",
+    "film_title": "Les Misérables",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anne Hathaway",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1866249",
+    "film_title": "The Sessions",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Hunt",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacki Weaver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1217209",
+    "film_title": "Brave",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mark Andrews",
+        "role": "Honoree"
+      },
+      {
+        "name": "Brenda Chapman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1142977",
+    "film_title": "Frankenweenie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Burton",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1623288",
+    "film_title": "ParaNorman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Fell",
+        "role": "Honoree"
+      },
+      {
+        "name": "Chris Butler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1430626",
+    "film_title": "The Pirates! Band of Misfits",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Lord",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1772341",
+    "film_title": "Wreck-It Ralph",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rich Moore",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1602620",
+    "film_title": "Amour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Haneke",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2125435",
+    "film_title": "Beasts of the Southern Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Benh Zeitlin",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0454876",
+    "film_title": "Life of Pi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ang Lee",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David O. Russell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1602620",
+    "film_title": "Amour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margaret Menegoz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Stefan Arndt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Veit Heiduschka",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Katz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1024648",
+    "film_title": "Argo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Grant Heslov",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ben Affleck",
+        "role": "Honoree"
+      },
+      {
+        "name": "George Clooney",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2125435",
+    "film_title": "Beasts of the Southern Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dan Janvey",
+        "role": "Honoree"
+      },
+      {
+        "name": "Josh Penn",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Gottwald",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1853728",
+    "film_title": "Django Unchained",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stacey Sher",
+        "role": "Honoree"
+      },
+      {
+        "name": "Reginald Hudlin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Pilar Savone",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1707386",
+    "film_title": "Les Misérables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Bevan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Eric Fellner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Debra Hayward",
+        "role": "Honoree"
+      },
+      {
+        "name": "Cameron Mackintosh",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0454876",
+    "film_title": "Life of Pi",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gil Netter",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ang Lee",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Womark",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Donna Gigliotti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bruce Cohen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jonathan Gordon",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1790885",
+    "film_title": "Zero Dark Thirty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Boal",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kathryn Bigelow",
+        "role": "Honoree"
+      },
+      {
+        "name": "Megan Ellison",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1024648",
+    "film_title": "Argo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Chris Terrio",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2125435",
+    "film_title": "Beasts of the Southern Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lucy Alibar",
+        "role": "Writer"
+      },
+      {
+        "name": "Benh Zeitlin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0454876",
+    "film_title": "Life of Pi",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Magee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0443272",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tony Kushner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David O. Russell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1602620",
+    "film_title": "Amour",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Haneke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1853728",
+    "film_title": "Django Unchained",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Quentin Tarantino",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1907668",
+    "film_title": "Flight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Gatins",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1748122",
+    "film_title": "Moonrise Kingdom",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wes Anderson",
+        "role": "Writer"
+      },
+      {
+        "name": "Roman Coppola",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1790885",
+    "film_title": "Zero Dark Thirty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Boal",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hal Needham",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "D.A. Pennebaker",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Stevens Jr.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Christian Bale",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1821549",
+    "film_title": "Nebraska",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Dern",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0993846",
+    "film_title": "The Wolf of Wall Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chiwetel Ejiofor",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0790636",
+    "film_title": "Dallas Buyers Club",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Matthew McConaughey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1535109",
+    "film_title": "Captain Phillips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barkhad Abdi",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bradley Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Fassbender",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0993846",
+    "film_title": "The Wolf of Wall Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jonah Hill",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0790636",
+    "film_title": "Dallas Buyers Club",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jared Leto",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Amy Adams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2334873",
+    "film_title": "Blue Jasmine",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cate Blanchett",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1454468",
+    "film_title": "Gravity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sandra Bullock",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt2431286",
+    "film_title": "Philomena",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judi Dench",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1322269",
+    "film_title": "August: Osage County",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2334873",
+    "film_title": "Blue Jasmine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sally Hawkins",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Lawrence",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lupita Nyong'o",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1322269",
+    "film_title": "August: Osage County",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julia Roberts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1821549",
+    "film_title": "Nebraska",
+    "is_win": false,
+    "people": [
+      {
+        "name": "June Squibb",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt0481499",
+    "film_title": "The Croods",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Sanders",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kirk DeMicco",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kristine Belson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1690953",
+    "film_title": "Despicable Me 2",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Renaud",
+        "role": "Honoree"
+      },
+      {
+        "name": "Pierre Coffin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Chris Meledandri",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt1816518",
+    "film_title": "Ernest & Celestine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Benjamin Renner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Didier Brunner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2294629",
+    "film_title": "Frozen",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Chris Buck",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jennifer Lee",
+        "role": "Honoree"
+      },
+      {
+        "name": "Peter Del Vecho",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2013293",
+    "film_title": "The Wind Rises",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hayao Miyazaki",
+        "role": "Honoree"
+      },
+      {
+        "name": "Toshio Suzuki",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David O. Russell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1454468",
+    "film_title": "Gravity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1821549",
+    "film_title": "Nebraska",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alexander Payne",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve McQueen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0993846",
+    "film_title": "The Wolf of Wall Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Roven",
+        "role": "Honoree"
+      },
+      {
+        "name": "Richard Suckle",
+        "role": "Honoree"
+      },
+      {
+        "name": "Megan Ellison",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jonathan Gordon",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1535109",
+    "film_title": "Captain Phillips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Rudin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dana Brunetti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael De Luca",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0790636",
+    "film_title": "Dallas Buyers Club",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robbie Brenner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rachel Winter",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1454468",
+    "film_title": "Gravity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfonso Cuarón",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Heyman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1798709",
+    "film_title": "Her",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Megan Ellison",
+        "role": "Honoree"
+      },
+      {
+        "name": "Spike Jonze",
+        "role": "Honoree"
+      },
+      {
+        "name": "Vincent Landay",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1821549",
+    "film_title": "Nebraska",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Berger",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ron Yerxa",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2431286",
+    "film_title": "Philomena",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gabrielle Tana",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve Coogan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Tracey Seaward",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Brad Pitt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Dede Gardner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve McQueen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Anthony Katagas",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0993846",
+    "film_title": "The Wolf of Wall Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Honoree"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Honoree"
+      },
+      {
+        "name": "Joey McFarland",
+        "role": "Honoree"
+      },
+      {
+        "name": "Emma Tillinger Koskoff",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2209418",
+    "film_title": "Before Midnight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Linklater",
+        "role": "Writer"
+      },
+      {
+        "name": "Julie Delpy",
+        "role": "Writer"
+      },
+      {
+        "name": "Ethan Hawke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1535109",
+    "film_title": "Captain Phillips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Ray",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2431286",
+    "film_title": "Philomena",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Coogan",
+        "role": "Writer"
+      },
+      {
+        "name": "Jeff Pope",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2024544",
+    "film_title": "12 Years a Slave",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Ridley",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0993846",
+    "film_title": "The Wolf of Wall Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terence Winter",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1800241",
+    "film_title": "American Hustle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Warren Singer",
+        "role": "Writer"
+      },
+      {
+        "name": "David O. Russell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt2334873",
+    "film_title": "Blue Jasmine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0790636",
+    "film_title": "Dallas Buyers Club",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Craig Borten",
+        "role": "Writer"
+      },
+      {
+        "name": "Melisa Wallack",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1798709",
+    "film_title": "Her",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Spike Jonze",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1821549",
+    "film_title": "Nebraska",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Nelson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Angela Lansbury",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steve Martin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Piero Tosi",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

@@ -84,12 +84,29 @@ async function handlePaymentSucceeded(invoice) {
 }
 
 function getPlanLimits(priceId) {
+  // Map Stripe Price IDs (from env) to tiers and limits
   const planMap = {
+    // Games
+    [process.env.STRIPE_PRICE_GAMES_STARTER_MONTHLY]: { tier: 'games_starter', daily_limit: 1000, monthly_limit: 10000 },
+    [process.env.STRIPE_PRICE_GAMES_STARTER_ANNUAL]: { tier: 'games_starter', daily_limit: 1000, monthly_limit: 10000 },
+    [process.env.STRIPE_PRICE_GAMES_PRO_MONTHLY]: { tier: 'games_pro', daily_limit: 25000, monthly_limit: 250000 },
+    [process.env.STRIPE_PRICE_GAMES_PRO_ANNUAL]: { tier: 'games_pro', daily_limit: 25000, monthly_limit: 250000 },
+    // Film
+    [process.env.STRIPE_PRICE_FILM_STARTER_MONTHLY]: { tier: 'film_starter', daily_limit: 5000, monthly_limit: 50000 },
+    [process.env.STRIPE_PRICE_FILM_STARTER_ANNUAL]: { tier: 'film_starter', daily_limit: 5000, monthly_limit: 50000 },
+    [process.env.STRIPE_PRICE_FILM_PRO_MONTHLY]: { tier: 'film_pro', daily_limit: 50000, monthly_limit: 500000 },
+    [process.env.STRIPE_PRICE_FILM_PRO_ANNUAL]: { tier: 'film_pro', daily_limit: 50000, monthly_limit: 500000 },
+    // Bundle
+    [process.env.STRIPE_PRICE_BUNDLE_STARTER_MONTHLY]: { tier: 'bundle_starter', daily_limit: 6000, monthly_limit: 60000 },
+    [process.env.STRIPE_PRICE_BUNDLE_STARTER_ANNUAL]: { tier: 'bundle_starter', daily_limit: 6000, monthly_limit: 60000 },
+    [process.env.STRIPE_PRICE_BUNDLE_PRO_MONTHLY]: { tier: 'bundle_pro', daily_limit: 70000, monthly_limit: 700000 },
+    [process.env.STRIPE_PRICE_BUNDLE_PRO_ANNUAL]: { tier: 'bundle_pro', daily_limit: 70000, monthly_limit: 700000 },
+    // Deprecated (legacy) - fallback support
     'price_professional_monthly': { tier: 'professional', daily_limit: 3333, monthly_limit: 100000 },
     'price_professional_annual': { tier: 'professional', daily_limit: 3333, monthly_limit: 100000 },
     'price_enterprise_monthly': { tier: 'enterprise', daily_limit: 33333, monthly_limit: 1000000 },
     'price_enterprise_annual': { tier: 'enterprise', daily_limit: 33333, monthly_limit: 1000000 }
   };
-  
+
   return planMap[priceId] || { tier: 'free', daily_limit: 1000, monthly_limit: 1000 };
 }

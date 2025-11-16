@@ -1,0 +1,894 @@
+[
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7713068",
+    "film_title": "Roma",
+    "is_win": true,
+    "people": [
+      { "name": "Alfonso Cuarón", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6328300",
+    "film_title": "Bohemian Rhapsody",
+    "is_win": true,
+    "people": [
+      { "name": "Rami Malek", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt7131622",
+    "film_title": "The Favourite",
+    "is_win": true,
+    "people": [
+      { "name": "Olivia Colman", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      { "name": "Mahershala Ali", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6328300",
+    "film_title": "If Beale Street Could Talk",
+    "is_win": true,
+    "people": [
+      { "name": "Regina King", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt7713068",
+    "film_title": "Roma",
+    "is_win": true,
+    "people": [
+      { "name": "Alfonso Cuarón", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3783958",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4154796",
+    "film_title": "Avengers: Infinity War",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4975722",
+    "film_title": "The Shape of Water",
+    "is_win": true,
+    "people": [
+      { "name": "Guillermo del Toro", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4975722",
+    "film_title": "The Shape of Water",
+    "is_win": true,
+    "people": [
+      { "name": "Guillermo del Toro", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt5613484",
+    "film_title": "Darkest Hour",
+    "is_win": true,
+    "people": [
+      { "name": "Gary Oldman", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "Three Billboards Outside Ebbing, Missouri",
+    "is_win": true,
+    "people": [
+      { "name": "Frances McDormand", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt5580390",
+    "film_title": "Three Billboards Outside Ebbing, Missouri",
+    "is_win": true,
+    "people": [
+      { "name": "Sam Rockwell", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "I, Tonya",
+    "is_win": true,
+    "people": [
+      { "name": "Allison Janney", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2582802",
+    "film_title": "Dunkirk",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5027774",
+    "film_title": "Get Out",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt5027774",
+    "film_title": "Get Out",
+    "is_win": true,
+    "people": [
+      { "name": "Jordan Peele", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt4633694",
+    "film_title": "Moonlight",
+    "is_win": true,
+    "people": [
+      { "name": "Barry Jenkins", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": true,
+    "people": [
+      { "name": "Damien Chazelle", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1504320",
+    "film_title": "Manchester by the Sea",
+    "is_win": true,
+    "people": [
+      { "name": "Casey Affleck", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": true,
+    "people": [
+      { "name": "Emma Stone", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2582802",
+    "film_title": "Moonlight",
+    "is_win": true,
+    "people": [
+      { "name": "Mahershala Ali", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2851858",
+    "film_title": "Fences",
+    "is_win": true,
+    "people": [
+      { "name": "Viola Davis", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3783958",
+    "film_title": "La La Land",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt3659388",
+    "film_title": "Arrival",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1856101",
+    "film_title": "Spotlight",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": true,
+    "people": [
+      { "name": "Alejandro G. Iñárritu", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": true,
+    "people": [
+      { "name": "Leonardo DiCaprio", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1840309",
+    "film_title": "Room",
+    "is_win": true,
+    "people": [
+      { "name": "Brie Larson", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1638002",
+    "film_title": "Bridge of Spies",
+    "is_win": true,
+    "people": [
+      { "name": "Mark Rylance", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2140373",
+    "film_title": "The Danish Girl",
+    "is_win": true,
+    "people": [
+      { "name": "Alicia Vikander", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2096673",
+    "film_title": "Mad Max: Fury Road",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt1663202",
+    "film_title": "The Revenant",
+    "is_win": true,
+    "people": [
+      { "name": "Emmanuel Lubezki", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman",
+    "is_win": true,
+    "people": [
+      { "name": "Alejandro G. Iñárritu", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt2562232",
+    "film_title": "Birdman",
+    "is_win": true,
+    "people": [
+      { "name": "Alejandro G. Iñárritu", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1895587",
+    "film_title": "The Theory of Everything",
+    "is_win": true,
+    "people": [
+      { "name": "Eddie Redmayne", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1798709",
+    "film_title": "Still Alice",
+    "is_win": true,
+    "people": [
+      { "name": "Julianne Moore", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt2562232",
+    "film_title": "Whiplash",
+    "is_win": true,
+    "people": [
+      { "name": "J.K. Simmons", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt2562232",
+    "film_title": "Boyhood",
+    "is_win": true,
+    "people": [
+      { "name": "Patricia Arquette", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1430132",
+    "film_title": "Boyhood",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt2278388",
+    "film_title": "The Grand Budapest Hotel",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1430132",
+    "film_title": "12 Years a Slave",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1454468",
+    "film_title": "Gravity",
+    "is_win": true,
+    "people": [
+      { "name": "Alfonso Cuarón", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1596363",
+    "film_title": "Dallas Buyers Club",
+    "is_win": true,
+    "people": [
+      { "name": "Matthew McConaughey", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0133240",
+    "film_title": "Blue Jasmine",
+    "is_win": true,
+    "people": [
+      { "name": "Cate Blanchett", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1596363",
+    "film_title": "Dallas Buyers Club",
+    "is_win": true,
+    "people": [
+      { "name": "Jared Leto", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1430132",
+    "film_title": "12 Years a Slave",
+    "is_win": true,
+    "people": [
+      { "name": "Lupita Nyong'o", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1454468",
+    "film_title": "Gravity",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1024648",
+    "film_title": "Argo",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0454876",
+    "film_title": "Life of Pi",
+    "is_win": true,
+    "people": [
+      { "name": "Ang Lee", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1454029",
+    "film_title": "Lincoln",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Day-Lewis", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1045658",
+    "film_title": "Silver Linings Playbook",
+    "is_win": true,
+    "people": [
+      { "name": "Jennifer Lawrence", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1124035",
+    "film_title": "Django Unchained",
+    "is_win": true,
+    "people": [
+      { "name": "Christoph Waltz", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0458352",
+    "film_title": "Les Misérables",
+    "is_win": true,
+    "people": [
+      { "name": "Anne Hathaway", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1454029",
+    "film_title": "Lincoln",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0978762",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0978762",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": [
+      { "name": "Michel Hazanavicius", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0978762",
+    "film_title": "The Artist",
+    "is_win": true,
+    "people": [
+      { "name": "Jean Dujardin", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1655442",
+    "film_title": "The Iron Lady",
+    "is_win": true,
+    "people": [
+      { "name": "Meryl Streep", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1602613",
+    "film_title": "Beginners",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Plummer", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1454029",
+    "film_title": "The Help",
+    "is_win": true,
+    "people": [
+      { "name": "Octavia Spencer", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0268978",
+    "film_title": "Hugo",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1375666",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1375666",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      { "name": "Tom Hooper", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1375666",
+    "film_title": "The King's Speech",
+    "is_win": true,
+    "people": [
+      { "name": "Colin Firth", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0947798",
+    "film_title": "Black Swan",
+    "is_win": true,
+    "people": [
+      { "name": "Natalie Portman", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1014759",
+    "film_title": "The Fighter",
+    "is_win": true,
+    "people": [
+      { "name": "Christian Bale", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1014759",
+    "film_title": "The Fighter",
+    "is_win": true,
+    "people": [
+      { "name": "Melissa Leo", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1285016",
+    "film_title": "The Social Network",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1504320",
+    "film_title": "The Hurt Locker",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1504320",
+    "film_title": "The Hurt Locker",
+    "is_win": true,
+    "people": [
+      { "name": "Kathryn Bigelow", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt1243957",
+    "film_title": "Crazy Heart",
+    "is_win": true,
+    "people": [
+      { "name": "Jeff Bridges", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1204977",
+    "film_title": "The Blind Side",
+    "is_win": true,
+    "people": [
+      { "name": "Sandra Bullock", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0361748",
+    "film_title": "Inglourious Basterds",
+    "is_win": true,
+    "people": [
+      { "name": "Christoph Waltz", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0780536",
+    "film_title": "Precious",
+    "is_win": true,
+    "people": [
+      { "name": "Mo'Nique", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0499549",
+    "film_title": "Avatar",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1049413",
+    "film_title": "Up",
+    "is_win": false,
+    "people": []
+  }
+]

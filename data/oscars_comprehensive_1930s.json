@@ -1,0 +1,4608 @@
+[
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020499",
+    "film_title": "Thunderbolt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Bancroft",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020018",
+    "film_title": "In Old Arizona",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Warner Baxter",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019630",
+    "film_title": "Alibi",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chester Morris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020543",
+    "film_title": "The Valiant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019257",
+    "film_title": "The Patriot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lewis Stone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020126",
+    "film_title": "Madame X",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Chatterton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0018674",
+    "film_title": "The Barker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Betty Compson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020092",
+    "film_title": "The Letter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeanne Eagels",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0019824",
+    "film_title": "The Divine Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Corinne Griffith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0019729",
+    "film_title": "The Broadway Melody",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bessie Love",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0019788",
+    "film_title": "Coquette",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mary Pickford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020126",
+    "film_title": "Madame X",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lionel Barrymore",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019729",
+    "film_title": "The Broadway Melody",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harry Beaumont",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020018",
+    "film_title": "In Old Arizona",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irving Cummings",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019824",
+    "film_title": "The Divine Lady",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Lloyd",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019833",
+    "film_title": "Drag",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Lloyd",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019257",
+    "film_title": "The Patriot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernst Lubitsch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019630",
+    "film_title": "Alibi",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Feature Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0020018",
+    "film_title": "In Old Arizona",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019729",
+    "film_title": "The Broadway Melody",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019993",
+    "film_title": "Hollywood Revue",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019257",
+    "film_title": "The Patriot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Famous Lasky",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020018",
+    "film_title": "In Old Arizona",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Barry",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0018792",
+    "film_title": "The Cop",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elliott Clawson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020081",
+    "film_title": "The Last of Mrs. Cheyney",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hans Kraly",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0019257",
+    "film_title": "The Patriot",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Hans Kraly",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0019237",
+    "film_title": "Our Dancing Daughters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Josephine Lovett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0019591",
+    "film_title": "A Woman of Affairs",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bess Meredyth",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019823",
+    "film_title": "Disraeli",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Arliss",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020938",
+    "film_title": "The Green Goddess",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Arliss",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020686",
+    "film_title": "The Big House",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wallace Beery",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0020690",
+    "film_title": "The Big Pond",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maurice Chevalier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019735",
+    "film_title": "Bulldog Drummond",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ronald Colman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021307",
+    "film_title": "The Rogue Song",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Tibbett",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020823",
+    "film_title": "The Devil's Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nancy Carroll",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021335",
+    "film_title": "Sarah and Son",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Chatterton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020641",
+    "film_title": "Anna Christie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greta Garbo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020827",
+    "film_title": "The Divorcee",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020488",
+    "film_title": "Their Own Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020514",
+    "film_title": "The Trespasser",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gloria Swanson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020641",
+    "film_title": "Anna Christie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Brown",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020827",
+    "film_title": "The Divorcee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Leonard",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020112",
+    "film_title": "The Love Parade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernst Lubitsch",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020629",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lewis Milestone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019959",
+    "film_title": "Hallelujah",
+    "is_win": false,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0020629",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Universal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0020686",
+    "film_title": "The Big House",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cosmopolitan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019823",
+    "film_title": "Disraeli",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0020827",
+    "film_title": "The Divorcee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0020112",
+    "film_title": "The Love Parade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Famous Lasky",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020629",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Abbott",
+        "role": "Writer"
+      },
+      {
+        "name": "Maxwell Anderson",
+        "role": "Writer"
+      },
+      {
+        "name": "Del Andrews",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020686",
+    "film_title": "The Big House",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frances Marion",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0019823",
+    "film_title": "Disraeli",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julian Josephson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020827",
+    "film_title": "The Divorcee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Meehan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021420",
+    "film_title": "Street of Chance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Howard Estabrook",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021885",
+    "film_title": "A Free Soul",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lionel Barrymore",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0022397",
+    "film_title": "Skippy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jackie Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021746",
+    "film_title": "Cimarron",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Dix",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021322",
+    "film_title": "The Royal Family of Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fredric March",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021890",
+    "film_title": "The Front Page",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Adolphe Menjou",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021156",
+    "film_title": "Morocco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlene Dietrich",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021148",
+    "film_title": "Min and Bill",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marie Dressler",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021746",
+    "film_title": "Cimarron",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irene Dunne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0020985",
+    "film_title": "Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ann Harding",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021885",
+    "film_title": "A Free Soul",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021746",
+    "film_title": "Cimarron",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wesley Ruggles",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021885",
+    "film_title": "A Free Soul",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Brown",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021890",
+    "film_title": "The Front Page",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lewis Milestone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021156",
+    "film_title": "Morocco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Josef Von Sternberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0022397",
+    "film_title": "Skippy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Norman Taurog",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021746",
+    "film_title": "Cimarron",
+    "is_win": true,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021826",
+    "film_title": "East Lynne",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021890",
+    "film_title": "The Front Page",
+    "is_win": false,
+    "people": [
+      {
+        "name": "The Caddo Company",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0022397",
+    "film_title": "Skippy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Publix",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0022495",
+    "film_title": "Trader Horn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021746",
+    "film_title": "Cimarron",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Howard Estabrook",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021770",
+    "film_title": "The Criminal Code",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Seton I. Miller",
+        "role": "Writer"
+      },
+      {
+        "name": "Fred Niblo Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0020985",
+    "film_title": "Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Horace Jackson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021079",
+    "film_title": "Little Caesar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Faragoh",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert N. Lee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0022397",
+    "film_title": "Skippy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Writer"
+      },
+      {
+        "name": "Sam Mintz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021730",
+    "film_title": "The Champ",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Wallace Beery",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0021931",
+    "film_title": "The Guardsman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Lunt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0022835",
+    "film_title": "Dr. Jekyll and Mr. Hyde",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fredric March",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0022854",
+    "film_title": "Emma",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marie Dressler",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0021931",
+    "film_title": "The Guardsman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lynn Fontanne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0022386",
+    "film_title": "The Sin of Madelon Claudet",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Helen Hayes",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021635",
+    "film_title": "Bad Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Borzage",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0021730",
+    "film_title": "The Champ",
+    "is_win": false,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0023458",
+    "film_title": "Shanghai Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Josef Von Sternberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021622",
+    "film_title": "Arrowsmith",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021635",
+    "film_title": "Bad Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021730",
+    "film_title": "The Champ",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0021873",
+    "film_title": "Five Star Final",
+    "is_win": false,
+    "people": [
+      {
+        "name": "First National",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0022958",
+    "film_title": "Grand Hotel",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0023303",
+    "film_title": "One Hour with You",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Publix",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0023458",
+    "film_title": "Shanghai Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Publix",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0022074",
+    "film_title": "The Smiling Lieutenant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount Publix",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021622",
+    "film_title": "Arrowsmith",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Howard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0021635",
+    "film_title": "Bad Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edwin Burke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0022835",
+    "film_title": "Dr. Jekyll and Mr. Hyde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Percy Heath",
+        "role": "Writer"
+      },
+      {
+        "name": "Samuel Hoffenstein",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0023794",
+    "film_title": "Berkeley Square",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leslie Howard",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0024473",
+    "film_title": "The Private Life of Henry VIII",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Laughton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0023042",
+    "film_title": "I Am a Fugitive from a Chain Gang",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0024353",
+    "film_title": "Morning Glory",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0024240",
+    "film_title": "Lady for a Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "May Robson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0023876",
+    "film_title": "Cavalcade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diana Wynyard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0023876",
+    "film_title": "Cavalcade",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Lloyd",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0024240",
+    "film_title": "Lady for a Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0024264",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Cukor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0023876",
+    "film_title": "Cavalcade",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0022879",
+    "film_title": "A Farewell to Arms",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024034",
+    "film_title": "42nd Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0023042",
+    "film_title": "I Am a Fugitive from a Chain Gang",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024240",
+    "film_title": "Lady for a Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024264",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024473",
+    "film_title": "The Private Life of Henry VIII",
+    "is_win": false,
+    "people": [
+      {
+        "name": "London Films",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024548",
+    "film_title": "She Done Him Wrong",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0023488",
+    "film_title": "Smilin' Through",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024610",
+    "film_title": "State Fair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0024240",
+    "film_title": "Lady for a Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Riskin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0024264",
+    "film_title": "Little Women",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Victor Heerman",
+        "role": "Writer"
+      },
+      {
+        "name": "Sarah Y. Mason",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0024610",
+    "film_title": "State Fair",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Green",
+        "role": "Writer"
+      },
+      {
+        "name": "Sonya Levien",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Clark Gable",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0024816",
+    "film_title": "The Affairs of Cellini",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Morgan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0025878",
+    "film_title": "The Thin Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Powell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Claudette Colbert",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0025586",
+    "film_title": "Of Human Bondage",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0025601",
+    "film_title": "One Night of Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Grace Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0024865",
+    "film_title": "The Barretts of Wimpole Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0025601",
+    "film_title": "One Night of Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Victor Schertzinger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0025878",
+    "film_title": "The Thin Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "W. S. Van Dyke",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024865",
+    "film_title": "The Barretts of Wimpole Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0024991",
+    "film_title": "Cleopatra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025124",
+    "film_title": "Flirtation Walk",
+    "is_win": false,
+    "people": [
+      {
+        "name": "First National",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025164",
+    "film_title": "The Gay Divorcee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025238",
+    "film_title": "Here Comes the Navy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025272",
+    "film_title": "The House of Rothschild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025301",
+    "film_title": "Imitation of Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Universal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025601",
+    "film_title": "One Night of Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025878",
+    "film_title": "The Thin Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025948",
+    "film_title": "Viva Villa!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0025986",
+    "film_title": "The White Parade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jesse L. Lasky (production company)",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Riskin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0025878",
+    "film_title": "The Thin Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances Goodrich",
+        "role": "Writer"
+      },
+      {
+        "name": "Albert Hackett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0025948",
+    "film_title": "Viva Villa!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Hecht",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clark Gable",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Laughton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0026529",
+    "film_title": "The Informer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Victor McLaglen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0026121",
+    "film_title": "Black Fury",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Franchot Tone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026320",
+    "film_title": "Escape Me Never",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elisabeth Bergner",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026893",
+    "film_title": "Private Worlds",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claudette Colbert",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026261",
+    "film_title": "Dangerous",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026056",
+    "film_title": "Alice Adams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026104",
+    "film_title": "Becky Sharp",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Miriam Hopkins",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0026264",
+    "film_title": "The Dark Angel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Merle Oberon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0026174",
+    "film_title": "Captain Blood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Curtiz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0026529",
+    "film_title": "The Informer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0026643",
+    "film_title": "The Lives of a Bengal Lancer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Hathaway",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Lloyd",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026056",
+    "film_title": "Alice Adams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026144",
+    "film_title": "Broadway Melody of 1936",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026174",
+    "film_title": "Captain Blood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cosmopolitan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026266",
+    "film_title": "David Copperfield",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026529",
+    "film_title": "The Informer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026725",
+    "film_title": "Les Miserables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026643",
+    "film_title": "The Lives of a Bengal Lancer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026714",
+    "film_title": "A Midsummer Night's Dream",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026768",
+    "film_title": "Naughty Marietta",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0026955",
+    "film_title": "Ruggles of Red Gap",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027125",
+    "film_title": "Top Hat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0026174",
+    "film_title": "Captain Blood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Casey Robinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0026529",
+    "film_title": "The Informer",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dudley Nichols",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0026643",
+    "film_title": "The Lives of a Bengal Lancer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Waldemar Young",
+        "role": "Writer"
+      },
+      {
+        "name": "John L. Balderston",
+        "role": "Writer"
+      },
+      {
+        "name": "Achmed Abdullah",
+        "role": "Writer"
+      },
+      {
+        "name": "Grover Jones",
+        "role": "Writer"
+      },
+      {
+        "name": "William Slavens McNutt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0026752",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Talbot Jennings",
+        "role": "Writer"
+      },
+      {
+        "name": "Jules Furthman",
+        "role": "Writer"
+      },
+      {
+        "name": "Carey Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0027996",
+    "film_title": "Mr. Deeds Goes to Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0027532",
+    "film_title": "Dodsworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Huston",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0028313",
+    "film_title": "The Story of Louis Pasteur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Powell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0028216",
+    "film_title": "San Francisco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mischa Auer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0027459",
+    "film_title": "Come and Get It",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Brennan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0028103",
+    "film_title": "Pigskin Parade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stuart Erwin",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0028203",
+    "film_title": "Romeo and Juliet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Basil Rathbone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0027664",
+    "film_title": "The General Died at Dawn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Akim Tamiroff",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028355",
+    "film_title": "Theodora Goes Wild",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irene Dunne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028455",
+    "film_title": "Valiant Is the Word for Carrie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gladys George",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carole Lombard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0027698",
+    "film_title": "The Great Ziegfeld",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Luise Rainer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028203",
+    "film_title": "Romeo and Juliet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0027690",
+    "film_title": "The Gorgeous Hussy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Beulah Bondi",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alice Brady",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0028356",
+    "film_title": "These Three",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bonita Granville",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0027532",
+    "film_title": "Dodsworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maria Ouspenskaya",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0027300",
+    "film_title": "Anthony Adverse",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gale Sondergaard",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0027532",
+    "film_title": "Dodsworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0027698",
+    "film_title": "The Great Ziegfeld",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Z. Leonard",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0027996",
+    "film_title": "Mr. Deeds Goes to Town",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory La Cava",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0028216",
+    "film_title": "San Francisco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "W. S. Van Dyke",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027300",
+    "film_title": "Anthony Adverse",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027532",
+    "film_title": "Dodsworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027698",
+    "film_title": "The Great Ziegfeld",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027884",
+    "film_title": "Libeled Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027996",
+    "film_title": "Mr. Deeds Goes to Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028203",
+    "film_title": "Romeo and Juliet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028216",
+    "film_title": "San Francisco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028313",
+    "film_title": "The Story of Louis Pasteur",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cosmopolitan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0027075",
+    "film_title": "A Tale of Two Cities",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028373",
+    "film_title": "Three Smart Girls",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Universal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0027260",
+    "film_title": "After the Thin Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances Goodrich",
+        "role": "Writer"
+      },
+      {
+        "name": "Albert Hackett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0027532",
+    "film_title": "Dodsworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Howard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0027996",
+    "film_title": "Mr. Deeds Goes to Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Riskin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0028010",
+    "film_title": "My Man Godfrey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Hatch",
+        "role": "Writer"
+      },
+      {
+        "name": "Morris Ryskind",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0028313",
+    "film_title": "The Story of Louis Pasteur",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Pierre Collings",
+        "role": "Writer"
+      },
+      {
+        "name": "Sheridan Gibney",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0028739",
+    "film_title": "Conquest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Boyer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029606",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fredric March",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029310",
+    "film_title": "Night Must Fall",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Montgomery",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029146",
+    "film_title": "The Life of Emile Zola",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Muni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0028691",
+    "film_title": "Captains Courageous",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0028597",
+    "film_title": "The Awful Truth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Bellamy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0029030",
+    "film_title": "The Hurricane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thomas Mitchell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0029146",
+    "film_title": "The Life of Emile Zola",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph Schildkraut",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0029162",
+    "film_title": "Lost Horizon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "H. B. Warner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0029682",
+    "film_title": "Topper",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roland Young",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028597",
+    "film_title": "The Awful Truth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irene Dunne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028683",
+    "film_title": "Camille",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greta Garbo",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0029606",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Janet Gaynor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0028944",
+    "film_title": "The Good Earth",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Luise Rainer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0029608",
+    "film_title": "Stella Dallas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Stanwyck",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0029047",
+    "film_title": "In Old Chicago",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alice Brady",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0029604",
+    "film_title": "Stage Door",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andrea Leeds",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0029608",
+    "film_title": "Stella Dallas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Shirley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0028773",
+    "film_title": "Dead End",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claire Trevor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0029310",
+    "film_title": "Night Must Fall",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dame May Whitty",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0028597",
+    "film_title": "The Awful Truth",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Leo McCarey",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0028944",
+    "film_title": "The Good Earth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Franklin",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029146",
+    "film_title": "The Life of Emile Zola",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Dieterle",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029604",
+    "film_title": "Stage Door",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory La Cava",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029606",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wellman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028597",
+    "film_title": "The Awful Truth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028691",
+    "film_title": "Captains Courageous",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028773",
+    "film_title": "Dead End",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel Goldwyn Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028944",
+    "film_title": "The Good Earth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029047",
+    "film_title": "In Old Chicago",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029146",
+    "film_title": "The Life of Emile Zola",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029162",
+    "film_title": "Lost Horizon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029347",
+    "film_title": "One Hundred Men and a Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Universal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029604",
+    "film_title": "Stage Door",
+    "is_win": false,
+    "people": [
+      {
+        "name": "RKO Radio",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029606",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Selznick International Pictures",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0028597",
+    "film_title": "The Awful Truth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vina Delmar",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0028691",
+    "film_title": "Captains Courageous",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Lee Mahin",
+        "role": "Writer"
+      },
+      {
+        "name": "Marc Connelly",
+        "role": "Writer"
+      },
+      {
+        "name": "Dale Van Every",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0029146",
+    "film_title": "The Life of Emile Zola",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Norman Reilly Raine",
+        "role": "Writer"
+      },
+      {
+        "name": "Heinz Herald",
+        "role": "Writer"
+      },
+      {
+        "name": "Geza Herczeg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0029604",
+    "film_title": "Stage Door",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morris Ryskind",
+        "role": "Writer"
+      },
+      {
+        "name": "Anthony Veiller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0029606",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dorothy Parker",
+        "role": "Writer"
+      },
+      {
+        "name": "Alan Campbell",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert Carson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029855",
+    "film_title": "Algiers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Boyer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029870",
+    "film_title": "Angels with Dirty Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Cagney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029995",
+    "film_title": "The Citadel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Donat",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0030637",
+    "film_title": "Pygmalion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leslie Howard",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0029942",
+    "film_title": "Boys Town",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0030317",
+    "film_title": "Kentucky",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Brennan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0030149",
+    "film_title": "Four Daughters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Garfield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0029855",
+    "film_title": "Algiers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Lockhart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0030418",
+    "film_title": "Marie Antoinette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Morley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0030265",
+    "film_title": "If I Were King",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Basil Rathbone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0030973",
+    "film_title": "White Banners",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fay Bainter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0030287",
+    "film_title": "Jezebel",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0030637",
+    "film_title": "Pygmalion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Wendy Hiller",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0030418",
+    "film_title": "Marie Antoinette",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norma Shearer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0030865",
+    "film_title": "Three Comrades",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margaret Sullavan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0030287",
+    "film_title": "Jezebel",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fay Bainter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0030517",
+    "film_title": "Of Human Hearts",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Beulah Bondi",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0030442",
+    "film_title": "Merrily We Live",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billie Burke",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0030993",
+    "film_title": "You Can't Take It with You",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spring Byington",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0030202",
+    "film_title": "The Great Waltz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Miliza Korjus",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029870",
+    "film_title": "Angels with Dirty Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Curtiz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029942",
+    "film_title": "Boys Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Taurog",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0029995",
+    "film_title": "The Citadel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0030149",
+    "film_title": "Four Daughters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Curtiz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0030993",
+    "film_title": "You Can't Take It with You",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Capra",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029843",
+    "film_title": "The Adventures of Robin Hood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      },
+      {
+        "name": "First National",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029852",
+    "film_title": "Alexander's Ragtime Band",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029942",
+    "film_title": "Boys Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0029995",
+    "film_title": "The Citadel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0030149",
+    "film_title": "Four Daughters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      },
+      {
+        "name": "First National",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0028950",
+    "film_title": "Grand Illusion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Realization D'Art Cinematographique",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0030287",
+    "film_title": "Jezebel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0030637",
+    "film_title": "Pygmalion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0030848",
+    "film_title": "Test Pilot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0030993",
+    "film_title": "You Can't Take It with You",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0029942",
+    "film_title": "Boys Town",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Meehan",
+        "role": "Writer"
+      },
+      {
+        "name": "Dore Schary",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0029995",
+    "film_title": "The Citadel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian Dalrymple",
+        "role": "Writer"
+      },
+      {
+        "name": "Frank Wead",
+        "role": "Writer"
+      },
+      {
+        "name": "Elizabeth Hill",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0030149",
+    "film_title": "Four Daughters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julius J. Epstein",
+        "role": "Writer"
+      },
+      {
+        "name": "Lenore Coffee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0030637",
+    "film_title": "Pygmalion",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Bernard Shaw",
+        "role": "Writer"
+      },
+      {
+        "name": "W. P. Lipscomb",
+        "role": "Writer"
+      },
+      {
+        "name": "Cecil Lewis",
+        "role": "Writer"
+      },
+      {
+        "name": "Ian Dalrymple",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1939,
+    "org_name": "Academy Awards",
+    "ceremony_name": "11th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0030993",
+    "film_title": "You Can't Take It with You",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Riskin",
+        "role": "Writer"
+      }
+    ]
+  }
+]
