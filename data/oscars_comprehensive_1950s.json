@@ -1,0 +1,6622 @@
+[
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Broderick Crawford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0041239",
+    "film_title": "Champion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kirk Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0041996",
+    "film_title": "Twelve O'Clock High",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gregory Peck",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0041445",
+    "film_title": "The Hasty Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Todd",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0041841",
+    "film_title": "Sands of Iwo Jima",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Wayne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Ireland",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0041996",
+    "film_title": "Twelve O'Clock High",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dean Jagger",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0041239",
+    "film_title": "Champion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0041452",
+    "film_title": "The Heiress",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Richardson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0041163",
+    "film_title": "Battleground",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Whitmore",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0041746",
+    "film_title": "Pinky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeanne Crain",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0041452",
+    "film_title": "The Heiress",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Olivia de Havilland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0041672",
+    "film_title": "My Foolish Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Hayward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0041329",
+    "film_title": "Edward, My Son",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0041257",
+    "film_title": "Come to the Stable",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Loretta Young",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0041746",
+    "film_title": "Pinky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethel Barrymore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0041257",
+    "film_title": "Come to the Stable",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Celeste Holm",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0041257",
+    "film_title": "Come to the Stable",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elsa Lanchester",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mercedes McCambridge",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0041746",
+    "film_title": "Pinky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethel Waters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Rossen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0041163",
+    "film_title": "Battleground",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William A. Wellman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0040338",
+    "film_title": "The Fallen Idol",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carol Reed",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0041452",
+    "film_title": "The Heiress",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0041587",
+    "film_title": "A Letter to Three Wives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Rossen Productions",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041163",
+    "film_title": "Battleground",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041452",
+    "film_title": "The Heiress",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041587",
+    "film_title": "A Letter to Three Wives",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0041996",
+    "film_title": "Twelve O'Clock High",
+    "is_win": false,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0041113",
+    "film_title": "All the King's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Rossen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040522",
+    "film_title": "The Bicycle Thief",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cesare Zavattini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0041239",
+    "film_title": "Champion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0040338",
+    "film_title": "The Fallen Idol",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham Greene",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0041587",
+    "film_title": "A Letter to Three Wives",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0041163",
+    "film_title": "Battleground",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Pirosh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0041530",
+    "film_title": "Jolson Sings Again",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Buchman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0038823",
+    "film_title": "Paisan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hayes",
+        "role": "Writer"
+      },
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Sergio Amidei",
+        "role": "Writer"
+      },
+      {
+        "name": "Marcello Pagliero",
+        "role": "Writer"
+      },
+      {
+        "name": "Roberto Rossellini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0041737",
+    "film_title": "Passport to Pimlico",
+    "is_win": false,
+    "people": [
+      {
+        "name": "T. E. B. Clarke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1950,
+    "org_name": "Academy Awards",
+    "ceremony_name": "22th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0040717",
+    "film_title": "The Quiet One",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Levitt",
+        "role": "Writer"
+      },
+      {
+        "name": "Janice Loeb",
+        "role": "Writer"
+      },
+      {
+        "name": "Sidney Meyers",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0042702",
+    "film_title": "The Magnificent Yankee",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Louis Calhern",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0042367",
+    "film_title": "Cyrano de Bergerac",
+    "is_win": true,
+    "people": [
+      {
+        "name": "José Ferrer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Holden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0042546",
+    "film_title": "Harvey",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Stewart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0042451",
+    "film_title": "Father of the Bride",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0042286",
+    "film_title": "Broken Arrow",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Chandler",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0042742",
+    "film_title": "Mister 880",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edmund Gwenn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0042208",
+    "film_title": "The Asphalt Jungle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Jaffe",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Sanders",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Erich von Stroheim",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Baxter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0042276",
+    "film_title": "Born Yesterday",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Judy Holliday",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0042296",
+    "film_title": "Caged",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eleanor Parker",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gloria Swanson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0042296",
+    "film_title": "Caged",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hope Emerson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Celeste Holm",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0042546",
+    "film_title": "Harvey",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Josephine Hull",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nancy Olson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0042208",
+    "film_title": "The Asphalt Jungle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0042276",
+    "film_title": "Born Yesterday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Cukor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0041959",
+    "film_title": "The Third Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carol Reed",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": true,
+    "people": [
+      {
+        "name": "20th Century-Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042276",
+    "film_title": "Born Yesterday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Columbia",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042451",
+    "film_title": "Father of the Bride",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0042646",
+    "film_title": "King Solomon's Mines",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paramount",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042192",
+    "film_title": "All about Eve",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042208",
+    "film_title": "The Asphalt Jungle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Maddow",
+        "role": "Writer"
+      },
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042276",
+    "film_title": "Born Yesterday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Mannheimer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042286",
+    "film_title": "Broken Arrow",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Maltz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042451",
+    "film_title": "Father of the Bride",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances Goodrich",
+        "role": "Writer"
+      },
+      {
+        "name": "Albert Hackett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0041090",
+    "film_title": "Adam's Rib",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Gordon",
+        "role": "Writer"
+      },
+      {
+        "name": "Garson Kanin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0042296",
+    "film_title": "Caged",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Virginia Kellogg",
+        "role": "Writer"
+      },
+      {
+        "name": "Bernard C. Schoenfeld",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0042727",
+    "film_title": "The Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0042792",
+    "film_title": "No Way Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Writer"
+      },
+      {
+        "name": "Lesser Samuels",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0043014",
+    "film_title": "Sunset Blvd.",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "D. M. Marshman Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Murphy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1951,
+    "org_name": "Academy Awards",
+    "ceremony_name": "23th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Louis B. Mayer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0043265",
+    "film_title": "The African Queen",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Humphrey Bogart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0043924",
+    "film_title": "A Place in the Sun",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Montgomery Clift",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0043361",
+    "film_title": "Bright Victory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0043458",
+    "film_title": "Death of a Salesman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fredric March",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0043949",
+    "film_title": "Quo Vadis",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leo Genn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0043458",
+    "film_title": "Death of a Salesman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kevin McCarthy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Karl Malden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0043949",
+    "film_title": "Quo Vadis",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Ustinov",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0043424",
+    "film_title": "Come Fill the Cup",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gig Young",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0043265",
+    "film_title": "The African Queen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Vivien Leigh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0043465",
+    "film_title": "Detective Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eleanor Parker",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0043924",
+    "film_title": "A Place in the Sun",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shelley Winters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0043350",
+    "film_title": "The Blue Veil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Wyman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0043350",
+    "film_title": "The Blue Veil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Blondell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0043458",
+    "film_title": "Death of a Salesman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mildred Dunnock",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0043465",
+    "film_title": "Detective Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Grant",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kim Hunter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0043792",
+    "film_title": "The Mating Season",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0043265",
+    "film_title": "The African Queen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0043278",
+    "film_title": "An American in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vincente Minnelli",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0043465",
+    "film_title": "Detective Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0043924",
+    "film_title": "A Place in the Sun",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043278",
+    "film_title": "An American in Paris",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Arthur Freed",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043459",
+    "film_title": "Decision before Dawn",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anatole Litvak",
+        "role": "Honoree"
+      },
+      {
+        "name": "Frank McCarthy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043924",
+    "film_title": "A Place in the Sun",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0043949",
+    "film_title": "Quo Vadis",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Zimbalist",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles K. Feldman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0043265",
+    "film_title": "The African Queen",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Agee",
+        "role": "Writer"
+      },
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0043465",
+    "film_title": "Detective Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip Yordan",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert Wyler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0042906",
+    "film_title": "La Ronde",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Max Ophuls",
+        "role": "Writer"
+      },
+      {
+        "name": "Jacques Natanson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0043924",
+    "film_title": "A Place in the Sun",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Wilson",
+        "role": "Writer"
+      },
+      {
+        "name": "Harry Brown",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0044081",
+    "film_title": "A Streetcar Named Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tennessee Williams",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0043278",
+    "film_title": "An American in Paris",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alan Jay Lerner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0043338",
+    "film_title": "The Big Carnival",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Lesser Samuels",
+        "role": "Writer"
+      },
+      {
+        "name": "Walter Newman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0043455",
+    "film_title": "David and Bathsheba",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Philip Dunne",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0043590",
+    "film_title": "Go for Broke!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Pirosh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0044202",
+    "film_title": "The Well",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clarence Greene",
+        "role": "Writer"
+      },
+      {
+        "name": "Russell Rouse",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1952,
+    "org_name": "Academy Awards",
+    "ceremony_name": "24th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gene Kelly",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0045296",
+    "film_title": "Viva Zapata!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044706",
+    "film_title": "High Noon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gary Cooper",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044391",
+    "film_title": "The Bad and the Beautiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kirk Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044926",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "José Ferrer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044829",
+    "film_title": "The Lavender Hill Mob",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0044937",
+    "film_title": "My Cousin Rachel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0044419",
+    "film_title": "The Big Sky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Hunnicutt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0045061",
+    "film_title": "The Quiet Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Victor McLaglen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0045205",
+    "film_title": "Sudden Fear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Palance",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0045296",
+    "film_title": "Viva Zapata!",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anthony Quinn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0044509",
+    "film_title": "Come Back, Little Sheba",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Shirley Booth",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0045205",
+    "film_title": "Sudden Fear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Crawford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0045186",
+    "film_title": "The Star",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0044896",
+    "film_title": "The Member of the Wedding",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Harris",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0045333",
+    "film_title": "With a Song in My Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Hayward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0044391",
+    "film_title": "The Bad and the Beautiful",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gloria Grahame",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0045152",
+    "film_title": "Singin' in the Rain",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Hagen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0044926",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Colette Marchand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0044509",
+    "film_title": "Come Back, Little Sheba",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terry Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0045333",
+    "film_title": "With a Song in My Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0044314",
+    "film_title": "Five Fingers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0044672",
+    "film_title": "The Greatest Show on Earth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cecil B. DeMille",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0044706",
+    "film_title": "High Noon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0044926",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0045061",
+    "film_title": "The Quiet Man",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044672",
+    "film_title": "The Greatest Show on Earth",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cecil B. DeMille",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044706",
+    "film_title": "High Noon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044760",
+    "film_title": "Ivanhoe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pandro S. Berman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0044926",
+    "film_title": "Moulin Rouge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Romulus Films",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0045061",
+    "film_title": "The Quiet Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Ford",
+        "role": "Honoree"
+      },
+      {
+        "name": "Merian C. Cooper",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0044391",
+    "film_title": "The Bad and the Beautiful",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Schnee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0044314",
+    "film_title": "Five Fingers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0044706",
+    "film_title": "High Noon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0044876",
+    "film_title": "The Man in the White Suit",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roger MacDougall",
+        "role": "Writer"
+      },
+      {
+        "name": "John Dighton",
+        "role": "Writer"
+      },
+      {
+        "name": "Alexander Mackendrick",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0045061",
+    "film_title": "The Quiet Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank S. Nugent",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0044382",
+    "film_title": "The Atomic City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sydney Boehm",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0044446",
+    "film_title": "Breaking the Sound Barrier",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terence Rattigan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0044829",
+    "film_title": "The Lavender Hill Mob",
+    "is_win": true,
+    "people": [
+      {
+        "name": "T. E. B. Clarke",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0045012",
+    "film_title": "Pat and Mike",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Gordon",
+        "role": "Writer"
+      },
+      {
+        "name": "Garson Kanin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0045296",
+    "film_title": "Viva Zapata!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Steinbeck",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Alfred Mitchell",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph M. Schenck",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Merian C. Cooper",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Harold Lloyd",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1953,
+    "org_name": "Academy Awards",
+    "ceremony_name": "25th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bob Hope",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0045943",
+    "film_title": "Julius Caesar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0046247",
+    "film_title": "The Robe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Montgomery Clift",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0046359",
+    "film_title": "Stalag 17",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Holden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Lancaster",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046250",
+    "film_title": "Roman Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eddie Albert",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046303",
+    "film_title": "Shane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brandon De Wilde",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046303",
+    "film_title": "Shane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Palance",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Sinatra",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046359",
+    "film_title": "Stalag 17",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Strauss",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046000",
+    "film_title": "Lili",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leslie Caron",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046085",
+    "film_title": "Mogambo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ava Gardner",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046250",
+    "film_title": "Roman Holiday",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Audrey Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046094",
+    "film_title": "The Moon Is Blue",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie McNamara",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0046085",
+    "film_title": "Mogambo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Grace Kelly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0045883",
+    "film_title": "Hondo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0046446",
+    "film_title": "Torch Song",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marjorie Rambeau",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Donna Reed",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0046187",
+    "film_title": "Pickup on South Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Thelma Ritter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0046000",
+    "film_title": "Lili",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Walters",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0046250",
+    "film_title": "Roman Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0046303",
+    "film_title": "Shane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0046359",
+    "film_title": "Stalag 17",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Buddy Adler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0045943",
+    "film_title": "Julius Caesar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Houseman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0046247",
+    "film_title": "The Robe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Ross",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0046250",
+    "film_title": "Roman Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0046303",
+    "film_title": "Shane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0045659",
+    "film_title": "The Cruel Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Ambler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0045793",
+    "film_title": "From Here to Eternity",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Daniel Taradash",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0046000",
+    "film_title": "Lili",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Deutsch",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0046250",
+    "film_title": "Roman Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian McLellan Hunter",
+        "role": "Writer"
+      },
+      {
+        "name": "John Dighton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0046303",
+    "film_title": "Shane",
+    "is_win": false,
+    "people": [
+      {
+        "name": "A. B. Guthrie Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0045537",
+    "film_title": "The Band Wagon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Betty Comden",
+        "role": "Writer"
+      },
+      {
+        "name": "Adolph Green",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0045679",
+    "film_title": "The Desert Rats",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Murphy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0044953",
+    "film_title": "The Naked Spur",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Rolfe",
+        "role": "Writer"
+      },
+      {
+        "name": "Harold Jack Bloom",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0046398",
+    "film_title": "Take the High Ground",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Millard Kaufman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0046435",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Walter Reisch",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard Breen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Pete Smith",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "20th Century-Fox Film Corporation",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joseph I. Breen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1954,
+    "org_name": "Academy Awards",
+    "ceremony_name": "26th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bell and Howell Company",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0046816",
+    "film_title": "The Caine Mutiny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Humphrey Bogart",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0046874",
+    "film_title": "The Country Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bing Crosby",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0047522",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Mason",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0044386",
+    "film_title": "Adventures of Robinson Crusoe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dan O'Herlihy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee J. Cobb",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Karl Malden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046754",
+    "film_title": "The Barefoot Contessa",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edmond O'Brien",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rod Steiger",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0046816",
+    "film_title": "The Caine Mutiny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Tully",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046828",
+    "film_title": "Carmen Jones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dorothy Dandridge",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0047522",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judy Garland",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0047437",
+    "film_title": "Sabrina",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Audrey Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0046874",
+    "film_title": "The Country Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Grace Kelly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0047203",
+    "film_title": "Magnificent Obsession",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Wyman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0046963",
+    "film_title": "Executive Suite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nina Foch",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0046808",
+    "film_title": "Broken Lance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katy Jurado",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eva Marie Saint",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0047086",
+    "film_title": "The High and the Mighty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jan Sterling",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0047086",
+    "film_title": "The High and the Mighty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claire Trevor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0046874",
+    "film_title": "The Country Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Seaton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047086",
+    "film_title": "The High and the Mighty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wellman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047396",
+    "film_title": "Rear Window",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Hitchcock",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047437",
+    "film_title": "Sabrina",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0046816",
+    "film_title": "The Caine Mutiny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0046874",
+    "film_title": "The Country Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Perlberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Spiegel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0047472",
+    "film_title": "Seven Brides for Seven Brothers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Cummings",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0047580",
+    "film_title": "Three Coins in the Fountain",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sol C. Siegel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0046816",
+    "film_title": "The Caine Mutiny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Roberts",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0046874",
+    "film_title": "The Country Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Seaton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0047396",
+    "film_title": "Rear Window",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Michael Hayes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0047437",
+    "film_title": "Sabrina",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Samuel Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Ernest Lehman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0047472",
+    "film_title": "Seven Brides for Seven Brothers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Hackett",
+        "role": "Writer"
+      },
+      {
+        "name": "Frances Goodrich",
+        "role": "Writer"
+      },
+      {
+        "name": "Dorothy Kingsley",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0046754",
+    "film_title": "The Barefoot Contessa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0045808",
+    "film_title": "Genevieve",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0047030",
+    "film_title": "The Glenn Miller Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Valentine Davies",
+        "role": "Writer"
+      },
+      {
+        "name": "Oscar Brodney",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0047152",
+    "film_title": "Knock on Wood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Panama",
+        "role": "Writer"
+      },
+      {
+        "name": "Melvin Frank",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0047296",
+    "film_title": "On the Waterfront",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Budd Schulberg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bausch & Lomb Optical Company",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kemp R. Niver",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Greta Garbo",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Danny Kaye",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0046006",
+    "film_title": "The Little Kidnappers",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jon Whiteley",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1955,
+    "org_name": "Academy Awards",
+    "ceremony_name": "27th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": "tt0046006",
+    "film_title": "The Little Kidnappers",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Vincent Winter",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ernest Borgnine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0048317",
+    "film_title": "Love Me or Leave Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Cagney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0048028",
+    "film_title": "East of Eden",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Dean",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0048347",
+    "film_title": "The Man with the Golden Arm",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Sinatra",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0047849",
+    "film_title": "Bad Day at Black Rock",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0048748",
+    "film_title": "Trial",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0048380",
+    "film_title": "Mister Roberts",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joe Mantell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0048545",
+    "film_title": "Rebel without a Cause",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sal Mineo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0048491",
+    "film_title": "Picnic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur O'Connell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048191",
+    "film_title": "I'll Cry Tomorrow",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Hayward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048673",
+    "film_title": "Summertime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048316",
+    "film_title": "Love Is a Many-Splendored Thing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048563",
+    "film_title": "The Rose Tattoo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anna Magnani",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048210",
+    "film_title": "Interrupted Melody",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eleanor Parker",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Betsy Blair",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048484",
+    "film_title": "Pete Kelly's Blues",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peggy Lee",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048563",
+    "film_title": "The Rose Tattoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marisa Pavan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048028",
+    "film_title": "East of Eden",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jo Van Fleet",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048545",
+    "film_title": "Rebel without a Cause",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Natalie Wood",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0047849",
+    "film_title": "Bad Day at Black Rock",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Sturges",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0048028",
+    "film_title": "East of Eden",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Delbert Mann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0048491",
+    "film_title": "Picnic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joshua Logan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0048673",
+    "film_title": "Summertime",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048316",
+    "film_title": "Love Is a Many-Splendored Thing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Buddy Adler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Harold Hecht",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048380",
+    "film_title": "Mister Roberts",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leland Hayward",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048491",
+    "film_title": "Picnic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Kohlmar",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048563",
+    "film_title": "The Rose Tattoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hal B. Wallis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0047849",
+    "film_title": "Bad Day at Black Rock",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Millard Kaufman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0047885",
+    "film_title": "Blackboard Jungle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0048028",
+    "film_title": "East of Eden",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Osborn",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0048317",
+    "film_title": "Love Me or Leave Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Fuchs",
+        "role": "Writer"
+      },
+      {
+        "name": "Isobel Lennart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0048356",
+    "film_title": "Marty",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paddy Chayefsky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0047956",
+    "film_title": "The Court-Martial of Billy Mitchell",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Milton Sperling",
+        "role": "Writer"
+      },
+      {
+        "name": "Emmet Lavery",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0048210",
+    "film_title": "Interrupted Melody",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Ludwig",
+        "role": "Writer"
+      },
+      {
+        "name": "Sonya Levien",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0048216",
+    "film_title": "It's Always Fair Weather",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Betty Comden",
+        "role": "Writer"
+      },
+      {
+        "name": "Adolph Green",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0046487",
+    "film_title": "Mr. Hulot's Holiday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacques Tati",
+        "role": "Writer"
+      },
+      {
+        "name": "Henri Marquet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1956,
+    "org_name": "Academy Awards",
+    "ceremony_name": "28th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0048604",
+    "film_title": "The Seven Little Foys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melville Shavelson",
+        "role": "Writer"
+      },
+      {
+        "name": "Jack Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0049408",
+    "film_title": "The King and I",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Yul Brynner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Dean",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0049456",
+    "film_title": "Lust for Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kirk Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rock Hudson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0049674",
+    "film_title": "Richard III",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sir Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0049038",
+    "film_title": "Bus Stop",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Don Murray",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0049233",
+    "film_title": "Friendly Persuasion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Perkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0049456",
+    "film_title": "Lust for Life",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anthony Quinn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0049022",
+    "film_title": "The Bold and the Brave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mickey Rooney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0049966",
+    "film_title": "Written on the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Stack",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048973",
+    "film_title": "Baby Doll",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carroll Baker",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048947",
+    "film_title": "Anastasia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0049653",
+    "film_title": "The Rainmaker",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Katharine Hepburn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0048977",
+    "film_title": "The Bad Seed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nancy Kelly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0049408",
+    "film_title": "The King and I",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048973",
+    "film_title": "Baby Doll",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mildred Dunnock",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048977",
+    "film_title": "The Bad Seed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eileen Heckart",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mercedes McCambridge",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0048977",
+    "film_title": "The Bad Seed",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Patty McCormack",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0049966",
+    "film_title": "Written on the Wind",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dorothy Malone",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0048960",
+    "film_title": "Around the World in 80 Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Anderson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0049233",
+    "film_title": "Friendly Persuasion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0049408",
+    "film_title": "The King and I",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Lang",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0049934",
+    "film_title": "War and Peace",
+    "is_win": false,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0048960",
+    "film_title": "Around the World in 80 Days",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Todd",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0049233",
+    "film_title": "Friendly Persuasion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Wyler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Stevens",
+        "role": "Honoree"
+      },
+      {
+        "name": "Henry Ginsberg",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0049408",
+    "film_title": "The King and I",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0049833",
+    "film_title": "The Ten Commandments",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cecil B. DeMille",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0048960",
+    "film_title": "Around the World in 80 Days",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Poe",
+        "role": "Writer"
+      },
+      {
+        "name": "John Farrow",
+        "role": "Writer"
+      },
+      {
+        "name": "S.J. Perelman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0048973",
+    "film_title": "Baby Doll",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tennessee Williams",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0049233",
+    "film_title": "Friendly Persuasion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Wilson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0049261",
+    "film_title": "Giant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Guiol",
+        "role": "Writer"
+      },
+      {
+        "name": "Ivan Moffat",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0049456",
+    "film_title": "Lust for Life",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Corwin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0049022",
+    "film_title": "The Bold and the Brave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Lewin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0049388",
+    "film_title": "Julie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andrew L. Stone",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0047528",
+    "film_title": "La Strada",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Tullio Pinelli",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0048281",
+    "film_title": "The Ladykillers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0048980",
+    "film_title": "The Red Balloon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Albert Lamorisse",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1957,
+    "org_name": "Academy Awards",
+    "ceremony_name": "29th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eddie Cantor",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0050487",
+    "film_title": "A Hatful of Rain",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Franciosa",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0051201",
+    "film_title": "Witness for the Prosecution",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Charles Laughton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0051193",
+    "film_title": "Wild Is the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Quinn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Red Buttons",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0050379",
+    "film_title": "A Farewell to Arms",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vittorio De Sica",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sessue Hayakawa",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Russ Tamblyn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0050490",
+    "film_title": "Heaven Knows, Mr. Allison",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0051193",
+    "film_title": "Wild Is the Wind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anna Magnani",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0050882",
+    "film_title": "Raintree County",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elizabeth Taylor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lana Turner",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0051077",
+    "film_title": "The Three Faces of Eve",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joanne Woodward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0050156",
+    "film_title": "The Bachelor Party",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carolyn Jones",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0051201",
+    "film_title": "Witness for the Prosecution",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elsa Lanchester",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hope Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Miyoshi Umeki",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Varsi",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Lean",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Robson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joshua Logan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0050083",
+    "film_title": "12 Angry Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Lumet",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051201",
+    "film_title": "Witness for the Prosecution",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Wilder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sam Spiegel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jerry Wald",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Goetz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0050083",
+    "film_title": "12 Angry Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Henry Fonda",
+        "role": "Honoree"
+      },
+      {
+        "name": "Reginald Rose",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051201",
+    "film_title": "Witness for the Prosecution",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Hornblow Jr.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0050212",
+    "film_title": "The Bridge on the River Kwai",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Wilson",
+        "role": "Writer"
+      },
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      },
+      {
+        "name": "Pierre Boulle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0050490",
+    "film_title": "Heaven Knows, Mr. Allison",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Lee Mahin",
+        "role": "Writer"
+      },
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0050839",
+    "film_title": "Peyton Place",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Michael Hayes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0050933",
+    "film_title": "Sayonara",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Osborn",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0050083",
+    "film_title": "12 Angry Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Reginald Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0050306",
+    "film_title": "Designing Woman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Wells",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0050419",
+    "film_title": "Funny Face",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leonard Gershe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0050681",
+    "film_title": "Man of a Thousand Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Wheelwright",
+        "role": "Writer"
+      },
+      {
+        "name": "R. Wright Campbell",
+        "role": "Writer"
+      },
+      {
+        "name": "Ivan Goff",
+        "role": "Writer"
+      },
+      {
+        "name": "Ben Roberts",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0051087",
+    "film_title": "The Tin Star",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barney Slater",
+        "role": "Writer"
+      },
+      {
+        "name": "Joel Kane",
+        "role": "Writer"
+      },
+      {
+        "name": "Dudley Nichols",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0046521",
+    "film_title": "Vitelloni",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Ennio Flaiano",
+        "role": "Writer"
+      },
+      {
+        "name": "Tullio Pinelli",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Brackett",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "B.B. Kahane",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gilbert M. (\\\"Broncho Billy\\\") Anderson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1958,
+    "org_name": "Academy Awards",
+    "ceremony_name": "30th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "The Society of Motion Picture and Television Engineers",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tony Curtis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0051459",
+    "film_title": "Cat on a Hot Tin Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052182",
+    "film_title": "Separate Tables",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Niven",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Poitier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0052027",
+    "film_title": "The Old Man and the Sea",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spencer Tracy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Theodore Bikel",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0051435",
+    "film_title": "The Brothers Karamazov",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee J. Cobb",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0051411",
+    "film_title": "The Big Country",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Burl Ives",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052218",
+    "film_title": "Some Came Running",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Kennedy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0052278",
+    "film_title": "Teacher's Pet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gig Young",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0051758",
+    "film_title": "I Want to Live!",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Susan Hayward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0052182",
+    "film_title": "Separate Tables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0052218",
+    "film_title": "Some Came Running",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley MacLaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0051383",
+    "film_title": "Auntie Mame",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosalind Russell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0051459",
+    "film_title": "Cat on a Hot Tin Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elizabeth Taylor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0051383",
+    "film_title": "Auntie Mame",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peggy Cass",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0052182",
+    "film_title": "Separate Tables",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Wendy Hiller",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0052218",
+    "film_title": "Some Came Running",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martha Hyer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0053017",
+    "film_title": "Lonelyhearts",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maureen Stapleton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cara Williams",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051459",
+    "film_title": "Cat on a Hot Tin Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051658",
+    "film_title": "Gigi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Vincente Minnelli",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051758",
+    "film_title": "I Want to Live!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Wise",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0051776",
+    "film_title": "The Inn of the Sixth Happiness",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Robson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051383",
+    "film_title": "Auntie Mame",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warner Bros.",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051459",
+    "film_title": "Cat on a Hot Tin Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Weingarten",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kramer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0051658",
+    "film_title": "Gigi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Arthur Freed",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0052182",
+    "film_title": "Separate Tables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harold Hecht",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0051459",
+    "film_title": "Cat on a Hot Tin Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Brooks",
+        "role": "Writer"
+      },
+      {
+        "name": "James Poe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0051658",
+    "film_title": "Gigi",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alan Jay Lerner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0051739",
+    "film_title": "The Horse's Mouth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0051758",
+    "film_title": "I Want to Live!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nelson Gidding",
+        "role": "Writer"
+      },
+      {
+        "name": "Don Mankiewicz",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0052182",
+    "film_title": "Separate Tables",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terence Rattigan",
+        "role": "Writer"
+      },
+      {
+        "name": "John Gay",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0051525",
+    "film_title": "The Defiant Ones",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Nedrick Young",
+        "role": "Writer"
+      },
+      {
+        "name": "Harold Jacob Smith",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0051667",
+    "film_title": "The Goddess",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paddy Chayefsky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0051745",
+    "film_title": "Houseboat",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melville Shavelson",
+        "role": "Writer"
+      },
+      {
+        "name": "Jack Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0052190",
+    "film_title": "The Sheepman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Edward Grant",
+        "role": "Writer"
+      },
+      {
+        "name": "William Bowers",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0052278",
+    "film_title": "Teacher's Pet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fay Kanin",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Kanin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1959,
+    "org_name": "Academy Awards",
+    "ceremony_name": "31th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maurice Chevalier",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

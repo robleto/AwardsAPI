@@ -1,0 +1,6534 @@
+[
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0064030",
+    "film_title": "Anne of the Thousand Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0064382",
+    "film_title": "Goodbye, Mr. Chips",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jon Voight",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0065126",
+    "film_title": "True Grit",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Wayne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0064886",
+    "film_title": "The Reivers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rupert Crosse",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0064100",
+    "film_title": "Bob & Carol & Ted & Alice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elliott Gould",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0064276",
+    "film_title": "Easy Rider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0064030",
+    "film_title": "Anne of the Thousand Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Quayle",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0065088",
+    "film_title": "They Shoot Horses, Don't They?",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gig Young",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0064030",
+    "film_title": "Anne of the Thousand Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Genevieve Bujold",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0065088",
+    "film_title": "They Shoot Horses, Don't They?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0065037",
+    "film_title": "The Sterile Cuckoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Liza Minnelli",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0064405",
+    "film_title": "The Happy Ending",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean Simmons",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0064840",
+    "film_title": "The Prime of Miss Jean Brodie",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0064573",
+    "film_title": "Last Summer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Catherine Burns",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0064100",
+    "film_title": "Bob & Carol & Ted & Alice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dyan Cannon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0064117",
+    "film_title": "Cactus Flower",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Goldie Hawn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvia Miles",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0065088",
+    "film_title": "They Shoot Horses, Don't They?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susannah York",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0064002",
+    "film_title": "Alice's Restaurant",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Penn",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0064115",
+    "film_title": "Butch Cassidy and the Sundance Kid",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Roy Hill",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Schlesinger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0065088",
+    "film_title": "They Shoot Horses, Don't They?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sydney Pollack",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0065234",
+    "film_title": "Z",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Costa-Gavras",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0064030",
+    "film_title": "Anne of the Thousand Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hal B. Wallis",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0064115",
+    "film_title": "Butch Cassidy and the Sundance Kid",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Foreman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0064418",
+    "film_title": "Hello, Dolly!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ernest Lehman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jerome Hellman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0065234",
+    "film_title": "Z",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jacques Perrin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Hamed Rachedi",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0064030",
+    "film_title": "Anne of the Thousand Days",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Hale",
+        "role": "Writer"
+      },
+      {
+        "name": "Bridget Boland",
+        "role": "Writer"
+      },
+      {
+        "name": "Richard Sokolove",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0064381",
+    "film_title": "Goodbye, Columbus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arnold Schulman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0064665",
+    "film_title": "Midnight Cowboy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Waldo Salt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065088",
+    "film_title": "They Shoot Horses, Don't They?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Poe",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert E. Thompson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065234",
+    "film_title": "Z",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jorge Semprun",
+        "role": "Writer"
+      },
+      {
+        "name": "Costa-Gavras",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0064100",
+    "film_title": "Bob & Carol & Ted & Alice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Mazursky",
+        "role": "Writer"
+      },
+      {
+        "name": "Larry Tucker",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0064115",
+    "film_title": "Butch Cassidy and the Sundance Kid",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0064118",
+    "film_title": "The Damned",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicola Badalucco",
+        "role": "Writer"
+      },
+      {
+        "name": "Enrico Medioli",
+        "role": "Writer"
+      },
+      {
+        "name": "Luchino Visconti",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0064276",
+    "film_title": "Easy Rider",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Fonda",
+        "role": "Writer"
+      },
+      {
+        "name": "Dennis Hopper",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Southern",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0065214",
+    "film_title": "The Wild Bunch",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walon Green",
+        "role": "Writer"
+      },
+      {
+        "name": "Roy N. Sickner",
+        "role": "Writer"
+      },
+      {
+        "name": "Sam Peckinpah",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1970,
+    "org_name": "Academy Awards",
+    "ceremony_name": "42th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cary Grant",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0065872",
+    "film_title": "I Never Sang for My Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melvyn Douglas",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0065797",
+    "film_title": "The Great White Hope",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Earl Jones",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0065724",
+    "film_title": "Five Easy Pieces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ryan O'Neal",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George C. Scott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0066016",
+    "film_title": "Lovers and Other Strangers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Castellano",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0065988",
+    "film_title": "Little Big Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chief Dan George",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0065872",
+    "film_title": "I Never Sang for My Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Hackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Marley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0066319",
+    "film_title": "Ryan's Daughter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Mills",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0065797",
+    "film_title": "The Great White Hope",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Alexander",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0066579",
+    "film_title": "Women in Love",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Glenda Jackson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ali MacGraw",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0066319",
+    "film_title": "Ryan's Daughter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sarah Miles",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0065636",
+    "film_title": "Diary of a Mad Housewife",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carrie Snodgress",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0065724",
+    "film_title": "Five Easy Pieces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Karen Black",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0065963",
+    "film_title": "The Landlord",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Grant",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0065377",
+    "film_title": "Airport",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Helen Hayes",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0066026",
+    "film_title": "M*A*S*H",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sally Kellerman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0065377",
+    "film_title": "Airport",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maureen Stapleton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0064940",
+    "film_title": "Fellini Satyricon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Hiller",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066026",
+    "film_title": "M*A*S*H",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Franklin J. Schaffner",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066579",
+    "film_title": "Women in Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ken Russell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0065377",
+    "film_title": "Airport",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ross Hunter",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0065724",
+    "film_title": "Five Easy Pieces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Rafelson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Richard Wechsler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Howard G. Minsky",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066026",
+    "film_title": "M*A*S*H",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingo Preminger",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank McCarthy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065377",
+    "film_title": "Airport",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Seaton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065872",
+    "film_title": "I Never Sang for My Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Anderson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0066016",
+    "film_title": "Lovers and Other Strangers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Renee Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Joseph Bologna",
+        "role": "Writer"
+      },
+      {
+        "name": "David Zelag Goodman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0066026",
+    "film_title": "M*A*S*H",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ring Lardner Jr.",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0066579",
+    "film_title": "Women in Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Larry Kramer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0065724",
+    "film_title": "Five Easy Pieces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Rafelson",
+        "role": "Writer"
+      },
+      {
+        "name": "Adrien Joyce",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0065916",
+    "film_title": "Joe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Wexler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0066011",
+    "film_title": "Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Erich Segal",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0064612",
+    "film_title": "My Night at Maud's",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eric Rohmer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Writer"
+      },
+      {
+        "name": "Edmund H. North",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lillian Gish",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Orson Welles",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067805",
+    "film_title": "Sunday Bloody Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Finch",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067116",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gene Hackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067314",
+    "film_title": "Kotch",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Matthau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067217",
+    "film_title": "The Hospital",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George C. Scott",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067093",
+    "film_title": "Fiddler on the Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Topol",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0067093",
+    "film_title": "Fiddler on the Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leonard Frey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0067774",
+    "film_title": "Sometimes a Great Notion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Jaeckel",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ben Johnson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0067116",
+    "film_title": "The French Connection",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roy Scheider",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067411",
+    "film_title": "McCabe & Mrs. Miller",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Christie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067309",
+    "film_title": "Klute",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067805",
+    "film_title": "Sunday Bloody Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenda Jackson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067402",
+    "film_title": "Mary, Queen of Scots",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067483",
+    "film_title": "Nicholas and Alexandra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Janet Suzman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0066892",
+    "film_title": "Carnal Knowledge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ann-Margret",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0067980",
+    "film_title": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Harris",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cloris Leachman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0067144",
+    "film_title": "The Go-Between",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Margaret Leighton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066921",
+    "film_title": "A Clockwork Orange",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067093",
+    "film_title": "Fiddler on the Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067116",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Friedkin",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Bogdanovich",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067805",
+    "film_title": "Sunday Bloody Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Schlesinger",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066921",
+    "film_title": "A Clockwork Orange",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067093",
+    "film_title": "Fiddler on the Roof",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Norman Jewison",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067116",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Philip D'Antoni",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen J. Friedman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067483",
+    "film_title": "Nicholas and Alexandra",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sam Spiegel",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0066921",
+    "film_title": "A Clockwork Orange",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065571",
+    "film_title": "The Conformist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernardo Bertolucci",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0067116",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ernest Tidyman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0065777",
+    "film_title": "The Garden of the Finzi Continis",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ugo Pirro",
+        "role": "Writer"
+      },
+      {
+        "name": "Vittorio Bonicelli",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0067328",
+    "film_title": "The Last Picture Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Larry McMurtry",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Bogdanovich",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0067217",
+    "film_title": "The Hospital",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paddy Chayefsky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0065889",
+    "film_title": "Investigation of a Citizen above Suspicion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elio Petri",
+        "role": "Writer"
+      },
+      {
+        "name": "Ugo Pirro",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0067309",
+    "film_title": "Klute",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andy Lewis",
+        "role": "Writer"
+      },
+      {
+        "name": "Dave Lewis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0067803",
+    "film_title": "Summer of '42",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Herman Raucher",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0067805",
+    "film_title": "Sunday Bloody Sunday",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Penelope Gilliatt",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles Chaplin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0069281",
+    "film_title": "Sleuth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Caine",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0069281",
+    "film_title": "Sleuth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0069198",
+    "film_title": "The Ruling Class",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter O'Toole",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0069303",
+    "film_title": "Sounder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Winfield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0068687",
+    "film_title": "The Heartbreak Kid",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Eddie Albert",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Caan",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0068327",
+    "film_title": "Cabaret",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joel Grey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0068327",
+    "film_title": "Cabaret",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Liza Minnelli",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0068828",
+    "film_title": "Lady Sings the Blues",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diana Ross",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0069404",
+    "film_title": "Travels with My Aunt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0069303",
+    "film_title": "Sounder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cicely Tyson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0067919",
+    "film_title": "The Emigrants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Liv Ullmann",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0068687",
+    "film_title": "The Heartbreak Kid",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeannie Berlin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0068326",
+    "film_title": "Butterflies Are Free",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eileen Heckart",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0069080",
+    "film_title": "Pete 'n' Tillie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0068575",
+    "film_title": "Fat City",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Tyrrell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0069113",
+    "film_title": "The Poseidon Adventure",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shelley Winters",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0068327",
+    "film_title": "Cabaret",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bob Fosse",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0068473",
+    "film_title": "Deliverance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Boorman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067919",
+    "film_title": "The Emigrants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jan Troell",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0069281",
+    "film_title": "Sleuth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joseph L. Mankiewicz",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0068327",
+    "film_title": "Cabaret",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cy Feuer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0068473",
+    "film_title": "Deliverance",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Boorman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067919",
+    "film_title": "The Emigrants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bengt Forslund",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Albert S. Ruddy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0069303",
+    "film_title": "Sounder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert B. Radnitz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0068327",
+    "film_title": "Cabaret",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jay Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0067919",
+    "film_title": "The Emigrants",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jan Troell",
+        "role": "Writer"
+      },
+      {
+        "name": "Bengt Forslund",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mario Puzo",
+        "role": "Writer"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0069080",
+    "film_title": "Pete 'n' Tillie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julius J. Epstein",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0069303",
+    "film_title": "Sounder",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lonne Elder III",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0068334",
+    "film_title": "The Candidate",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jeremy Larner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0068361",
+    "film_title": "The Discreet Charm of the Bourgeoisie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Luis Buñuel",
+        "role": "Writer"
+      },
+      {
+        "name": "in collaboration with Jean-Claude Carrière",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0068828",
+    "film_title": "Lady Sings the Blues",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terence McCloy",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Clark",
+        "role": "Writer"
+      },
+      {
+        "name": "Suzanne de Passe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0067778",
+    "film_title": "Murmur of the Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Louis Malle",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0069528",
+    "film_title": "Young Winston",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carl Foreman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles S. Boren",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edward G. Robinson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0070849",
+    "film_title": "Last Tango in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0070640",
+    "film_title": "Save the Tiger",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Lemmon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0070290",
+    "film_title": "The Last Detail",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0070666",
+    "film_title": "Serpico",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0070735",
+    "film_title": "The Sting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Redford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0069765",
+    "film_title": "Bang the Drum Slowly",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vincent Gardenia",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0070640",
+    "film_title": "Save the Tiger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Gilford",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0070509",
+    "film_title": "The Paper Chase",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John Houseman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jason Miller",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0070290",
+    "film_title": "The Last Detail",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Randy Quaid",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0070819",
+    "film_title": "A Touch of Class",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Glenda Jackson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0069883",
+    "film_title": "Cinderella Liberty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marsha Mason",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0070903",
+    "film_title": "The Way We Were",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbra Streisand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0070748",
+    "film_title": "Summer Wishes, Winter Dreams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joanne Woodward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Linda Blair",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0069704",
+    "film_title": "American Graffiti",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Candy Clark",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0070510",
+    "film_title": "Paper Moon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Madeline Kahn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0070510",
+    "film_title": "Paper Moon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tatum O'Neal",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0070748",
+    "film_title": "Summer Wishes, Winter Dreams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvia Sidney",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0069704",
+    "film_title": "American Graffiti",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Lucas",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0069467",
+    "film_title": "Cries and Whispers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Friedkin",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0070849",
+    "film_title": "Last Tango in Paris",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernardo Bertolucci",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0070735",
+    "film_title": "The Sting",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Roy Hill",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0069704",
+    "film_title": "American Graffiti",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gary Kurtz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0069467",
+    "film_title": "Cries and Whispers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Peter Blatty",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0070735",
+    "film_title": "The Sting",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tony Bill",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Phillips",
+        "role": "Honoree"
+      },
+      {
+        "name": "Julia Phillips",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0070819",
+    "film_title": "A Touch of Class",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melvin Frank",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0070047",
+    "film_title": "The Exorcist",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Peter Blatty",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0070290",
+    "film_title": "The Last Detail",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Towne",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0070509",
+    "film_title": "The Paper Chase",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Bridges",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0070510",
+    "film_title": "Paper Moon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alvin Sargent",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0070666",
+    "film_title": "Serpico",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Waldo Salt",
+        "role": "Writer"
+      },
+      {
+        "name": "Norman Wexler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0069704",
+    "film_title": "American Graffiti",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Lucas",
+        "role": "Writer"
+      },
+      {
+        "name": "Gloria Katz",
+        "role": "Writer"
+      },
+      {
+        "name": "Willard Huyck",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0069467",
+    "film_title": "Cries and Whispers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0070640",
+    "film_title": "Save the Tiger",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Shagan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0070735",
+    "film_title": "The Sting",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David S. Ward",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0070819",
+    "film_title": "A Touch of Class",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melvin Frank",
+        "role": "Writer"
+      },
+      {
+        "name": "Jack Rose",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Henri Langlois",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Groucho Marx",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071598",
+    "film_title": "Harry and Tonto",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Art Carney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071877",
+    "film_title": "Murder on the Orient Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Albert Finney",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071746",
+    "film_title": "Lenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071315",
+    "film_title": "Chinatown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0072308",
+    "film_title": "The Towering Inferno",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Astaire",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0072288",
+    "film_title": "Thunderbolt and Lightfoot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Bridges",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael V. Gazzo",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Strasberg",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0071115",
+    "film_title": "Alice Doesn't Live Here Anymore",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0071334",
+    "film_title": "Claudine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diahann Carroll",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0071315",
+    "film_title": "Chinatown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Faye Dunaway",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0071746",
+    "film_title": "Lenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Valerie Perrine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0072417",
+    "film_title": "A Woman under the Influence",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gena Rowlands",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0071877",
+    "film_title": "Murder on the Orient Express",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0070460",
+    "film_title": "Day for Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Valentina Cortese",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0071230",
+    "film_title": "Blazing Saddles",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Madeline Kahn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0071115",
+    "film_title": "Alice Doesn't Live Here Anymore",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Ladd",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Talia Shire",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0071315",
+    "film_title": "Chinatown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roman Polanski",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0070460",
+    "film_title": "Day for Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francois Truffaut",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0071746",
+    "film_title": "Lenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bob Fosse",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0072417",
+    "film_title": "A Woman under the Influence",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Cassavetes",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0071315",
+    "film_title": "Chinatown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Evans",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0071360",
+    "film_title": "The Conversation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fred Roos",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gray Frederickson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Fred Roos",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0071746",
+    "film_title": "Lenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marvin Worth",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0072308",
+    "film_title": "The Towering Inferno",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irwin Allen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0071115",
+    "film_title": "Alice Doesn't Live Here Anymore",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Getchell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0071315",
+    "film_title": "Chinatown",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Towne",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0071360",
+    "film_title": "The Conversation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0070460",
+    "film_title": "Day for Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francois Truffaut",
+        "role": "Writer"
+      },
+      {
+        "name": "Jean-Louis Richard",
+        "role": "Writer"
+      },
+      {
+        "name": "Suzanne Schiffman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0071598",
+    "film_title": "Harry and Tonto",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Mazursky",
+        "role": "Writer"
+      },
+      {
+        "name": "Josh Greenfeld",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0071155",
+    "film_title": "The Apprenticeship of Duddy Kravitz",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mordecai Richler",
+        "role": "Writer"
+      },
+      {
+        "name": "Lionel Chetwynd",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Writer"
+      },
+      {
+        "name": "Mario Puzo",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0071746",
+    "film_title": "Lenny",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julian Barry",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0071877",
+    "film_title": "Murder on the Orient Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Dehn",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0072431",
+    "film_title": "Young Frankenstein",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gene Wilder",
+        "role": "Writer"
+      },
+      {
+        "name": "Mel Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Howard Hawks",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jean Renoir",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073766",
+    "film_title": "The Sunshine Boys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Matthau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0072890",
+    "film_title": "Dog Day Afternoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073345",
+    "film_title": "The Man in the Glass Booth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maximilian Schell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073053",
+    "film_title": "Give 'em Hell, Harry!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Whitmore",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0073766",
+    "film_title": "The Sunshine Boys",
+    "is_win": true,
+    "people": [
+      {
+        "name": "George Burns",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brad Dourif",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0072848",
+    "film_title": "The Day of the Locust",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burgess Meredith",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0072890",
+    "film_title": "Dog Day Afternoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Sarandon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0073692",
+    "film_title": "Shampoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Warden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073114",
+    "film_title": "The Story of Adele H.",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Isabelle Adjani",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073812",
+    "film_title": "Tommy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ann-Margret",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Louise Fletcher",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073098",
+    "film_title": "Hedda",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Glenda Jackson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073107",
+    "film_title": "Hester Street",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Carol Kane",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0073440",
+    "film_title": "Nashville",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ronee Blakley",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0073692",
+    "film_title": "Shampoo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lee Grant",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0072973",
+    "film_title": "Farewell, My Lovely",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvia Miles",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0073440",
+    "film_title": "Nashville",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lily Tomlin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0073190",
+    "film_title": "Jacqueline Susann's Once Is Not Enough",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brenda Vaccaro",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0071129",
+    "film_title": "Amarcord",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0072684",
+    "film_title": "Barry Lyndon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0072890",
+    "film_title": "Dog Day Afternoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Lumet",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0073440",
+    "film_title": "Nashville",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Milos Forman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0072684",
+    "film_title": "Barry Lyndon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0072890",
+    "film_title": "Dog Day Afternoon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Bregman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Martin Elfand",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0073195",
+    "film_title": "Jaws",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard D. Zanuck",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Brown",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0073440",
+    "film_title": "Nashville",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Saul Zaentz",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Douglas",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0071129",
+    "film_title": "Amarcord",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Tonino Guerra",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0072307",
+    "film_title": "And Now My Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Claude Lelouch",
+        "role": "Writer"
+      },
+      {
+        "name": "Pierre Uytterhoeven",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0072890",
+    "film_title": "Dog Day Afternoon",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Pierson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0073293",
+    "film_title": "Lies My Father Told Me",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ted Allan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0073692",
+    "film_title": "Shampoo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Towne",
+        "role": "Writer"
+      },
+      {
+        "name": "Warren Beatty",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0072684",
+    "film_title": "Barry Lyndon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stanley Kubrick",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0073341",
+    "film_title": "The Man Who Would Be King",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Huston",
+        "role": "Writer"
+      },
+      {
+        "name": "Gladys Hill",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lawrence Hauben",
+        "role": "Writer"
+      },
+      {
+        "name": "Bo Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0072037",
+    "film_title": "Scent of a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruggero Maccari",
+        "role": "Writer"
+      },
+      {
+        "name": "Dino Risi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0073766",
+    "film_title": "The Sunshine Boys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neil Simon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mary Pickford",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0075314",
+    "film_title": "Taxi Driver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Peter Finch",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0075040",
+    "film_title": "Seven Beauties",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Giancarlo Giannini",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Holden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvester Stallone",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ned Beatty",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burgess Meredith",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0074860",
+    "film_title": "Marathon Man",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0074119",
+    "film_title": "All the President's Men",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jason Robards",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Young",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0072826",
+    "film_title": "Cousin, Cousine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marie-Christine Barrault",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Faye Dunaway",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Talia Shire",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0074285",
+    "film_title": "Carrie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sissy Spacek",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0074147",
+    "film_title": "Face to Face",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Liv Ullmann",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0074119",
+    "film_title": "All the President's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Alexander",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0075314",
+    "film_title": "Taxi Driver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jodie Foster",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0075406",
+    "film_title": "Voyage of the Damned",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lee Grant",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0074285",
+    "film_title": "Carrie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Piper Laurie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Beatrice Straight",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0074119",
+    "film_title": "All the President's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan J. Pakula",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0074147",
+    "film_title": "Face to Face",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sidney Lumet",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": true,
+    "people": [
+      {
+        "name": "John G. Avildsen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0075040",
+    "film_title": "Seven Beauties",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lina Wertmüller",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0074119",
+    "film_title": "All the President's Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Coblenz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0074235",
+    "film_title": "Bound for Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert F. Blumofe",
+        "role": "Honoree"
+      },
+      {
+        "name": "Harold Leventhal",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Howard Gottfried",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Irwin Winkler",
+        "role": "Honoree"
+      },
+      {
+        "name": "Robert Chartoff",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0075314",
+    "film_title": "Taxi Driver",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Phillips",
+        "role": "Honoree"
+      },
+      {
+        "name": "Julia Phillips",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0074119",
+    "film_title": "All the President's Men",
+    "is_win": true,
+    "people": [
+      {
+        "name": "William Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0074235",
+    "film_title": "Bound for Glory",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Getchell",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0074291",
+    "film_title": "Fellini's Casanova",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Writer"
+      },
+      {
+        "name": "Bernardino Zapponi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0075194",
+    "film_title": "The Seven-per-cent Solution",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicholas Meyer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0075406",
+    "film_title": "Voyage of the Damned",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steve Shagan",
+        "role": "Writer"
+      },
+      {
+        "name": "David Butler",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0072826",
+    "film_title": "Cousin, Cousine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jean-Charles Tacchella",
+        "role": "Writer"
+      },
+      {
+        "name": "Daniele Thompson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0074554",
+    "film_title": "The Front",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Bernstein",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0074958",
+    "film_title": "Network",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paddy Chayefsky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0075148",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sylvester Stallone",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0075040",
+    "film_title": "Seven Beauties",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lina Wertmüller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0075686",
+    "film_title": "Annie Hall",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0075995",
+    "film_title": "Equus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Burton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0076095",
+    "film_title": "The Goodbye Girl",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard Dreyfuss",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0076085",
+    "film_title": "A Special Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marcello Mastroianni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0076666",
+    "film_title": "Saturday Night Fever",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Travolta",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mikhail Baryshnikov",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0075995",
+    "film_title": "Equus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Firth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alec Guinness",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jason Robards",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maximilian Schell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anne Bancroft",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0075686",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Diane Keaton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Shirley MacLaine",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0076095",
+    "film_title": "The Goodbye Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marsha Mason",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leslie Browne",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0076095",
+    "film_title": "The Goodbye Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Quinn Cummings",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0075860",
+    "film_title": "Close Encounters of the Third Kind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Melinda Dillon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0076327",
+    "film_title": "Looking for Mr. Goodbar",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tuesday Weld",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0075686",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0075860",
+    "film_title": "Close Encounters of the Third Kind",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fred Zinnemann",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Lucas",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Herbert Ross",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0075686",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Charles H. Joffe",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0076095",
+    "film_title": "The Goodbye Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ray Stark",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Roth",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Kurtz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Herbert Ross",
+        "role": "Honoree"
+      },
+      {
+        "name": "Arthur Laurents",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0075995",
+    "film_title": "Equus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Shaffer",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0076172",
+    "film_title": "I Never Promised You a Rose Garden",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gavin Lambert",
+        "role": "Writer"
+      },
+      {
+        "name": "Lewis John Carlino",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0076245",
+    "film_title": "Julia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alvin Sargent",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0076489",
+    "film_title": "Oh, God!",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Larry Gelbart",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0075824",
+    "film_title": "That Obscure Object of Desire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Luis Buñuel",
+        "role": "Writer"
+      },
+      {
+        "name": "Jean-Claude Carrière",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0075686",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      },
+      {
+        "name": "Marshall Brickman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0076095",
+    "film_title": "The Goodbye Girl",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neil Simon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0076301",
+    "film_title": "The Late Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Lucas",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0076843",
+    "film_title": "The Turning Point",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Laurents",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Margaret Booth",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0077280",
+    "film_title": "The Buddy Holly Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Busey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0077269",
+    "film_title": "The Boys from Brazil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jon Voight",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Dern",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0077360",
+    "film_title": "Comes a Horseman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Farnsworth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0077928",
+    "film_title": "Midnight Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Hurt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christopher Walken",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Warden",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0077711",
+    "film_title": "Autumn Sonata",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingrid Bergman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0078199",
+    "film_title": "Same Time, Next Year",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ellen Burstyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0078444",
+    "film_title": "An Unmarried Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jill Clayburgh",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jane Fonda",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0077742",
+    "film_title": "Interiors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geraldine Page",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dyan Cannon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Penelope Milford",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0077289",
+    "film_title": "California Suite",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Maggie Smith",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0077742",
+    "film_title": "Interiors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Maureen Stapleton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hal Ashby",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Cimino",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Director"
+      },
+      {
+        "name": "Buck Henry",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077742",
+    "film_title": "Interiors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077928",
+    "film_title": "Midnight Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Parker",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jerome Hellman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Barry Spikings",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Deeley",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Cimino",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Peverall",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0077928",
+    "film_title": "Midnight Express",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Marshall",
+        "role": "Honoree"
+      },
+      {
+        "name": "David Puttnam",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0078444",
+    "film_title": "An Unmarried Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Mazursky",
+        "role": "Honoree"
+      },
+      {
+        "name": "Tony Ray",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0078878",
+    "film_title": "Bloodbrothers",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter Newman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0077289",
+    "film_title": "California Suite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neil Simon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0077663",
+    "film_title": "Heaven Can Wait",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elaine May",
+        "role": "Writer"
+      },
+      {
+        "name": "Warren Beatty",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0077928",
+    "film_title": "Midnight Express",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0078199",
+    "film_title": "Same Time, Next Year",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bernard Slade",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0077711",
+    "film_title": "Autumn Sonata",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ingmar Bergman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0077362",
+    "film_title": "Coming Home",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Nancy Dowd",
+        "role": "Writer"
+      },
+      {
+        "name": "Waldo Salt",
+        "role": "Writer"
+      },
+      {
+        "name": "Robert C. Jones",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Cimino",
+        "role": "Writer"
+      },
+      {
+        "name": "Deric Washburn",
+        "role": "Writer"
+      },
+      {
+        "name": "Louis Garfinkle",
+        "role": "Writer"
+      },
+      {
+        "name": "Quinn K. Redeker",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0077742",
+    "film_title": "Interiors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0078444",
+    "film_title": "An Unmarried Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Mazursky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Walter Lantz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "The Museum of Modern Art",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Laurence Olivier",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

@@ -54,3 +54,4 @@ build-info.json
 *.swp
 *.swo
 *~
+.history/

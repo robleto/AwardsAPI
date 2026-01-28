@@ -1,0 +1,563 @@
+[
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1517268",
+    "film_title": "Top Gun: Maverick",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt14444726",
+    "film_title": "Tár",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Director" },
+      { "name": "Daniel Scheinert", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Martin McDonagh", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt14444726",
+    "film_title": "Tár",
+    "is_win": false,
+    "people": [
+      { "name": "Todd Field", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7846844",
+    "film_title": "Triangle of Sadness",
+    "is_win": false,
+    "people": [
+      { "name": "Ruben Östlund", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt13833688",
+    "film_title": "The Whale",
+    "is_win": true,
+    "people": [
+      { "name": "Brendan Fraser", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt13223398",
+    "film_title": "Elvis",
+    "is_win": false,
+    "people": [
+      { "name": "Austin Butler", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Colin Farrell", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Paul Mescal", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt5537002",
+    "film_title": "Living",
+    "is_win": false,
+    "people": [
+      { "name": "Bill Nighy", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt14444726",
+    "film_title": "Tár",
+    "is_win": true,
+    "people": [
+      { "name": "Cate Blanchett", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt13375076",
+    "film_title": "To Leslie",
+    "is_win": false,
+    "people": [
+      { "name": "Andrea Riseborough", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": false,
+    "people": [
+      { "name": "Michelle Yeoh", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Michelle Williams", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "Till",
+    "is_win": false,
+    "people": [
+      { "name": "Danielle Deadwyler", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Ke Huy Quan", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Brendan Gleeson", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Barry Keoghan", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Judd Hirsch", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10648342",
+    "film_title": "Causeway",
+    "is_win": false,
+    "people": [
+      { "name": "Brian Tyree Henry", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Jamie Lee Curtis", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Kerry Condon", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": false,
+    "people": [
+      { "name": "Stephanie Hsu", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Hong Chau", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt13833688",
+    "film_title": "The Whale",
+    "is_win": false,
+    "people": [
+      { "name": "Angela Bassett", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt1655442",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Writer" },
+      { "name": "Daniel Scheinert", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Martin McDonagh", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt9764362",
+    "film_title": "The Fabelmans",
+    "is_win": false,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Writer" },
+      { "name": "Tony Kushner", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt14444726",
+    "film_title": "Tár",
+    "is_win": false,
+    "people": [
+      { "name": "Todd Field", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt7846844",
+    "film_title": "Triangle of Sadness",
+    "is_win": false,
+    "people": [
+      { "name": "Ruben Östlund", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt10293406",
+    "film_title": "Women Talking",
+    "is_win": true,
+    "people": [
+      { "name": "Sarah Polley", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1517268",
+    "film_title": "Top Gun: Maverick",
+    "is_win": false,
+    "people": [
+      { "name": "Ehren Kruger", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt11657662",
+    "film_title": "Glass Onion: A Knives Out Mystery",
+    "is_win": false,
+    "people": [
+      { "name": "Rian Johnson", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt5537002",
+    "film_title": "Living",
+    "is_win": false,
+    "people": [
+      { "name": "Kazuo Ishiguro", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt2382320",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": false,
+    "people": [
+      { "name": "Edward Berger", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt9362722",
+    "film_title": "Guillermo del Toro's Pinocchio",
+    "is_win": true,
+    "people": [
+      { "name": "Guillermo del Toro", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt10298810",
+    "film_title": "Turning Red",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2953050",
+    "film_title": "Puss in Boots: The Last Wish",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt6710474",
+    "film_title": "The Sea Beast",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt11247158",
+    "film_title": "Marcel the Shell with Shoes On",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Diane Warren", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Weir", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Euzhan Palcy", "role": "Honoree" }
+    ]
+  }
+]

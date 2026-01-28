@@ -44,7 +44,16 @@ exports.handler = async (event) => {
     try {
       const validation = await db.validateApiKey(apiKey);
       if (!validation || !validation.valid) {
-        return json(429, { error: validation?.error || 'API key validation failed' });
+        return json(429, { 
+          error: validation?.error || 'API key validation failed'
+        });
+      }
+      // Optional domain enforcement if metadata available
+      if (Array.isArray(validation.allowed_domains) && !validation.allowed_domains.includes('film')) {
+        return json(403, {
+          error: 'API key not authorized for film domain',
+          allowed_domains: validation.allowed_domains
+        });
       }
     } catch (e) {
       console.error('API key validation error:', e);

@@ -1,0 +1,568 @@
+[
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7984734",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt8267604",
+    "film_title": "Black Panther",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6763664",
+    "film_title": "Bohemian Rhapsody",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt8267604",
+    "film_title": "Roma",
+    "is_win": true,
+    "people": [
+      { "name": "Alfonso Cuarón", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7984734",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": [
+      { "name": "Spike Lee", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      { "name": "Yorgos Lanthimos", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6751668",
+    "film_title": "Cold War",
+    "is_win": false,
+    "people": [
+      { "name": "Paweł Pawlikowski", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4729430",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      { "name": "Adam McKay", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6763664",
+    "film_title": "Bohemian Rhapsody",
+    "is_win": true,
+    "people": [
+      { "name": "Rami Malek", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4729430",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      { "name": "Christian Bale", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6450804",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      { "name": "Bradley Cooper", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4669296",
+    "film_title": "At Eternity's Gate",
+    "is_win": false,
+    "people": [
+      { "name": "Willem Dafoe", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": false,
+    "people": [
+      { "name": "Viggo Mortensen", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": true,
+    "people": [
+      { "name": "Olivia Colman", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt8267604",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      { "name": "Yalitza Aparicio", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6450804",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      { "name": "Lady Gaga", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5580390",
+    "film_title": "The Wife",
+    "is_win": false,
+    "people": [
+      { "name": "Glenn Close", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6128300",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      { "name": "Melissa McCarthy", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      { "name": "Mahershala Ali", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt7984734",
+    "film_title": "BlacKkKlansman",
+    "is_win": false,
+    "people": [
+      { "name": "Adam Driver", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6450804",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      { "name": "Sam Elliott", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6128300",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      { "name": "Richard E. Grant", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt4729430",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      { "name": "Sam Rockwell", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4154796",
+    "film_title": "If Beale Street Could Talk",
+    "is_win": true,
+    "people": [
+      { "name": "Regina King", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4729430",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      { "name": "Amy Adams", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      { "name": "Emma Stone", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      { "name": "Rachel Weisz", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt8267604",
+    "film_title": "Black Panther",
+    "is_win": false,
+    "people": [
+      { "name": "Marina de Tavira", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6966692",
+    "film_title": "Green Book",
+    "is_win": true,
+    "people": [
+      { "name": "Nick Vallelonga", "role": "Writer" },
+      { "name": "Brian Currie", "role": "Writer" },
+      { "name": "Peter Farrelly", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt7959026",
+    "film_title": "The Favourite",
+    "is_win": false,
+    "people": [
+      { "name": "Deborah Davis", "role": "Writer" },
+      { "name": "Tony McNamara", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt4729430",
+    "film_title": "Vice",
+    "is_win": false,
+    "people": [
+      { "name": "Adam McKay", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt8267604",
+    "film_title": "Roma",
+    "is_win": false,
+    "people": [
+      { "name": "Alfonso Cuarón", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt4925292",
+    "film_title": "First Reformed",
+    "is_win": false,
+    "people": [
+      { "name": "Paul Schrader", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt7984734",
+    "film_title": "BlacKkKlansman",
+    "is_win": true,
+    "people": [
+      { "name": "Spike Lee", "role": "Writer" },
+      { "name": "Charlie Wachtel", "role": "Writer" },
+      { "name": "David Rabinowitz", "role": "Writer" },
+      { "name": "Kevin Willmott", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6128300",
+    "film_title": "Can You Ever Forgive Me?",
+    "is_win": false,
+    "people": [
+      { "name": "Nicole Holofcener", "role": "Writer" },
+      { "name": "Jeff Whitty", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4154796",
+    "film_title": "If Beale Street Could Talk",
+    "is_win": false,
+    "people": [
+      { "name": "Barry Jenkins", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6450804",
+    "film_title": "A Star Is Born",
+    "is_win": false,
+    "people": [
+      { "name": "Bradley Cooper", "role": "Writer" },
+      { "name": "Eric Roth", "role": "Writer" },
+      { "name": "Will Fetters", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt7784604",
+    "film_title": "The Ballad of Buster Scruggs",
+    "is_win": false,
+    "people": [
+      { "name": "Joel Coen", "role": "Writer" },
+      { "name": "Ethan Coen", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3896198",
+    "film_title": "Spider-Man: Into the Spider-Verse",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3521164",
+    "film_title": "Incredibles 2",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt4520988",
+    "film_title": "Isle of Dogs",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2386490",
+    "film_title": "Mirai",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt4729430",
+    "film_title": "Ralph Breaks the Internet",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Cicely Tyson", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Lalo Schifrin", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Marvin Levy", "role": "Honoree" }
+    ]
+  }
+]

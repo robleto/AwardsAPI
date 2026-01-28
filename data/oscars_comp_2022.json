@@ -1,0 +1,559 @@
+[
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1160419",
+    "film_title": "Dune",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt11214590",
+    "film_title": "West Side Story",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": true,
+    "people": [
+      { "name": "Jane Campion", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt11214590",
+    "film_title": "West Side Story",
+    "is_win": false,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": false,
+    "people": [
+      { "name": "Kenneth Branagh", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6710474",
+    "film_title": "Licorice Pizza",
+    "is_win": false,
+    "people": [
+      { "name": "Paul Thomas Anderson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1160419",
+    "film_title": "Dune",
+    "is_win": false,
+    "people": [
+      { "name": "Denis Villeneuve", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt9114286",
+    "film_title": "King Richard",
+    "is_win": true,
+    "people": [
+      { "name": "Will Smith", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6710474",
+    "film_title": "Being the Ricardos",
+    "is_win": false,
+    "people": [
+      { "name": "Javier Bardem", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": false,
+    "people": [
+      { "name": "Benedict Cumberbatch", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Andrew Garfield", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt8267604",
+    "film_title": "The Tragedy of Macbeth",
+    "is_win": false,
+    "people": [
+      { "name": "Denzel Washington", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4995540",
+    "film_title": "The Eyes of Tammy Faye",
+    "is_win": true,
+    "people": [
+      { "name": "Jessica Chastain", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6710474",
+    "film_title": "Being the Ricardos",
+    "is_win": false,
+    "people": [
+      { "name": "Nicole Kidman", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt11564570",
+    "film_title": "Spencer",
+    "is_win": false,
+    "people": [
+      { "name": "Kristen Stewart", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt11214590",
+    "film_title": "West Side Story",
+    "is_win": false,
+    "people": [
+      { "name": "Rachel Zegler", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt13320662",
+    "film_title": "Parallel Mothers",
+    "is_win": false,
+    "people": [
+      { "name": "Penélope Cruz", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": [
+      { "name": "Troy Kotsur", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": false,
+    "people": [
+      { "name": "Ciarán Hinds", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Jesse Plemons", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Kodi Smit-McPhee", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt9114286",
+    "film_title": "King Richard",
+    "is_win": false,
+    "people": [
+      { "name": "J.K. Simmons", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt11214590",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      { "name": "Ariana DeBose", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt9114286",
+    "film_title": "King Richard",
+    "is_win": false,
+    "people": [
+      { "name": "Aunjanue Ellis", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": false,
+    "people": [
+      { "name": "Judi Dench", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Kirsten Dunst", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6710474",
+    "film_title": "The Lost Daughter",
+    "is_win": false,
+    "people": [
+      { "name": "Jessie Buckley", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt11271038",
+    "film_title": "Belfast",
+    "is_win": true,
+    "people": [
+      { "name": "Kenneth Branagh", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6710474",
+    "film_title": "Licorice Pizza",
+    "is_win": false,
+    "people": [
+      { "name": "Paul Thomas Anderson", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt13407112",
+    "film_title": "The Worst Person in the World",
+    "is_win": false,
+    "people": [
+      { "name": "Joachim Trier", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt13405378",
+    "film_title": "Don't Look Up",
+    "is_win": false,
+    "people": [
+      { "name": "Adam McKay", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt9114286",
+    "film_title": "King Richard",
+    "is_win": false,
+    "people": [
+      { "name": "Zach Baylin", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": [
+      { "name": "Siân Heder", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt10272386",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Jane Campion", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1160419",
+    "film_title": "Dune",
+    "is_win": false,
+    "people": [
+      { "name": "Jon Spaihts", "role": "Writer" },
+      { "name": "Denis Villeneuve", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1464540",
+    "film_title": "Drive My Car",
+    "is_win": false,
+    "people": [
+      { "name": "Ryusuke Hamaguchi", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6710474",
+    "film_title": "The Lost Daughter",
+    "is_win": false,
+    "people": [
+      { "name": "Maggie Gyllenhaal", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2953050",
+    "film_title": "Encanto",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt6264654",
+    "film_title": "The Mitchells vs. the Machines",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt8847712",
+    "film_title": "Flee",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt7979580",
+    "film_title": "Luca",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt4908644",
+    "film_title": "Raya and the Last Dragon",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Samuel L. Jackson", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Elaine May", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Liv Ullmann", "role": "Honoree" }
+    ]
+  }
+]

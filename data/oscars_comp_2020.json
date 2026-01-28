@@ -1,0 +1,561 @@
+[
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7131622",
+    "film_title": "1917",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1950186",
+    "film_title": "Ford v Ferrari",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0809504",
+    "film_title": "The Irishman",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7984734",
+    "film_title": "Jojo Rabbit",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon-ho", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt7131622",
+    "film_title": "1917",
+    "is_win": false,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0809504",
+    "film_title": "The Irishman",
+    "is_win": false,
+    "people": [
+      { "name": "Martin Scorsese", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt3783958",
+    "film_title": "Once Upon a Time in Hollywood",
+    "is_win": false,
+    "people": [
+      { "name": "Quentin Tarantino", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt4513678",
+    "film_title": "Joker",
+    "is_win": false,
+    "people": [
+      { "name": "Todd Phillips", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt4513678",
+    "film_title": "Joker",
+    "is_win": true,
+    "people": [
+      { "name": "Joaquin Phoenix", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt3783958",
+    "film_title": "Once Upon a Time in Hollywood",
+    "is_win": false,
+    "people": [
+      { "name": "Leonardo DiCaprio", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6751668",
+    "film_title": "Pain and Glory",
+    "is_win": false,
+    "people": [
+      { "name": "Antonio Banderas", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0809504",
+    "film_title": "The Two Popes",
+    "is_win": false,
+    "people": [
+      { "name": "Jonathan Pryce", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0822854",
+    "film_title": "Marriage Story",
+    "is_win": false,
+    "people": [
+      { "name": "Adam Driver", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt4698684",
+    "film_title": "Judy",
+    "is_win": true,
+    "people": [
+      { "name": "Renée Zellweger", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6027912",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      { "name": "Saoirse Ronan", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0822854",
+    "film_title": "Marriage Story",
+    "is_win": false,
+    "people": [
+      { "name": "Scarlett Johansson", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt8613070",
+    "film_title": "Harriet",
+    "is_win": false,
+    "people": [
+      { "name": "Cynthia Erivo", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt9115530",
+    "film_title": "Bombshell",
+    "is_win": false,
+    "people": [
+      { "name": "Charlize Theron", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt3783958",
+    "film_title": "Once Upon a Time in Hollywood",
+    "is_win": true,
+    "people": [
+      { "name": "Brad Pitt", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0809504",
+    "film_title": "The Irishman",
+    "is_win": false,
+    "people": [
+      { "name": "Al Pacino", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0809504",
+    "film_title": "The Irishman",
+    "is_win": false,
+    "people": [
+      { "name": "Joe Pesci", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0809504",
+    "film_title": "The Two Popes",
+    "is_win": false,
+    "people": [
+      { "name": "Anthony Hopkins", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt7984734",
+    "film_title": "Jojo Rabbit",
+    "is_win": false,
+    "people": [
+      { "name": "Tom Hanks", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0822854",
+    "film_title": "Marriage Story",
+    "is_win": true,
+    "people": [
+      { "name": "Laura Dern", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt7653254",
+    "film_title": "Richard Jewell",
+    "is_win": false,
+    "people": [
+      { "name": "Kathy Bates", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0822854",
+    "film_title": "Marriage Story",
+    "is_win": false,
+    "people": [
+      { "name": "Scarlett Johansson", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6027912",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      { "name": "Florence Pugh", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt9115530",
+    "film_title": "Bombshell",
+    "is_win": false,
+    "people": [
+      { "name": "Margot Robbie", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon-ho", "role": "Writer" },
+      { "name": "Han Jin-won", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt3783958",
+    "film_title": "Once Upon a Time in Hollywood",
+    "is_win": false,
+    "people": [
+      { "name": "Quentin Tarantino", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt7131622",
+    "film_title": "1917",
+    "is_win": false,
+    "people": [
+      { "name": "Sam Mendes", "role": "Writer" },
+      { "name": "Krysty Wilson-Cairns", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0822854",
+    "film_title": "Marriage Story",
+    "is_win": false,
+    "people": [
+      { "name": "Noah Baumbach", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt8946378",
+    "film_title": "Knives Out",
+    "is_win": false,
+    "people": [
+      { "name": "Rian Johnson", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt7984734",
+    "film_title": "Jojo Rabbit",
+    "is_win": true,
+    "people": [
+      { "name": "Taika Waititi", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0809504",
+    "film_title": "The Irishman",
+    "is_win": false,
+    "people": [
+      { "name": "Steven Zaillian", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt4513678",
+    "film_title": "Joker",
+    "is_win": false,
+    "people": [
+      { "name": "Todd Phillips", "role": "Writer" },
+      { "name": "Scott Silver", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6027912",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      { "name": "Greta Gerwig", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0809504",
+    "film_title": "The Two Popes",
+    "is_win": false,
+    "people": [
+      { "name": "Anthony McCarten", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt3778644",
+    "film_title": "Toy Story 4",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt2948372",
+    "film_title": "How to Train Your Dragon: The Hidden World",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt6791350",
+    "film_title": "I Lost My Body",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt8503618",
+    "film_title": "Klaus",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Animated Feature",
+    "imdb_id": "tt5814060",
+    "film_title": "Missing Link",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Geena Davis", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "David Lynch", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Wes Studi", "role": "Honoree" }
+    ]
+  }
+]

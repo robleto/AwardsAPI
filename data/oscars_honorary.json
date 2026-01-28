@@ -1,0 +1,470 @@
+[
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Angela Bassett", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Mel Brooks", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Carol Littleton", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Euzhan Palcy", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Diane Warren", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Weir", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Samuel L. Jackson", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Elaine May", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Liv Ullmann", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Tyler Perry", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "David Lynch", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Wes Studi", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Lalo Schifrin", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2019,
+    "org_name": "Academy Awards",
+    "ceremony_name": "91st Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Marvin Levy", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Donald Sutherland", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Agnès Varda", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2018,
+    "org_name": "Academy Awards",
+    "ceremony_name": "90th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Charles Burnett", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Jackie Chan", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Anne V. Coates", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2017,
+    "org_name": "Academy Awards",
+    "ceremony_name": "89th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Lynn Stalmaster", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Spike Lee", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2016,
+    "org_name": "Academy Awards",
+    "ceremony_name": "88th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Gena Rowlands", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Jean-Claude Carrière", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Hayao Miyazaki", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2015,
+    "org_name": "Academy Awards",
+    "ceremony_name": "87th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Maureen O'Hara", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Angela Lansbury", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Steve Martin", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2014,
+    "org_name": "Academy Awards",
+    "ceremony_name": "86th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Piero Tosi", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Hal Needham", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2013,
+    "org_name": "Academy Awards",
+    "ceremony_name": "85th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "George Stevens Jr.", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "James Earl Jones", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2012,
+    "org_name": "Academy Awards",
+    "ceremony_name": "84th Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Dick Smith", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Francis Ford Coppola", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Eli Wallach", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2011,
+    "org_name": "Academy Awards",
+    "ceremony_name": "83rd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Brownlow", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Lauren Bacall", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Roger Corman", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2010,
+    "org_name": "Academy Awards",
+    "ceremony_name": "82nd Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Gordon Willis", "role": "Honoree" }
+    ]
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Honorary Award",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Boyle", "role": "Honoree" }
+    ]
+  }
+]

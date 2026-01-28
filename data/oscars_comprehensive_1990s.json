@@ -1,0 +1,6542 @@
+[
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0097499",
+    "film_title": "Henry V",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Branagh",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0096969",
+    "film_title": "Born on the Fourth of July",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Cruise",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0097937",
+    "film_title": "My Left Foot",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Daniel Day Lewis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0097239",
+    "film_title": "Driving Miss Daisy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morgan Freeman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0097165",
+    "film_title": "Dead Poets Society",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robin Williams",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0097216",
+    "film_title": "Do the Right Thing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Danny Aiello",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0097239",
+    "film_title": "Driving Miss Daisy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dan Aykroyd",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0097243",
+    "film_title": "A Dry White Season",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marlon Brando",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0097123",
+    "film_title": "Crimes and Misdemeanors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Landau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0097441",
+    "film_title": "Glory",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0094828",
+    "film_title": "Camille Claudel",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Isabelle Adjani",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0098319",
+    "film_title": "Shirley Valentine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pauline Collins",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0100211",
+    "film_title": "Music Box",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0097322",
+    "film_title": "The Fabulous Baker Boys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Pfeiffer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0097239",
+    "film_title": "Driving Miss Daisy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jessica Tandy",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0097937",
+    "film_title": "My Left Foot",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Brenda Fricker",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0097276",
+    "film_title": "Enemies, A Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anjelica Huston",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0097276",
+    "film_title": "Enemies, A Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lena Olin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0098384",
+    "film_title": "Steel Magnolias",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julia Roberts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0098067",
+    "film_title": "Parenthood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dianne Wiest",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0096969",
+    "film_title": "Born on the Fourth of July",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0097123",
+    "film_title": "Crimes and Misdemeanors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0097165",
+    "film_title": "Dead Poets Society",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Weir",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0097499",
+    "film_title": "Henry V",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Branagh",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0097937",
+    "film_title": "My Left Foot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Sheridan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0096969",
+    "film_title": "Born on the Fourth of July",
+    "is_win": false,
+    "people": [
+      {
+        "name": "A. Kitman Ho",
+        "role": "Honoree"
+      },
+      {
+        "name": "Oliver Stone",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0097165",
+    "film_title": "Dead Poets Society",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Haft",
+        "role": "Honoree"
+      },
+      {
+        "name": "Paul Junger Witt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Tony Thomas",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0097239",
+    "film_title": "Driving Miss Daisy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Richard D. Zanuck",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lili Fini Zanuck",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0097351",
+    "film_title": "Field of Dreams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Gordon",
+        "role": "Honoree"
+      },
+      {
+        "name": "Charles Gordon",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0097937",
+    "film_title": "My Left Foot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Noel Pearson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0096969",
+    "film_title": "Born on the Fourth of July",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      },
+      {
+        "name": "Ron Kovic",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0097239",
+    "film_title": "Driving Miss Daisy",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Alfred Uhry",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0097276",
+    "film_title": "Enemies, A Love Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roger L. Simon",
+        "role": "Writer"
+      },
+      {
+        "name": "Paul Mazursky",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0097351",
+    "film_title": "Field of Dreams",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Phil Alden Robinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0097937",
+    "film_title": "My Left Foot",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Sheridan",
+        "role": "Writer"
+      },
+      {
+        "name": "Shane Connaughton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0097123",
+    "film_title": "Crimes and Misdemeanors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0097165",
+    "film_title": "Dead Poets Society",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tom Schulman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0097216",
+    "film_title": "Do the Right Thing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Spike Lee",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0098724",
+    "film_title": "sex, lies, and videotape",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Soderbergh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0098635",
+    "film_title": "When Harry Met Sally...",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nora Ephron",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1990,
+    "org_name": "Academy Awards",
+    "ceremony_name": "62th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Akira Kurosawa",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kevin Costner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0099077",
+    "film_title": "Awakenings",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0099334",
+    "film_title": "Cyrano de Bergerac",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gerard Depardieu",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0099566",
+    "film_title": "The Field",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0100486",
+    "film_title": "Reversal of Fortune",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jeremy Irons",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0100049",
+    "film_title": "Longtime Companion",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bruce Davison",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0099674",
+    "film_title": "The Godfather, Part III",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andy Garcia",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Graham Greene",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0099422",
+    "film_title": "Dick Tracy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0099685",
+    "film_title": "Good Fellas",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Joe Pesci",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0100157",
+    "film_title": "Misery",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kathy Bates",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0099703",
+    "film_title": "The Grifters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anjelica Huston",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0100405",
+    "film_title": "Pretty Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julia Roberts",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0100395",
+    "film_title": "Postcards from the Edge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0100200",
+    "film_title": "Mr. & Mrs. Bridge",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joanne Woodward",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0099703",
+    "film_title": "The Grifters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Annette Bening",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0099685",
+    "film_title": "Good Fellas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lorraine Bracco",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0099653",
+    "film_title": "Ghost",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Whoopi Goldberg",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0100935",
+    "film_title": "Wild at Heart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Ladd",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary McDonnell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kevin Costner",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099674",
+    "film_title": "The Godfather, Part III",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099685",
+    "film_title": "Good Fellas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Scorsese",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099703",
+    "film_title": "The Grifters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen Frears",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0100486",
+    "film_title": "Reversal of Fortune",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbet Schroeder",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099077",
+    "film_title": "Awakenings",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Walter F. Parkes",
+        "role": "Honoree"
+      },
+      {
+        "name": "Lawrence Lasker",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jim Wilson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kevin Costner",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099653",
+    "film_title": "Ghost",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lisa Weinstein",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099674",
+    "film_title": "The Godfather, Part III",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Francis Ford Coppola",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099685",
+    "film_title": "Good Fellas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Irwin Winkler",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0099077",
+    "film_title": "Awakenings",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Zaillian",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances With Wolves",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Blake",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0099685",
+    "film_title": "Good Fellas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicholas Pileggi",
+        "role": "Writer"
+      },
+      {
+        "name": "Martin Scorsese",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0099703",
+    "film_title": "The Grifters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Donald E. Westlake",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0100486",
+    "film_title": "Reversal of Fortune",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nicholas Kazan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0099012",
+    "film_title": "Alice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0099073",
+    "film_title": "Avalon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Levinson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0099653",
+    "film_title": "Ghost",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bruce Joel Rubin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0099699",
+    "film_title": "Green Card",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Weir",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0100142",
+    "film_title": "Metropolitan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Whit Stillman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Sophia Loren",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Myrna Loy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0101540",
+    "film_title": "Cape Fear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert De Niro",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anthony Hopkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0102713",
+    "film_title": "The Prince of Tides",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Nolte",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0101889",
+    "film_title": "The Fisher King",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robin Williams",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0102138",
+    "film_title": "JFK",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tommy Lee Jones",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Harvey Keitel",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ben Kingsley",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0101410",
+    "film_title": "Barton Fink",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Lerner",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0101587",
+    "film_title": "City Slickers",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Palance",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0103074",
+    "film_title": "Thelma & Louise",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geena Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0102753",
+    "film_title": "Rambling Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laura Dern",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jodie Foster",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0101902",
+    "film_title": "For the Boys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bette Midler",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0103074",
+    "film_title": "Thelma & Louise",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Sarandon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0102753",
+    "film_title": "Rambling Rose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Ladd",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0101540",
+    "film_title": "Cape Fear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Juliette Lewis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0102713",
+    "film_title": "The Prince of Tides",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Nelligan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0101889",
+    "film_title": "The Fisher King",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mercedes Ruehl",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0101921",
+    "film_title": "Fried Green Tomatoes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jessica Tandy",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0101507",
+    "film_title": "Boyz N the Hood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Singleton",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barry Levinson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0102138",
+    "film_title": "JFK",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jonathan Demme",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0103074",
+    "film_title": "Thelma & Louise",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ridley Scott",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0101414",
+    "film_title": "Beauty and the Beast",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Don Hahn",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Johnson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Barry Levinson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Warren Beatty",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0102138",
+    "film_title": "JFK",
+    "is_win": false,
+    "people": [
+      {
+        "name": "A. Kitman Ho",
+        "role": "Honoree"
+      },
+      {
+        "name": "Oliver Stone",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0102713",
+    "film_title": "The Prince of Tides",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbra Streisand",
+        "role": "Honoree"
+      },
+      {
+        "name": "Andrew Karsch",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Edward Saxon",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kenneth Utt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ron Bozman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0099776",
+    "film_title": "Europa Europa",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Agnieszka Holland",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0101921",
+    "film_title": "Fried Green Tomatoes",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fannie Flagg",
+        "role": "Writer"
+      },
+      {
+        "name": "Carol Sobieski",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0102138",
+    "film_title": "JFK",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      },
+      {
+        "name": "Zachary Sklar",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0102713",
+    "film_title": "The Prince of Tides",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pat Conroy",
+        "role": "Writer"
+      },
+      {
+        "name": "Becky Johnston",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0102926",
+    "film_title": "The Silence of the Lambs",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ted Tally",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0101507",
+    "film_title": "Boyz N the Hood",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Singleton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0101516",
+    "film_title": "Bugsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Toback",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0101889",
+    "film_title": "The Fisher King",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard LaGravenese",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0101969",
+    "film_title": "Grand Canyon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Kasdan",
+        "role": "Writer"
+      },
+      {
+        "name": "Meg Kasdan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0103074",
+    "film_title": "Thelma & Louise",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Callie Khouri",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1992,
+    "org_name": "Academy Awards",
+    "ceremony_name": "64th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Satyajit Ray",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0103939",
+    "film_title": "Chaplin",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Downey Jr.",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Clint Eastwood",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0105323",
+    "film_title": "Scent of a Woman",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0104036",
+    "film_title": "The Crying Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen Rea",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0104797",
+    "film_title": "Malcolm X",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Denzel Washington",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0104036",
+    "film_title": "The Crying Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jaye Davidson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gene Hackman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0104257",
+    "film_title": "A Few Good Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0104348",
+    "film_title": "Glengarry Glen Ross",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Al Pacino",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0104928",
+    "film_title": "Mr. Saturday Night",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Paymer",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0104507",
+    "film_title": "Indochine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Catherine Deneuve",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0105107",
+    "film_title": "Passion Fish",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mary McDonnell",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0104765",
+    "film_title": "Love Field",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michelle Pfeiffer",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0104756",
+    "film_title": "Lorenzo's Oil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Sarandon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0104454",
+    "film_title": "Howards End",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Emma Thompson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0104466",
+    "film_title": "Husbands and Wives",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judy Davis",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0101811",
+    "film_title": "Enchanted April",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Plowright",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0104454",
+    "film_title": "Howards End",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vanessa Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0104237",
+    "film_title": "Damage",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Miranda Richardson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0104952",
+    "film_title": "My Cousin Vinny",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marisa Tomei",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0104036",
+    "film_title": "The Crying Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Neil Jordan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0104454",
+    "film_title": "Howards End",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Ivory",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0105151",
+    "film_title": "The Player",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0105323",
+    "film_title": "Scent of a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Brest",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Clint Eastwood",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0104036",
+    "film_title": "The Crying Game",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen Woolley",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0104257",
+    "film_title": "A Few Good Men",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Brown",
+        "role": "Honoree"
+      },
+      {
+        "name": "Rob Reiner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Andrew Scheinman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0104454",
+    "film_title": "Howards End",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ismail Merchant",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0105323",
+    "film_title": "Scent of a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Martin Brest",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Clint Eastwood",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0101811",
+    "film_title": "Enchanted April",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Barnes",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0104454",
+    "film_title": "Howards End",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ruth Prawer Jhabvala",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0105151",
+    "film_title": "The Player",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Tolkin",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0105265",
+    "film_title": "A River Runs through It",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Friedenberg",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0105323",
+    "film_title": "Scent of a Woman",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Bo Goldman",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0104036",
+    "film_title": "The Crying Game",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Neil Jordan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0104466",
+    "film_title": "Husbands and Wives",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0104756",
+    "film_title": "Lorenzo's Oil",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Miller",
+        "role": "Writer"
+      },
+      {
+        "name": "Nick Enright",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0105107",
+    "film_title": "Passion Fish",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Sayles",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0105695",
+    "film_title": "Unforgiven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "David Webb Peoples",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1993,
+    "org_name": "Academy Awards",
+    "ceremony_name": "65th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Federico Fellini",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Daniel Day-Lewis",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0108551",
+    "film_title": "What's Love Got to Do with It",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Laurence Fishburne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0107818",
+    "film_title": "Philadelphia",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tom Hanks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0107943",
+    "film_title": "The Remains of the Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Hopkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0108052",
+    "film_title": "Schindler's List",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Liam Neeson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0108550",
+    "film_title": "What's Eating Gilbert Grape",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0108052",
+    "film_title": "Schindler's List",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Fiennes",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0106977",
+    "film_title": "The Fugitive",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tommy Lee Jones",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0107206",
+    "film_title": "In the Line of Fire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Malkovich",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Pete Postlethwaite",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0108551",
+    "film_title": "What's Love Got to Do with It",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Angela Bassett",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0108149",
+    "film_title": "Six Degrees of Separation",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stockard Channing",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0107822",
+    "film_title": "The Piano",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Holly Hunter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0107943",
+    "film_title": "The Remains of the Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Thompson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0108101",
+    "film_title": "Shadowlands",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Debra Winger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0106918",
+    "film_title": "The Firm",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Holly Hunter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0107822",
+    "film_title": "The Piano",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anna Paquin",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0106881",
+    "film_title": "Fearless",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosie Perez",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0106226",
+    "film_title": "The Age of Innocence",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Winona Ryder",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Thompson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Sheridan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0107822",
+    "film_title": "The Piano",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Campion",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0107943",
+    "film_title": "The Remains of the Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Ivory",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0108052",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0108122",
+    "film_title": "Short Cuts",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Altman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0106977",
+    "film_title": "The Fugitive",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arnold Kopelson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jim Sheridan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107822",
+    "film_title": "The Piano",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jan Chapman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107943",
+    "film_title": "The Remains of the Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Nichols",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Calley",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ismail Merchant",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0108052",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gerald R. Molen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Branko Lustig",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0106226",
+    "film_title": "The Age of Innocence",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jay Cocks",
+        "role": "Writer"
+      },
+      {
+        "name": "Martin Scorsese",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0107207",
+    "film_title": "In the Name of the Father",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terry George",
+        "role": "Writer"
+      },
+      {
+        "name": "Jim Sheridan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0107943",
+    "film_title": "The Remains of the Day",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ruth Prawer Jhabvala",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0108052",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steven Zaillian",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0108101",
+    "film_title": "Shadowlands",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Nicholson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0106673",
+    "film_title": "Dave",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Ross",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0107206",
+    "film_title": "In the Line of Fire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jeff Maguire",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0107818",
+    "film_title": "Philadelphia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ron Nyswaner",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0107822",
+    "film_title": "The Piano",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jane Campion",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0108160",
+    "film_title": "Sleepless in Seattle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nora Ephron",
+        "role": "Writer"
+      },
+      {
+        "name": "David S. Ward",
+        "role": "Writer"
+      },
+      {
+        "name": "Jeff Arch",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Deborah Kerr",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0111161",
+    "film_title": "The Shawshank Redemption",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Morgan Freeman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Tom Hanks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0110428",
+    "film_title": "The Madness of King George",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nigel Hawthorne",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0110684",
+    "film_title": "Nobody's Fool",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Newman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Travolta",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Samuel L. Jackson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0109707",
+    "film_title": "Ed Wood",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Martin Landau",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0109348",
+    "film_title": "Bullets over Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chazz Palminteri",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0110932",
+    "film_title": "Quiz Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Scofield",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gary Sinise",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0110638",
+    "film_title": "Nell",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jodie Foster",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0109306",
+    "film_title": "Blue Sky",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jessica Lange",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0111454",
+    "film_title": "Tom & Viv",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Miranda Richardson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0110367",
+    "film_title": "Little Women",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Winona Ryder",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0109446",
+    "film_title": "The Client",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Susan Sarandon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0111454",
+    "film_title": "Tom & Viv",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rosemary Harris",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0110428",
+    "film_title": "The Madness of King George",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helen Mirren",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Uma Thurman",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0109348",
+    "film_title": "Bullets over Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jennifer Tilly",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0109348",
+    "film_title": "Bullets over Broadway",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Dianne Wiest",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0109348",
+    "film_title": "Bullets over Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robert Zemeckis",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Quentin Tarantino",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0110932",
+    "film_title": "Quiz Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Redford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0111495",
+    "film_title": "Red",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Krzysztof Kieslowski",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Wendy Finerman",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve Tisch",
+        "role": "Honoree"
+      },
+      {
+        "name": "Steve Starkey",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0109831",
+    "film_title": "Four Weddings and a Funeral",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Duncan Kenworthy",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Bender",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0110932",
+    "film_title": "Quiz Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Redford",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Jacobs",
+        "role": "Honoree"
+      },
+      {
+        "name": "Julian Krainin",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Nozik",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0111161",
+    "film_title": "The Shawshank Redemption",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Niki Marvin",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Eric Roth",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0110428",
+    "film_title": "The Madness of King George",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alan Bennett",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0110684",
+    "film_title": "Nobody's Fool",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Benton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0110932",
+    "film_title": "Quiz Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Attanasio",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0111161",
+    "film_title": "The Shawshank Redemption",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frank Darabont",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0109348",
+    "film_title": "Bullets over Broadway",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      },
+      {
+        "name": "Douglas McGrath",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0109831",
+    "film_title": "Four Weddings and a Funeral",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Curtis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0110005",
+    "film_title": "Heavenly Creatures",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Frances Walsh",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Quentin Tarantino",
+        "role": "Writer"
+      },
+      {
+        "name": "Roger Avary",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0111495",
+    "film_title": "Red",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Krzysztof Piesiewicz",
+        "role": "Writer"
+      },
+      {
+        "name": "Krzysztof Kieslowski",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michelangelo Antonioni",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0113627",
+    "film_title": "Leaving Las Vegas",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Nicolas Cage",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0113862",
+    "film_title": "Mr. Holland's Opus",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Dreyfuss",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0113987",
+    "film_title": "Nixon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Hopkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0112818",
+    "film_title": "Dead Man Walking",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sean Penn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0110877",
+    "film_title": "The Postman (Il Postino)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Massimo Troisi",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0112431",
+    "film_title": "Babe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Cromwell",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0112384",
+    "film_title": "Apollo 13",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0114746",
+    "film_title": "12 Monkeys",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brad Pitt",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0114287",
+    "film_title": "Rob Roy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Roth",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0114814",
+    "film_title": "The Usual Suspects",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kevin Spacey",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0112818",
+    "film_title": "Dead Man Walking",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Susan Sarandon",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0113627",
+    "film_title": "Leaving Las Vegas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elisabeth Shue",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0112641",
+    "film_title": "Casino",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Sharon Stone",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0112579",
+    "film_title": "The Bridges of Madison County",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0114388",
+    "film_title": "Sense and Sensibility",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emma Thompson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0113987",
+    "film_title": "Nixon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Allen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0112384",
+    "film_title": "Apollo 13",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kathleen Quinlan",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0113819",
+    "film_title": "Mighty Aphrodite",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mira Sorvino",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0113158",
+    "film_title": "Georgia",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mare Winningham",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0114388",
+    "film_title": "Sense and Sensibility",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Winslet",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0112431",
+    "film_title": "Babe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Chris Noonan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0112573",
+    "film_title": "Braveheart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mel Gibson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0112818",
+    "film_title": "Dead Man Walking",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tim Robbins",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0113627",
+    "film_title": "Leaving Las Vegas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Figgis",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0110877",
+    "film_title": "The Postman (Il Postino)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Michael Radford",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0112384",
+    "film_title": "Apollo 13",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brian Grazer",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0112431",
+    "film_title": "Babe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Miller",
+        "role": "Honoree"
+      },
+      {
+        "name": "Doug Mitchell",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bill Miller",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0112573",
+    "film_title": "Braveheart",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Mel Gibson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Alan Ladd Jr.",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bruce Davey",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0110877",
+    "film_title": "The Postman (Il Postino)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mario Cecchi Gori",
+        "role": "Honoree"
+      },
+      {
+        "name": "Vittorio Cecchi Gori",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gaetano Daniele",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0114388",
+    "film_title": "Sense and Sensibility",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lindsay Doran",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0112384",
+    "film_title": "Apollo 13",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William Broyles Jr.",
+        "role": "Writer"
+      },
+      {
+        "name": "Al Reinert",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0112431",
+    "film_title": "Babe",
+    "is_win": false,
+    "people": [
+      {
+        "name": "George Miller",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Noonan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0113627",
+    "film_title": "Leaving Las Vegas",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Figgis",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0110877",
+    "film_title": "The Postman (Il Postino)",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anna Pavignano",
+        "role": "Writer"
+      },
+      {
+        "name": "Michael Radford",
+        "role": "Writer"
+      },
+      {
+        "name": "Furio Scarpelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Giacomo Scarpelli",
+        "role": "Writer"
+      },
+      {
+        "name": "Massimo Troisi",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0114388",
+    "film_title": "Sense and Sensibility",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Emma Thompson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0112573",
+    "film_title": "Braveheart",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Randall Wallace",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0113819",
+    "film_title": "Mighty Aphrodite",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0113987",
+    "film_title": "Nixon",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Stephen J. Rivele",
+        "role": "Writer"
+      },
+      {
+        "name": "Christopher Wilkinson",
+        "role": "Writer"
+      },
+      {
+        "name": "Oliver Stone",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0114709",
+    "film_title": "Toy Story",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joss Whedon",
+        "role": "Writer"
+      },
+      {
+        "name": "Andrew Stanton",
+        "role": "Writer"
+      },
+      {
+        "name": "Joel Cohen",
+        "role": "Writer"
+      },
+      {
+        "name": "Alec Sokolow",
+        "role": "Writer"
+      },
+      {
+        "name": "John Lasseter",
+        "role": "Writer"
+      },
+      {
+        "name": "Peter Docter",
+        "role": "Writer"
+      },
+      {
+        "name": "Joe Ranft",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0114814",
+    "film_title": "The Usual Suspects",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Christopher McQuarrie",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kirk Douglas",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1996,
+    "org_name": "Academy Awards",
+    "ceremony_name": "68th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Chuck Jones",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0116695",
+    "film_title": "Jerry Maguire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Cruise",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ralph Fiennes",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0117318",
+    "film_title": "The People vs. Larry Flynt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Harrelson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0117631",
+    "film_title": "Shine",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Geoffrey Rush",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0117666",
+    "film_title": "Sling Blade",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Bob Thornton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0116695",
+    "film_title": "Jerry Maguire",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Cuba Gooding Jr.",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0116282",
+    "film_title": "Fargo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "William H. Macy",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0117631",
+    "film_title": "Shine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Armin Mueller-Stahl",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0117381",
+    "film_title": "Primal Fear",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Norton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0116410",
+    "film_title": "Ghosts of Mississippi",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James Woods",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0117589",
+    "film_title": "Secrets & Lies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brenda Blethyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0116999",
+    "film_title": "Marvin's Room",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Diane Keaton",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0116282",
+    "film_title": "Fargo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frances McDormand",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kristin Scott Thomas",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0115751",
+    "film_title": "Breaking the Waves",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emily Watson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0115988",
+    "film_title": "The Crucible",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Allen",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0117057",
+    "film_title": "The Mirror Has Two Faces",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lauren Bacall",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Juliette Binoche",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0117364",
+    "film_title": "The Portrait of a Lady",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Barbara Hershey",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0117589",
+    "film_title": "Secrets & Lies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Marianne Jean-Baptiste",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Anthony Minghella",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0116282",
+    "film_title": "Fargo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joel Coen",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0117318",
+    "film_title": "The People vs. Larry Flynt",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Milos Forman",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0117589",
+    "film_title": "Secrets & Lies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Leigh",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0117631",
+    "film_title": "Shine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Hicks",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Saul Zaentz",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0116282",
+    "film_title": "Fargo",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ethan Coen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0116695",
+    "film_title": "Jerry Maguire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Honoree"
+      },
+      {
+        "name": "Laurence Mark",
+        "role": "Honoree"
+      },
+      {
+        "name": "Richard Sakai",
+        "role": "Honoree"
+      },
+      {
+        "name": "Cameron Crowe",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0117589",
+    "film_title": "Secrets & Lies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Simon Channing-Williams",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0117631",
+    "film_title": "Shine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jane Scott",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0115988",
+    "film_title": "The Crucible",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arthur Miller",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0116209",
+    "film_title": "The English Patient",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Minghella",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0116477",
+    "film_title": "Hamlet",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kenneth Branagh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0117666",
+    "film_title": "Sling Blade",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Billy Bob Thornton",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0117951",
+    "film_title": "Trainspotting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Hodge",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0116282",
+    "film_title": "Fargo",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ethan Coen",
+        "role": "Writer"
+      },
+      {
+        "name": "Joel Coen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0116695",
+    "film_title": "Jerry Maguire",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cameron Crowe",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0116905",
+    "film_title": "Lone Star",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Sayles",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0117589",
+    "film_title": "Secrets & Lies",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mike Leigh",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0117631",
+    "film_title": "Shine",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Jan Sardi",
+        "role": "Writer"
+      },
+      {
+        "name": "Scott Hicks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1997,
+    "org_name": "Academy Awards",
+    "ceremony_name": "69th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Michael Kidd",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Matt Damon",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0118632",
+    "film_title": "The Apostle",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0120402",
+    "film_title": "Ulee's Gold",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Fonda",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0120885",
+    "film_title": "Wag the Dog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Dustin Hoffman",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0119822",
+    "film_title": "As Good as It Gets",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Jack Nicholson",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0119396",
+    "film_title": "Jackie Brown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Forster",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0118607",
+    "film_title": "Amistad",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Hopkins",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0119822",
+    "film_title": "As Good as It Gets",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Greg Kinnear",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0118749",
+    "film_title": "Boogie Nights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Burt Reynolds",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Robin Williams",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0120520",
+    "film_title": "The Wings of the Dove",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Helena Bonham Carter",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0118566",
+    "film_title": "Afterglow",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julie Christie",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0119280",
+    "film_title": "Mrs. Brown",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Judi Dench",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0119822",
+    "film_title": "As Good as It Gets",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Helen Hunt",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kate Winslet",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0119488",
+    "film_title": "L.A. Confidential",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Kim Basinger",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0119360",
+    "film_title": "In & Out",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Joan Cusack",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Minnie Driver",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0118749",
+    "film_title": "Boogie Nights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Julianne Moore",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gloria Stuart",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0119164",
+    "film_title": "The Full Monty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Cattaneo",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gus Van Sant",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0119488",
+    "film_title": "L.A. Confidential",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Curtis Hanson",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120255",
+    "film_title": "The Sweet Hereafter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Atom Egoyan",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Cameron",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0119822",
+    "film_title": "As Good as It Gets",
+    "is_win": false,
+    "people": [
+      {
+        "name": "James L. Brooks",
+        "role": "Honoree"
+      },
+      {
+        "name": "Bridget Johnson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Kristi Zea",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0119164",
+    "film_title": "The Full Monty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Uberto Pasolini",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lawrence Bender",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0119488",
+    "film_title": "L.A. Confidential",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Arnon Milchan",
+        "role": "Honoree"
+      },
+      {
+        "name": "Curtis Hanson",
+        "role": "Honoree"
+      },
+      {
+        "name": "Michael Nathanson",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Cameron",
+        "role": "Honoree"
+      },
+      {
+        "name": "Jon Landau",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0119008",
+    "film_title": "Donnie Brasco",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Attanasio",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0119488",
+    "film_title": "L.A. Confidential",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Brian Helgeland",
+        "role": "Writer"
+      },
+      {
+        "name": "Curtis Hanson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120255",
+    "film_title": "The Sweet Hereafter",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Atom Egoyan",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120885",
+    "film_title": "Wag the Dog",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hilary Henkin",
+        "role": "Writer"
+      },
+      {
+        "name": "David Mamet",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120520",
+    "film_title": "The Wings of the Dove",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Hossein Amini",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0119822",
+    "film_title": "As Good as It Gets",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Mark Andrus",
+        "role": "Writer"
+      },
+      {
+        "name": "James L. Brooks",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0118749",
+    "film_title": "Boogie Nights",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Paul Thomas Anderson",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0118954",
+    "film_title": "Deconstructing Harry",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Woody Allen",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0119164",
+    "film_title": "The Full Monty",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Simon Beaufoy",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0119217",
+    "film_title": "Good Will Hunting",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Ben Affleck",
+        "role": "Writer"
+      },
+      {
+        "name": "Matt Damon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Stanley Donen",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0118799",
+    "film_title": "Life Is Beautiful",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Roberto Benigni",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Tom Hanks",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0120684",
+    "film_title": "Gods and Monsters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ian McKellen",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0118564",
+    "film_title": "Affliction",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Nick Nolte",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0120586",
+    "film_title": "American History X",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Edward Norton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0118564",
+    "film_title": "Affliction",
+    "is_win": true,
+    "people": [
+      {
+        "name": "James Coburn",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0120633",
+    "film_title": "A Civil Action",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Duvall",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0120382",
+    "film_title": "The Truman Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ed Harris",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Geoffrey Rush",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0120324",
+    "film_title": "A Simple Plan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Billy Bob Thornton",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0127536",
+    "film_title": "Elizabeth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Cate Blanchett",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0140888",
+    "film_title": "Central Station",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fernanda Montenegro",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Gwyneth Paltrow",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0120776",
+    "film_title": "One True Thing",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Meryl Streep",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0150915",
+    "film_title": "Hilary and Jackie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Emily Watson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0119942",
+    "film_title": "Primary Colors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Kathy Bates",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0147004",
+    "film_title": "Little Voice",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Brenda Blethyn",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Judi Dench",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0150915",
+    "film_title": "Hilary and Jackie",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Rachel Griffiths",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt0120684",
+    "film_title": "Gods and Monsters",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Lynn Redgrave",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0118799",
+    "film_title": "Life Is Beautiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Roberto Benigni",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": false,
+    "people": [
+      {
+        "name": "John Madden",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120863",
+    "film_title": "The Thin Red Line",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terrence Malick",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120382",
+    "film_title": "The Truman Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Peter Weir",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0127536",
+    "film_title": "Elizabeth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alison Owen",
+        "role": "Honoree"
+      },
+      {
+        "name": "Eric Fellner",
+        "role": "Honoree"
+      },
+      {
+        "name": "Tim Bevan",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0118799",
+    "film_title": "Life Is Beautiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elda Ferri",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gianluigi Braschi",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Steven Spielberg",
+        "role": "Honoree"
+      },
+      {
+        "name": "Ian Bryce",
+        "role": "Honoree"
+      },
+      {
+        "name": "Mark Gordon",
+        "role": "Honoree"
+      },
+      {
+        "name": "Gary Levinsohn",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": true,
+    "people": [
+      {
+        "name": "David Parfitt",
+        "role": "Honoree"
+      },
+      {
+        "name": "Donna Gigliotti",
+        "role": "Honoree"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "role": "Honoree"
+      },
+      {
+        "name": "Edward Zwick",
+        "role": "Honoree"
+      },
+      {
+        "name": "Marc Norman",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120863",
+    "film_title": "The Thin Red Line",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Michael Geisler",
+        "role": "Honoree"
+      },
+      {
+        "name": "John Roberdeau",
+        "role": "Honoree"
+      },
+      {
+        "name": "Grant Hill",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120684",
+    "film_title": "Gods and Monsters",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Bill Condon",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120780",
+    "film_title": "Out of Sight",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott Frank",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0119942",
+    "film_title": "Primary Colors",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Elaine May",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120324",
+    "film_title": "A Simple Plan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Scott B. Smith",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0120863",
+    "film_title": "The Thin Red Line",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Terrence Malick",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0118798",
+    "film_title": "Bulworth",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Warren Beatty",
+        "role": "Writer"
+      },
+      {
+        "name": "Jeremy Pikser",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0118799",
+    "film_title": "Life Is Beautiful",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Vincenzo Cerami",
+        "role": "Writer"
+      },
+      {
+        "name": "Roberto Benigni",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0120815",
+    "film_title": "Saving Private Ryan",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Robert Rodat",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0138097",
+    "film_title": "Shakespeare in Love",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Marc Norman",
+        "role": "Writer"
+      },
+      {
+        "name": "Tom Stoppard",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt0120382",
+    "film_title": "The Truman Show",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Andrew Niccol",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71th Academy Awards",
+    "category_name": "Lifetime Achievement",
+    "imdb_id": null,
+    "film_title": "Lifetime Achievement",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Elia Kazan",
+        "role": "Honoree"
+      }
+    ]
+  }
+]

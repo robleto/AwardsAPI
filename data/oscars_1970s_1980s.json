@@ -1,0 +1,586 @@
+[
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      { "name": "Barry Levinson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      { "name": "Barry Levinson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1989,
+    "org_name": "Academy Awards",
+    "ceremony_name": "61st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0095953",
+    "film_title": "Rain Man",
+    "is_win": true,
+    "people": [
+      { "name": "Dustin Hoffman", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0093058",
+    "film_title": "The Last Emperor",
+    "is_win": true,
+    "people": [
+      { "name": "Bernardo Bertolucci", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1988,
+    "org_name": "Academy Awards",
+    "ceremony_name": "60th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0093058",
+    "film_title": "The Last Emperor",
+    "is_win": true,
+    "people": [
+      { "name": "Bernardo Bertolucci", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      { "name": "Oliver Stone", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1987,
+    "org_name": "Academy Awards",
+    "ceremony_name": "59th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0091763",
+    "film_title": "Platoon",
+    "is_win": true,
+    "people": [
+      { "name": "Oliver Stone", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1986,
+    "org_name": "Academy Awards",
+    "ceremony_name": "58th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0089881",
+    "film_title": "Out of Africa",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      { "name": "Miloš Forman", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      { "name": "Miloš Forman", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1985,
+    "org_name": "Academy Awards",
+    "ceremony_name": "57th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0086879",
+    "film_title": "Amadeus",
+    "is_win": true,
+    "people": [
+      { "name": "F. Murray Abraham", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1984,
+    "org_name": "Academy Awards",
+    "ceremony_name": "56th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0086190",
+    "film_title": "Terms of Endearment",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0083866",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      { "name": "Richard Attenborough", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0083866",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      { "name": "Richard Attenborough", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0083866",
+    "film_title": "Gandhi",
+    "is_win": true,
+    "people": [
+      { "name": "Ben Kingsley", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1983,
+    "org_name": "Academy Awards",
+    "ceremony_name": "55th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0083658",
+    "film_title": "E.T. the Extra-Terrestrial",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082971",
+    "film_title": "Chariots of Fire",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1982,
+    "org_name": "Academy Awards",
+    "ceremony_name": "54th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0082096",
+    "film_title": "Raiders of the Lost Ark",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080678",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Redford", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0080678",
+    "film_title": "Ordinary People",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Redford", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0080684",
+    "film_title": "Raging Bull",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1981,
+    "org_name": "Academy Awards",
+    "ceremony_name": "53rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0080684",
+    "film_title": "Raging Bull",
+    "is_win": true,
+    "people": [
+      { "name": "Robert De Niro", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0079470",
+    "film_title": "Kramer vs. Kramer",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1980,
+    "org_name": "Academy Awards",
+    "ceremony_name": "52nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0078788",
+    "film_title": "Apocalypse Now",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": true,
+    "people": [
+      { "name": "Michael Cimino", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1979,
+    "org_name": "Academy Awards",
+    "ceremony_name": "51st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0077416",
+    "film_title": "The Deer Hunter",
+    "is_win": true,
+    "people": [
+      { "name": "Michael Cimino", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0075314",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      { "name": "Woody Allen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0075314",
+    "film_title": "Annie Hall",
+    "is_win": true,
+    "people": [
+      { "name": "Woody Allen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1978,
+    "org_name": "Academy Awards",
+    "ceremony_name": "50th Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0076759",
+    "film_title": "Star Wars",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0074958",
+    "film_title": "Rocky",
+    "is_win": true,
+    "people": [
+      { "name": "John G. Avildsen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0074958",
+    "film_title": "Rocky",
+    "is_win": true,
+    "people": [
+      { "name": "John G. Avildsen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0074958",
+    "film_title": "Rocky",
+    "is_win": false,
+    "people": [
+      { "name": "Sylvester Stallone", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0075148",
+    "film_title": "Taxi Driver",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1977,
+    "org_name": "Academy Awards",
+    "ceremony_name": "49th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073195",
+    "film_title": "Network",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Finch", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew Over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      { "name": "Miloš Forman", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew Over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      { "name": "Miloš Forman", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew Over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      { "name": "Jack Nicholson", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0073486",
+    "film_title": "One Flew Over the Cuckoo's Nest",
+    "is_win": true,
+    "people": [
+      { "name": "Louise Fletcher", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 1976,
+    "org_name": "Academy Awards",
+    "ceremony_name": "48th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0073629",
+    "film_title": "Jaws",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0071315",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      { "name": "Art Carney", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0070047",
+    "film_title": "The Sting",
+    "is_win": true,
+    "people": [
+      { "name": "George Roy Hill", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0070047",
+    "film_title": "The Sting",
+    "is_win": true,
+    "people": [
+      { "name": "George Roy Hill", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1974,
+    "org_name": "Academy Awards",
+    "ceremony_name": "46th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0070510",
+    "film_title": "The Exorcist",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0067328",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      { "name": "William Friedkin", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0067328",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      { "name": "William Friedkin", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0067328",
+    "film_title": "The French Connection",
+    "is_win": true,
+    "people": [
+      { "name": "Gene Hackman", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1972,
+    "org_name": "Academy Awards",
+    "ceremony_name": "44th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066921",
+    "film_title": "A Clockwork Orange",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      { "name": "Franklin J. Schaffner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      { "name": "Franklin J. Schaffner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1971,
+    "org_name": "Academy Awards",
+    "ceremony_name": "43rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0066206",
+    "film_title": "Patton",
+    "is_win": true,
+    "people": [
+      { "name": "George C. Scott", "role": "Actor" }
+    ]
+  }
+]

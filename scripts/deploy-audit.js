@@ -21,10 +21,21 @@ const REQUIRED_ENV = [
   'DATABASE_URL',
   'STRIPE_SECRET_KEY',
   'STRIPE_PUBLISHABLE_KEY',
-  'STRIPE_PRICE_PROFESSIONAL_MONTHLY',
-  'STRIPE_PRICE_PROFESSIONAL_ANNUAL',
-  'STRIPE_PRICE_ENTERPRISE_MONTHLY',
-  'STRIPE_PRICE_ENTERPRISE_ANNUAL',
+  // Games
+  'STRIPE_PRICE_GAMES_STARTER_MONTHLY',
+  'STRIPE_PRICE_GAMES_STARTER_ANNUAL',
+  'STRIPE_PRICE_GAMES_PRO_MONTHLY',
+  'STRIPE_PRICE_GAMES_PRO_ANNUAL',
+  // Film
+  'STRIPE_PRICE_FILM_STARTER_MONTHLY',
+  'STRIPE_PRICE_FILM_STARTER_ANNUAL',
+  'STRIPE_PRICE_FILM_PRO_MONTHLY',
+  'STRIPE_PRICE_FILM_PRO_ANNUAL',
+  // Bundle
+  'STRIPE_PRICE_BUNDLE_STARTER_MONTHLY',
+  'STRIPE_PRICE_BUNDLE_STARTER_ANNUAL',
+  'STRIPE_PRICE_BUNDLE_PRO_MONTHLY',
+  'STRIPE_PRICE_BUNDLE_PRO_ANNUAL',
   'STRIPE_WEBHOOK_SECRET'
 ];
 
@@ -43,8 +54,23 @@ const REQUIRED_ENV = [
   if (process.env.STRIPE_PUBLISHABLE_KEY?.startsWith('pk_test_') || process.env.STRIPE_PUBLISHABLE_KEY?.startsWith('pk_live_')) pass('Stripe publishable key format valid'); else fail('Stripe publishable key format invalid');
 
   // Price id sanity (simple prefix check)
-  ['STRIPE_PRICE_PROFESSIONAL_MONTHLY','STRIPE_PRICE_PROFESSIONAL_ANNUAL','STRIPE_PRICE_ENTERPRISE_MONTHLY','STRIPE_PRICE_ENTERPRISE_ANNUAL'].forEach(k=>{
+  const PRICE_KEYS = [
+    // Games
+    'STRIPE_PRICE_GAMES_STARTER_MONTHLY','STRIPE_PRICE_GAMES_STARTER_ANNUAL',
+    'STRIPE_PRICE_GAMES_PRO_MONTHLY','STRIPE_PRICE_GAMES_PRO_ANNUAL',
+    // Film
+    'STRIPE_PRICE_FILM_STARTER_MONTHLY','STRIPE_PRICE_FILM_STARTER_ANNUAL',
+    'STRIPE_PRICE_FILM_PRO_MONTHLY','STRIPE_PRICE_FILM_PRO_ANNUAL',
+    // Bundle
+    'STRIPE_PRICE_BUNDLE_STARTER_MONTHLY','STRIPE_PRICE_BUNDLE_STARTER_ANNUAL',
+    'STRIPE_PRICE_BUNDLE_PRO_MONTHLY','STRIPE_PRICE_BUNDLE_PRO_ANNUAL'
+  ];
+  PRICE_KEYS.forEach(k=>{
     if (process.env[k]?.startsWith('price_')) pass(`${k} looks like a Stripe price id`); else fail(`${k} not a valid price id`);
+  });
+  // Deprecated (optional): warn if old envs still present
+  ['STRIPE_PRICE_PROFESSIONAL_MONTHLY','STRIPE_PRICE_PROFESSIONAL_ANNUAL','STRIPE_PRICE_ENTERPRISE_MONTHLY','STRIPE_PRICE_ENTERPRISE_ANNUAL'].forEach(k=>{
+    if (process.env[k]) pass(`${k} present (deprecated)`);
   });
 
   // Webhook secret format
@@ -77,7 +103,7 @@ const REQUIRED_ENV = [
 
   // Functions existence
   const fnDir = path.join(__dirname,'..','netlify','functions');
-  const requiredFns = ['api.js','health.js','create-subscription.js','webhook-stripe.js','generate-key.js'];
+  const requiredFns = ['api.js','health.js','create-subscription-new.js','webhook-stripe.js','generate-key.js'];
   requiredFns.forEach(f=>{
     if (fs.existsSync(path.join(fnDir,f))) pass(`Function ${f} present`); else fail(`Function ${f} missing`);
   });

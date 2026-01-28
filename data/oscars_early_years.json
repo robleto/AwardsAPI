@@ -1,0 +1,214 @@
+[
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0028212",
+    "film_title": "The Great Ziegfeld",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1937,
+    "org_name": "Academy Awards",
+    "ceremony_name": "9th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0027996",
+    "film_title": "Mr. Deeds Goes to Town",
+    "is_win": true,
+    "people": [
+      { "name": "Frank Capra", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0026778",
+    "film_title": "Mutiny on the Bounty",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1936,
+    "org_name": "Academy Awards",
+    "ceremony_name": "8th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0026377",
+    "film_title": "The Informer",
+    "is_win": true,
+    "people": [
+      { "name": "John Ford", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      { "name": "Frank Capra", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      { "name": "Frank Capra", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      { "name": "Clark Gable", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1935,
+    "org_name": "Academy Awards",
+    "ceremony_name": "7th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0025316",
+    "film_title": "It Happened One Night",
+    "is_win": true,
+    "people": [
+      { "name": "Claudette Colbert", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 1934,
+    "org_name": "Academy Awards",
+    "ceremony_name": "6th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0023969",
+    "film_title": "Cavalcade",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0023245",
+    "film_title": "Grand Hotel",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1933,
+    "org_name": "Academy Awards",
+    "ceremony_name": "5th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0023079",
+    "film_title": "The Champ",
+    "is_win": true,
+    "people": [
+      { "name": "King Vidor", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1932,
+    "org_name": "Academy Awards",
+    "ceremony_name": "4th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0022100",
+    "film_title": "Cimarron",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0020629",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1931,
+    "org_name": "Academy Awards",
+    "ceremony_name": "3rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0020629",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": [
+      { "name": "Lewis Milestone", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0019254",
+    "film_title": "The Broadway Melody",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1930,
+    "org_name": "Academy Awards",
+    "ceremony_name": "2nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019254",
+    "film_title": "The Broadway Melody",
+    "is_win": true,
+    "people": [
+      { "name": "Harry Beaumont", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Outstanding Picture",
+    "imdb_id": "tt0018455",
+    "film_title": "Wings",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Unique and Artistic Picture",
+    "imdb_id": "tt0018901",
+    "film_title": "Sunrise: A Song of Two Humans",
+    "is_win": true,
+    "people": [
+      { "name": "F.W. Murnau", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director, Dramatic Picture",
+    "imdb_id": "tt0018901",
+    "film_title": "Sunrise: A Song of Two Humans",
+    "is_win": true,
+    "people": [
+      { "name": "F.W. Murnau", "role": "Director" }
+    ]
+  }
+]

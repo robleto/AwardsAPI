@@ -1,0 +1,88 @@
+[
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Outstanding Motion Picture",
+    "imdb_id": "tt0034583",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0034583",
+    "film_title": "Mrs. Miniver",
+    "is_win": true,
+    "people": [
+      { "name": "William Wyler", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1943,
+    "org_name": "Academy Awards",
+    "ceremony_name": "15th Academy Awards",
+    "category_name": "Outstanding Motion Picture",
+    "imdb_id": "tt0034530",
+    "film_title": "Casablanca",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Outstanding Motion Picture",
+    "imdb_id": "tt0033467",
+    "film_title": "How Green Was My Valley",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0033467",
+    "film_title": "How Green Was My Valley",
+    "is_win": true,
+    "people": [
+      { "name": "John Ford", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1942,
+    "org_name": "Academy Awards",
+    "ceremony_name": "14th Academy Awards",
+    "category_name": "Outstanding Motion Picture",
+    "imdb_id": "tt0033870",
+    "film_title": "Citizen Kane",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Outstanding Production",
+    "imdb_id": "tt0028333",
+    "film_title": "The Great Ziegfeld",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1938,
+    "org_name": "Academy Awards",
+    "ceremony_name": "10th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0028683",
+    "film_title": "The Awful Truth",
+    "is_win": true,
+    "people": [
+      { "name": "Leo McCarey", "role": "Director" }
+    ]
+  }
+]

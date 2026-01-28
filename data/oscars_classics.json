@@ -1,0 +1,510 @@
+[
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0169547",
+    "film_title": "American Beauty",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Spacey", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0133093",
+    "film_title": "The Matrix",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1999,
+    "org_name": "Academy Awards",
+    "ceremony_name": "71st Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0133093",
+    "film_title": "The Matrix",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      { "name": "James Cameron", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0120338",
+    "film_title": "Titanic",
+    "is_win": true,
+    "people": [
+      { "name": "James Cameron", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0119217",
+    "film_title": "As Good as It Gets",
+    "is_win": true,
+    "people": [
+      { "name": "Jack Nicholson", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1998,
+    "org_name": "Academy Awards",
+    "ceremony_name": "70th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0119217",
+    "film_title": "As Good as It Gets",
+    "is_win": true,
+    "people": [
+      { "name": "Helen Hunt", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Zemeckis", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0109830",
+    "film_title": "Forrest Gump",
+    "is_win": true,
+    "people": [
+      { "name": "Tom Hanks", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0110912",
+    "film_title": "Pulp Fiction",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1995,
+    "org_name": "Academy Awards",
+    "ceremony_name": "67th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0111161",
+    "film_title": "The Shawshank Redemption",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107290",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0107290",
+    "film_title": "Schindler's List",
+    "is_win": true,
+    "people": [
+      { "name": "Steven Spielberg", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0107818",
+    "film_title": "Philadelphia",
+    "is_win": true,
+    "people": [
+      { "name": "Tom Hanks", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1994,
+    "org_name": "Academy Awards",
+    "ceremony_name": "66th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0107207",
+    "film_title": "The Fugitive",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances with Wolves",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Costner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0099348",
+    "film_title": "Dances with Wolves",
+    "is_win": true,
+    "people": [
+      { "name": "Kevin Costner", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0099685",
+    "film_title": "Goodfellas",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0099685",
+    "film_title": "Goodfellas",
+    "is_win": true,
+    "people": [
+      { "name": "Joe Pesci", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1991,
+    "org_name": "Academy Awards",
+    "ceremony_name": "63rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0099685",
+    "film_title": "Goodfellas",
+    "is_win": false,
+    "people": [
+      { "name": "Robert De Niro", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": true,
+    "people": [
+      { "name": "Francis Ford Coppola", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": false,
+    "people": [
+      { "name": "Francis Ford Coppola", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1973,
+    "org_name": "Academy Awards",
+    "ceremony_name": "45th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0068646",
+    "film_title": "The Godfather",
+    "is_win": true,
+    "people": [
+      { "name": "Marlon Brando", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      { "name": "Francis Ford Coppola", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      { "name": "Francis Ford Coppola", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 1975,
+    "org_name": "Academy Awards",
+    "ceremony_name": "47th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0071562",
+    "film_title": "The Godfather Part II",
+    "is_win": true,
+    "people": [
+      { "name": "Robert De Niro", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Jackson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": [
+      { "name": "Peter Jackson", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2004,
+    "org_name": "Academy Awards",
+    "ceremony_name": "76th Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt0167260",
+    "film_title": "The Lord of the Rings: The Return of the King",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1010048",
+    "film_title": "Slumdog Millionaire",
+    "is_win": true,
+    "people": [
+      { "name": "Danny Boyle", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1010048",
+    "film_title": "Slumdog Millionaire",
+    "is_win": true,
+    "people": [
+      { "name": "Danny Boyle", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0468569",
+    "film_title": "The Dark Knight",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2009,
+    "org_name": "Academy Awards",
+    "ceremony_name": "81st Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0468569",
+    "film_title": "The Dark Knight",
+    "is_win": true,
+    "people": [
+      { "name": "Heath Ledger", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0477348",
+    "film_title": "No Country for Old Men",
+    "is_win": true,
+    "people": [
+      { "name": "Joel Coen", "role": "Director" },
+      { "name": "Ethan Coen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0477348",
+    "film_title": "No Country for Old Men",
+    "is_win": true,
+    "people": [
+      { "name": "Joel Coen", "role": "Director" },
+      { "name": "Ethan Coen", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt0477348",
+    "film_title": "No Country for Old Men",
+    "is_win": true,
+    "people": [
+      { "name": "Javier Bardem", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0469494",
+    "film_title": "There Will Be Blood",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2008,
+    "org_name": "Academy Awards",
+    "ceremony_name": "80th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0469494",
+    "film_title": "There Will Be Blood",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Day-Lewis", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0375679",
+    "film_title": "Crash",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0388795",
+    "film_title": "Brokeback Mountain",
+    "is_win": true,
+    "people": [
+      { "name": "Ang Lee", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2006,
+    "org_name": "Academy Awards",
+    "ceremony_name": "78th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0368226",
+    "film_title": "Capote",
+    "is_win": true,
+    "people": [
+      { "name": "Philip Seymour Hoffman", "role": "Actor" }
+    ]
+  }
+]

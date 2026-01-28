@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Awards API - Academy Awards, Golden Globes & More</title>
+    <meta name="description" content="Film Awards API: Access comprehensive film awards data including Oscars (Academy Awards), Golden Globes, BAFTAs, and more. Fast JSON endpoints, free tier available." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/favicon-32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#1D4ED8" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Film Awards API" />
+    <meta property="og:description" content="Access film awards data: Oscars, Golden Globes, BAFTAs, and more." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://boardgameawardsapi.example.com/film-awards" />
+    <meta property="og:image" content="https://boardgameawardsapi.example.com/og-image.png" />
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563eb',
+                        secondary: '#64748b',
+                        accent: '#f59e0b'
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Prata&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <style>
+        :root { --bg:#ffffff; --bg-alt:#f8fafc; --bg-soft:#f1f5f9; --text:#1f2937; --text-muted:#64748b; --border:#e2e8f0; --primary:#1D4ED8; --primary-hover:#2563EB; --accent:#f59e0b; --panel-shadow:0 4px 10px -2px rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.08); --header-height:72px; --scroll-offset:88px; }
+        .dark { --bg:#0f172a; --bg-alt:#1e293b; --bg-soft:#1e293b; --text:#f1f5f9; --text-muted:#94a3b8; --border:#334155; --primary:#3b82f6; --primary-hover:#60a5fa; --panel-shadow:0 4px 16px -2px rgba(0,0,0,.5),0 2px 8px -1px rgba(0,0,0,.4); }
+        body { font-family:'Lato', sans-serif; background:var(--bg); color:var(--text); transition:background .4s, color .4s; }
+        h1,h2,h3,h4,h5,h6 { font-family:'Prata', serif; font-weight:400; }
+        .heading-primary { color:var(--text); }
+        .heading-secondary { color:#1f2937; }
+        .dark .heading-secondary { color:var(--text-muted); }
+        .btn-conversion { border-radius:12px; padding:14px 24px; font-weight:500; transition:all .25s ease; display:inline-flex; align-items:center; gap:8px; position:relative; }
+        .btn-conversion:hover { transform:translateY(-1px); box-shadow:0 10px 16px -4px rgba(0,0,0,.14); }
+        .btn-primary { background:var(--primary); color:#fff; }
+        .btn-primary:hover { background:var(--primary-hover); }
+        .btn-secondary { background:var(--bg-alt); color:var(--text); border:1px solid var(--border); }
+        .btn-secondary:hover { background:var(--bg-soft); }
+        .brand-name { font-family:'Prata', serif; font-weight:400; letter-spacing:.5px; }
+        section[id] { scroll-margin-top:var(--scroll-offset); }
+        html { scroll-behavior:smooth; }
+        .nav-link-active { color:var(--primary)!important; position:relative; }
+        .nav-link-active::after { content:""; position:absolute; left:0; bottom:-6px; height:2px; width:100%; background:var(--primary); border-radius:2px; }
+        .dark .bg-white { background:var(--bg-alt)!important; }
+        .dark .bg-gray-50 { background:var(--bg-alt)!important; }
+        .dark .text-gray-900 { color:var(--text)!important; }
+        .dark .text-secondary { color:var(--text-muted)!important; }
+        .film-accent { background: linear-gradient(135deg, #d4af37 0%, #f4e5a1 100%); }
+        .oscar-gold { color: #d4af37; }
+    </style>
+</head>
+<body class="bg-[var(--bg)] text-gray-900">
+    <div data-include="header"></div>
+
+    <!-- Hero Section -->
+    <section class="hero relative bg-[var(--bg)] dark:bg-[var(--bg)] py-20 lg:py-32">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-4xl mx-auto">
+                <div class="inline-flex items-center gap-2 mb-6">
+                    <span class="text-5xl">🎬</span>
+                    <span class="text-5xl oscar-gold">🏆</span>
+                </div>
+                <h1 class="text-4xl sm:text-5xl lg:text-6xl font-normal heading-primary mb-6">
+                    Film Awards API
+                </h1>
+                <p class="text-xl text-secondary mb-8 leading-relaxed">
+                    Access comprehensive film awards data including Academy Awards (Oscars), Golden Globes, BAFTAs, 
+                    Screen Actors Guild Awards, and more. Query by IMDb ID, film title, person, or ceremony.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="/apikey" class="btn-conversion btn-primary text-lg">
+                        Get Free API Key
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                        </svg>
+                    </a>
+                    <a href="#docs" class="btn-conversion btn-secondary text-lg">
+                        View Documentation
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Code Example -->
+        <div class="max-w-4xl mx-auto mt-16 px-4 sm:px-6 lg:px-8">
+            <div class="bg-gray-900 rounded-xl p-6 shadow-2xl">
+                <div class="flex items-center mb-4">
+                    <div class="flex space-x-2">
+                        <div class="w-3 h-3 bg-red-500 rounded-full"></div>
+                        <div class="w-3 h-3 bg-yellow-500 rounded-full"></div>
+                        <div class="w-3 h-3 bg-green-500 rounded-full"></div>
+                    </div>
+                    <span class="ml-4 text-gray-400 text-sm">Terminal - Film Awards API</span>
+                </div>
+                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://gameawards.netlify.app/film-awards?imdb_id=tt0133093&apikey=your_key"
+
+{
+  "film": {
+    "imdb_id": "tt0133093",
+    "title": "The Matrix",
+    "year": 1999
+  },
+  "awards": [
+    {
+      "ceremony": "Academy Awards",
+      "year": 2000,
+      "category": "Best Visual Effects",
+      "result": "Winner",
+      "person": "John Gaeta"
+    },
+    {
+      "ceremony": "Academy Awards",
+      "year": 2000,
+      "category": "Best Film Editing",
+      "result": "Winner",
+      "person": "Zach Staenberg"
+    }
+  ],
+  "total_wins": 4,
+  "total_nominations": 4,
+  "badge_summary": "🏆 4× Oscar Winner"
+}</code></pre>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-20 bg-[var(--bg)] dark:bg-[var(--bg)]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl lg:text-4xl font-normal heading-primary mb-4">
+                    Comprehensive Film Awards Data
+                </h2>
+                <p class="text-xl text-secondary max-w-2xl mx-auto">
+                    Access the world's most prestigious film awards through a simple, powerful API.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 film-accent rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Major Ceremonies</h3>
+                    <p class="text-secondary">Academy Awards (Oscars), Golden Globes, BAFTAs, SAG Awards, and more prestigious ceremonies.</p>
+                </div>
+                
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Query by IMDb ID</h3>
+                    <p class="text-secondary">Integrate seamlessly with IMDb data. Query using IMDb IDs for instant, accurate results.</p>
+                </div>
+                
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">People & Credits</h3>
+                    <p class="text-secondary">Search by actor, director, or crew member. Track careers and achievements across ceremonies.</p>
+                </div>
+                
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Award Badges</h3>
+                    <p class="text-secondary">Get formatted badge summaries like "🏆 7× Oscar Winner" for easy display on your site.</p>
+                </div>
+                
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Lightning Fast</h3>
+                    <p class="text-secondary">Sub-100ms response times with edge caching and optimized PostgreSQL queries.</p>
+                </div>
+                
+                <div class="feature-card text-center p-6">
+                    <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Historical Data</h3>
+                    <p class="text-secondary">Decades of film awards data. Track trends, analyze patterns, build visualizations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- API Documentation Section -->
+    <section id="docs" class="py-20 bg-[var(--bg-alt)] dark:bg-[var(--bg-alt)]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl lg:text-4xl font-normal text-gray-900 mb-4">
+                    Simple REST API
+                </h2>
+                <p class="text-xl text-secondary max-w-2xl mx-auto">
+                    Get up and running in minutes with our intuitive endpoint structure.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+                <div>
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Available Parameters</h3>
+                    <div class="space-y-4">
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">imdb_id</code>
+                            <span class="ml-2 text-gray-700">IMDb ID (e.g. tt0133093)</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">title</code>
+                            <span class="ml-2 text-gray-700">Film title to search for</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">year</code>
+                            <span class="ml-2 text-gray-700">Year of film release</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">ceremony</code>
+                            <span class="ml-2 text-gray-700">Award ceremony name</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">category</code>
+                            <span class="ml-2 text-gray-700">Award category</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">person</code>
+                            <span class="ml-2 text-gray-700">Person name (actor, director, etc.)</span>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg border border-gray-200">
+                            <code class="text-primary font-mono">badges_only</code>
+                            <span class="ml-2 text-gray-700">Get badge summary (true/false)</span>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-8">
+                        <a href="/docs" class="inline-flex items-center text-primary hover:text-blue-700 font-medium">
+                            View Full Documentation
+                            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="space-y-6">
+                    <h3 class="text-2xl font-semibold text-gray-900 mb-6">Example Requests</h3>
+                    
+                    <div class="bg-white p-6 rounded-lg border border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-2">Get awards by IMDb ID:</h4>
+                        <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
+                            /film-awards?imdb_id=tt0133093&apikey=yourkey
+                        </div>
+                    </div>
+                    
+                    <div class="bg-white p-6 rounded-lg border border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-2">Search by title:</h4>
+                        <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
+                            /film-awards?title=Oppenheimer&year=2023&apikey=yourkey
+                        </div>
+                    </div>
+                    
+                    <div class="bg-white p-6 rounded-lg border border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-2">Get award badges only:</h4>
+                        <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
+                            /film-awards?imdb_id=tt0133093&badges_only=true&apikey=yourkey
+                        </div>
+                    </div>
+                    
+                    <div class="bg-white p-6 rounded-lg border border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-2">Filter by ceremony:</h4>
+                        <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
+                            /film-awards?ceremony=Academy%20Awards&year=2024&apikey=yourkey
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing CTA Section -->
+    <section id="pricing" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl lg:text-4xl font-normal heading-primary mb-4">
+                    Flexible Pricing for Film Awards
+                </h2>
+                <p class="text-xl text-secondary max-w-2xl mx-auto">
+                    Start free, scale as you grow. Or bundle with Board Games API for maximum value.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                <!-- Film Free -->
+                <div class="pricing-card bg-white rounded-xl shadow-lg p-8 border border-gray-200">
+                    <div class="text-center mb-8">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-2">Film Free</h3>
+                        <div class="text-4xl font-bold text-gray-900 mb-2">$0</div>
+                        <p class="text-secondary">Perfect for testing</p>
+                    </div>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">1,000 requests/day</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Film awards only</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Community support</span>
+                        </li>
+                    </ul>
+                    <a href="/apikey" class="w-full block text-center bg-gray-200 text-gray-700 py-3 px-6 rounded-lg font-medium hover:bg-gray-300 transition-colors">
+                        Get Free API Key
+                    </a>
+                </div>
+
+                <!-- Film Pro -->
+                <div class="pricing-card bg-white rounded-xl shadow-xl p-8 border-2 border-primary relative">
+                    <div class="absolute -top-4 left-1/2 transform -translate-x-1/2">
+                        <span class="bg-primary text-white px-4 py-1 rounded-full text-sm font-medium">Popular</span>
+                    </div>
+                    <div class="text-center mb-8">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-2">Film Pro</h3>
+                        <div class="text-4xl font-bold text-gray-900 mb-2">$29<span class="text-lg text-secondary">/mo</span></div>
+                        <p class="text-secondary">For production apps</p>
+                    </div>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">10,000 requests/day</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Film awards only</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Priority support</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Commercial use</span>
+                        </li>
+                    </ul>
+                    <a href="/pricing" class="w-full btn-conversion btn-primary justify-center">
+                        Get Started
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                        </svg>
+                    </a>
+                </div>
+
+                <!-- Bundle Pro -->
+                <div class="pricing-card bg-white rounded-xl shadow-lg p-8 border border-gray-200">
+                    <div class="text-center mb-8">
+                        <h3 class="text-xl font-semibold text-gray-900 mb-2">Bundle Pro</h3>
+                        <div class="text-4xl font-bold text-gray-900 mb-2">$49<span class="text-lg text-secondary">/mo</span></div>
+                        <p class="text-secondary">Games + Film</p>
+                    </div>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">10,000 requests/day</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700"><strong>Both</strong> Games & Film</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Save $9/month</span>
+                        </li>
+                        <li class="flex items-center">
+                            <svg class="w-5 h-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+                            </svg>
+                            <span class="text-gray-700">Priority support</span>
+                        </li>
+                    </ul>
+                    <a href="/pricing" class="w-full block text-center bg-gray-200 text-gray-700 py-3 px-6 rounded-lg font-medium hover:bg-gray-300 transition-colors">
+                        View Pricing
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-20 bg-gradient-to-br from-blue-600 to-primary text-white">
+        <div class="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl lg:text-4xl font-normal mb-6">
+                Start Building with Film Awards API
+            </h2>
+            <p class="text-xl mb-8 text-blue-100">
+                Get your free API key now. No credit card required.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="/apikey" class="btn-conversion bg-white text-primary hover:bg-gray-100">
+                    Get Free API Key
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                </a>
+                <a href="/docs" class="btn-conversion border border-white text-white hover:bg-white hover:text-primary">
+                    Read Documentation
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <div data-include="footer"></div>
+
+    <script src="/js/shared.js"></script>
+</body>
+</html>

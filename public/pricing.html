@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game Awards API - Pricing</title>
+    <title>Game & Film Awards API - Pricing</title>
     <script src="https://js.stripe.com/v3/"></script>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }
@@ -30,7 +30,7 @@
 <body>
     <div class="pricing-container">
         <h1 style="text-align: center; font-size: 48px; margin-bottom: 20px;">Choose Your Plan</h1>
-        <p style="text-align: center; font-size: 20px; color: #666; max-width: 600px; margin: 0 auto;">Access comprehensive board game awards data with our flexible pricing plans. Perfect for developers, researchers, and gaming enthusiasts.</p>
+        <p style="text-align: center; font-size: 20px; color: #666; max-width: 800px; margin: 0 auto;">Access comprehensive awards data across Games and Film (Oscars). Flexible plans for hobby projects to production apps. Bundle both and save.</p>
         
         <div class="api-demo">
             <h3>Try the API</h3>
@@ -45,6 +45,7 @@ GET /api?s=spiel%20des%20jahres&apikey=YOUR_KEY
             </div>
         </div>
 
+        <h2 style="margin-top:40px;">Games API</h2>
         <div class="pricing-grid">
             <!-- Free Plan -->
             <div class="pricing-card">
@@ -60,38 +61,98 @@ GET /api?s=spiel%20des%20jahres&apikey=YOUR_KEY
                 <button class="cta-button free" onclick="selectPlan('free')">Get Started Free</button>
             </div>
 
-            <!-- Professional Plan -->
+            <!-- Games Starter -->
             <div class="pricing-card popular">
                 <div class="popular-badge">Most Popular</div>
-                <div class="plan-name">Professional</div>
+                <div class="plan-name">Games Starter</div>
                 <div class="plan-price">$5<span class="period">/month</span></div>
                 <ul class="plan-features">
-                    <li><span class="feature-check">✓</span> 100,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> 10,000 requests/month</li>
                     <li><span class="feature-check">✓</span> All board game awards data</li>
-                    <li><span class="feature-check">✓</span> 3,333 requests/day</li>
+                    <li><span class="feature-check">✓</span> 1,000 requests/day</li>
                     <li><span class="feature-check">✓</span> Email support</li>
                     <li><span class="feature-check">✓</span> Commercial use allowed</li>
                     <li><span class="feature-check">✓</span> JSON and XML formats</li>
                 </ul>
-                <button class="cta-button" onclick="selectPlan('professional_monthly')">Start Professional</button>
+                <button class="cta-button" onclick="selectPlan('games_starter_monthly')">Start Games Starter</button>
                 <p style="margin-top: 10px; color: #666;">Or $50/year (save $10)</p>
             </div>
 
-            <!-- Enterprise Plan -->
+            <!-- Games Pro -->
             <div class="pricing-card">
-                <div class="plan-name">Enterprise</div>
-                <div class="plan-price">$15<span class="period">/month</span></div>
+                <div class="plan-name">Games Pro</div>
+                <div class="plan-price">$25<span class="period">/month</span></div>
                 <ul class="plan-features">
-                    <li><span class="feature-check">✓</span> 1,000,000 requests/month</li>
-                    <li><span class="feature-check">✓</span> All awards data + early access</li>
-                    <li><span class="feature-check">✓</span> 33,333 requests/day</li>
+                    <li><span class="feature-check">✓</span> 250,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> All board game awards data</li>
+                    <li><span class="feature-check">✓</span> 25,000 requests/day</li>
                     <li><span class="feature-check">✓</span> Priority support</li>
                     <li><span class="feature-check">✓</span> Custom integrations</li>
-                    <li><span class="feature-check">✓</span> Bulk data exports</li>
-                    <li><span class="feature-check">✓</span> SLA guarantee</li>
+                    <li><span class="feature-check">✓</span> SLA guidance</li>
                 </ul>
-                <button class="cta-button" onclick="selectPlan('enterprise_monthly')">Go Enterprise</button>
-                <p style="margin-top: 10px; color: #666;">Or $150/year (save $30)</p>
+                <button class="cta-button" onclick="selectPlan('games_pro_monthly')">Upgrade to Games Pro</button>
+                <p style="margin-top: 10px; color: #666;">Or $250/year (save $50)</p>
+            </div>
+        </div>
+
+        <h2 style="margin-top:40px;">Film API (Oscars)</h2>
+        <div class="pricing-grid">
+            <div class="pricing-card popular">
+                <div class="popular-badge">Most Popular</div>
+                <div class="plan-name">Film Starter</div>
+                <div class="plan-price">$29<span class="period">/month</span></div>
+                <ul class="plan-features">
+                    <li><span class="feature-check">✓</span> 50,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> All 10 core Oscar categories (full nominees)</li>
+                    <li><span class="feature-check">✓</span> 5,000 requests/day</li>
+                    <li><span class="feature-check">✓</span> IMDb-linked film IDs</li>
+                    <li><span class="feature-check">✓</span> Email support</li>
+                </ul>
+                <button class="cta-button" onclick="selectPlan('film_starter_monthly')">Start Film Starter</button>
+                <p style="margin-top: 10px; color: #666;">Or $290/year (save $58)</p>
+            </div>
+
+            <div class="pricing-card">
+                <div class="plan-name">Film Pro</div>
+                <div class="plan-price">$49<span class="period">/month</span></div>
+                <ul class="plan-features">
+                    <li><span class="feature-check">✓</span> 500,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> All 10 core Oscar categories (full nominees)</li>
+                    <li><span class="feature-check">✓</span> 50,000 requests/day</li>
+                    <li><span class="feature-check">✓</span> Priority support</li>
+                    <li><span class="feature-check">✓</span> SLA guidance</li>
+                </ul>
+                <button class="cta-button" onclick="selectPlan('film_pro_monthly')">Upgrade to Film Pro</button>
+                <p style="margin-top: 10px; color: #666;">Or $490/year (save $98)</p>
+            </div>
+        </div>
+
+        <h2 style="margin-top:40px;">Bundle (Games + Film)</h2>
+        <div class="pricing-grid">
+            <div class="pricing-card">
+                <div class="plan-name">Bundle Starter</div>
+                <div class="plan-price">$39<span class="period">/month</span></div>
+                <ul class="plan-features">
+                    <li><span class="feature-check">✓</span> 60,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> Games + Film API access</li>
+                    <li><span class="feature-check">✓</span> 6,000 requests/day</li>
+                    <li><span class="feature-check">✓</span> Email support</li>
+                </ul>
+                <button class="cta-button" onclick="selectPlan('bundle_starter_monthly')">Start Bundle Starter</button>
+                <p style="margin-top: 10px; color: #666;">Or $390/year (save $78)</p>
+            </div>
+
+            <div class="pricing-card">
+                <div class="plan-name">Bundle Pro</div>
+                <div class="plan-price">$69<span class="period">/month</span></div>
+                <ul class="plan-features">
+                    <li><span class="feature-check">✓</span> 700,000 requests/month</li>
+                    <li><span class="feature-check">✓</span> Games + Film API access</li>
+                    <li><span class="feature-check">✓</span> 70,000 requests/day</li>
+                    <li><span class="feature-check">✓</span> Priority support</li>
+                </ul>
+                <button class="cta-button" onclick="selectPlan('bundle_pro_monthly')">Upgrade to Bundle Pro</button>
+                <p style="margin-top: 10px; color: #666;">Or $690/year (save $138)</p>
             </div>
         </div>
 
@@ -134,7 +195,7 @@ GET /api?s=spiel%20des%20jahres&apikey=YOUR_KEY
                 }
 
                 // Create subscription
-                const response = await fetch('/.netlify/functions/create-subscription', {
+                const response = await fetch('/.netlify/functions/create-subscription-new', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({

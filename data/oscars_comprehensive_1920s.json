@@ -1,0 +1,242 @@
+[
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019217",
+    "film_title": "The Noose",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Richard Barthelmess",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt0019071",
+    "film_title": "The Last Command",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Emil Jannings",
+        "role": "Actor"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0018389",
+    "film_title": "A Ship Comes In",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Louise Dresser",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0018379",
+    "film_title": "7th Heaven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Janet Gaynor",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt0019344",
+    "film_title": "Sadie Thompson",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Gloria Swanson",
+        "role": "Actress"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0018515",
+    "film_title": "Two Arabian Knights",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Lewis Milestone",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0019412",
+    "film_title": "Speedy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Ted Wilde",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0018379",
+    "film_title": "7th Heaven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Frank Borzage",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0018429",
+    "film_title": "Sorrell and Son",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Herbert Brenon",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt0018806",
+    "film_title": "The Crowd",
+    "is_win": false,
+    "people": [
+      {
+        "name": "King Vidor",
+        "role": "Director"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0019304",
+    "film_title": "The Racket",
+    "is_win": false,
+    "people": [
+      {
+        "name": "The Caddo Company",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0018379",
+    "film_title": "7th Heaven",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Fox",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt0018578",
+    "film_title": "Wings",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Paramount Famous Lasky",
+        "role": "Honoree"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0018037",
+    "film_title": "The Jazz Singer",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Alfred Cohn",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0018945",
+    "film_title": "Glorious Betsy",
+    "is_win": false,
+    "people": [
+      {
+        "name": "Anthony Coldeway",
+        "role": "Writer"
+      }
+    ]
+  },
+  {
+    "ceremony_year": 1929,
+    "org_name": "Academy Awards",
+    "ceremony_name": "1st Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt0018379",
+    "film_title": "7th Heaven",
+    "is_win": true,
+    "people": [
+      {
+        "name": "Benjamin Glazer",
+        "role": "Writer"
+      }
+    ]
+  }
+]

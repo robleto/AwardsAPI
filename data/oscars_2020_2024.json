@@ -1,0 +1,909 @@
+[
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Nolan", "role": "Director" },
+      { "name": "Emma Thomas", "role": "Producer" },
+      { "name": "Charles Roven", "role": "Producer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Nolan", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Cillian Murphy", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Robert Downey Jr.", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Film Editing",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Jennifer Lame", "role": "Editor" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Hoyte van Hoytema", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Original Score",
+    "imdb_id": "tt15398776",
+    "film_title": "Oppenheimer",
+    "is_win": true,
+    "people": [
+      { "name": "Ludwig Göransson", "role": "Composer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt14230458",
+    "film_title": "Poor Things",
+    "is_win": false,
+    "people": [
+      { "name": "Yorgos Lanthimos", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt14230458",
+    "film_title": "Poor Things",
+    "is_win": true,
+    "people": [
+      { "name": "Emma Stone", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Production Design",
+    "imdb_id": "tt14230458",
+    "film_title": "Poor Things",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Costume Design",
+    "imdb_id": "tt14230458",
+    "film_title": "Poor Things",
+    "is_win": true,
+    "people": [
+      { "name": "Holly Waddington", "role": "Costume Designer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1517268",
+    "film_title": "Barbie",
+    "is_win": false,
+    "people": [
+      { "name": "Margot Robbie", "role": "Producer" },
+      { "name": "Tom Ackerley", "role": "Producer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1517268",
+    "film_title": "Barbie",
+    "is_win": false,
+    "people": [
+      { "name": "Greta Gerwig", "role": "Writer" },
+      { "name": "Noah Baumbach", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt1517268",
+    "film_title": "Barbie",
+    "is_win": false,
+    "people": [
+      { "name": "America Ferrera", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt5537002",
+    "film_title": "Killers of the Flower Moon",
+    "is_win": false,
+    "people": [
+      { "name": "Martin Scorsese", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt5537002",
+    "film_title": "Killers of the Flower Moon",
+    "is_win": false,
+    "people": [
+      { "name": "Martin Scorsese", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt5537002",
+    "film_title": "Killers of the Flower Moon",
+    "is_win": false,
+    "people": [
+      { "name": "Lily Gladstone", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10168312",
+    "film_title": "The Holdovers",
+    "is_win": false,
+    "people": [
+      { "name": "Alexander Payne", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt10168312",
+    "film_title": "The Holdovers",
+    "is_win": true,
+    "people": [
+      { "name": "Da'Vine Joy Randolph", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt10168312",
+    "film_title": "The Holdovers",
+    "is_win": true,
+    "people": [
+      { "name": "David Hemingson", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best International Feature Film",
+    "imdb_id": "tt15789038",
+    "film_title": "The Zone of Interest",
+    "is_win": true,
+    "people": [
+      { "name": "Jonathan Glazer", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2024,
+    "org_name": "Academy Awards",
+    "ceremony_name": "96th Academy Awards",
+    "category_name": "Best Sound",
+    "imdb_id": "tt15789038",
+    "film_title": "The Zone of Interest",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Director" },
+      { "name": "Daniel Scheinert", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Director" },
+      { "name": "Daniel Scheinert", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Michelle Yeoh", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Ke Huy Quan", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Jamie Lee Curtis", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kwan", "role": "Writer" },
+      { "name": "Daniel Scheinert", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Film Editing",
+    "imdb_id": "tt6710474",
+    "film_title": "Everything Everywhere All at Once",
+    "is_win": true,
+    "people": [
+      { "name": "Paul Rogers", "role": "Editor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1745960",
+    "film_title": "Top Gun: Maverick",
+    "is_win": false,
+    "people": [
+      { "name": "Tom Cruise", "role": "Producer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Sound",
+    "imdb_id": "tt1745960",
+    "film_title": "Top Gun: Maverick",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt1745960",
+    "film_title": "Top Gun: Maverick",
+    "is_win": false,
+    "people": [
+      { "name": "Ehren Kruger", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Martin McDonagh", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Colin Farrell", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt11813216",
+    "film_title": "The Banshees of Inisherin",
+    "is_win": false,
+    "people": [
+      { "name": "Brendan Gleeson", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt14444726",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": false,
+    "people": []
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best International Feature Film",
+    "imdb_id": "tt14444726",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": [
+      { "name": "Edward Berger", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt14444726",
+    "film_title": "All Quiet on the Western Front",
+    "is_win": true,
+    "people": [
+      { "name": "James Friend", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt7144666",
+    "film_title": "The Whale",
+    "is_win": true,
+    "people": [
+      { "name": "Brendan Fraser", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2023,
+    "org_name": "Academy Awards",
+    "ceremony_name": "95th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt9100054",
+    "film_title": "Tár",
+    "is_win": false,
+    "people": [
+      { "name": "Cate Blanchett", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": [
+      { "name": "Siân Heder", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": [
+      { "name": "Siân Heder", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt10366206",
+    "film_title": "CODA",
+    "is_win": true,
+    "people": [
+      { "name": "Troy Kotsur", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1160419",
+    "film_title": "The Power of the Dog",
+    "is_win": false,
+    "people": [
+      { "name": "Jane Campion", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt1160419",
+    "film_title": "The Power of the Dog",
+    "is_win": true,
+    "people": [
+      { "name": "Jane Campion", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": false,
+    "people": [
+      { "name": "Denis Villeneuve", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": true,
+    "people": [
+      { "name": "Greig Fraser", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Film Editing",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": true,
+    "people": [
+      { "name": "Joe Walker", "role": "Editor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Sound",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Original Score",
+    "imdb_id": "tt1270797",
+    "film_title": "Dune",
+    "is_win": true,
+    "people": [
+      { "name": "Hans Zimmer", "role": "Composer" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt7721946",
+    "film_title": "King Richard",
+    "is_win": true,
+    "people": [
+      { "name": "Will Smith", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt9419884",
+    "film_title": "The Eyes of Tammy Faye",
+    "is_win": true,
+    "people": [
+      { "name": "Jessica Chastain", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2022,
+    "org_name": "Academy Awards",
+    "ceremony_name": "94th Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt10514222",
+    "film_title": "West Side Story",
+    "is_win": true,
+    "people": [
+      { "name": "Ariana DeBose", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt10090370",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Chloé Zhao", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt10090370",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Chloé Zhao", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt10090370",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Frances McDormand", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Film Editing",
+    "imdb_id": "tt10090370",
+    "film_title": "Nomadland",
+    "is_win": true,
+    "people": [
+      { "name": "Chloé Zhao", "role": "Editor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt6673612",
+    "film_title": "The Father",
+    "is_win": true,
+    "people": [
+      { "name": "Anthony Hopkins", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt6673612",
+    "film_title": "The Father",
+    "is_win": true,
+    "people": [
+      { "name": "Christopher Hampton", "role": "Writer" },
+      { "name": "Florian Zeller", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt9620292",
+    "film_title": "Promising Young Woman",
+    "is_win": true,
+    "people": [
+      { "name": "Emerald Fennell", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt7131622",
+    "film_title": "Judas and the Black Messiah",
+    "is_win": true,
+    "people": [
+      { "name": "Daniel Kaluuya", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2021,
+    "org_name": "Academy Awards",
+    "ceremony_name": "93rd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt8178634",
+    "film_title": "Minari",
+    "is_win": true,
+    "people": [
+      { "name": "Youn Yuh-jung", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon Ho", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Director",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon Ho", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Screenplay",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon Ho", "role": "Writer" },
+      { "name": "Han Jin-won", "role": "Writer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best International Feature Film",
+    "imdb_id": "tt6751668",
+    "film_title": "Parasite",
+    "is_win": true,
+    "people": [
+      { "name": "Bong Joon Ho", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Picture",
+    "imdb_id": "tt7131622",
+    "film_title": "1917",
+    "is_win": false,
+    "people": [
+      { "name": "Sam Mendes", "role": "Director" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Cinematography",
+    "imdb_id": "tt8579674",
+    "film_title": "1917",
+    "is_win": true,
+    "people": [
+      { "name": "Roger Deakins", "role": "Cinematographer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Visual Effects",
+    "imdb_id": "tt8579674",
+    "film_title": "1917",
+    "is_win": true,
+    "people": []
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actor",
+    "imdb_id": "tt7286456",
+    "film_title": "Joker",
+    "is_win": true,
+    "people": [
+      { "name": "Joaquin Phoenix", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Original Score",
+    "imdb_id": "tt7286456",
+    "film_title": "Joker",
+    "is_win": true,
+    "people": [
+      { "name": "Hildur Guðnadóttir", "role": "Composer" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Actress",
+    "imdb_id": "tt7131622",
+    "film_title": "Judy",
+    "is_win": true,
+    "people": [
+      { "name": "Renée Zellweger", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actor",
+    "imdb_id": "tt6823368",
+    "film_title": "Once Upon a Time in Hollywood",
+    "is_win": true,
+    "people": [
+      { "name": "Brad Pitt", "role": "Actor" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Supporting Actress",
+    "imdb_id": "tt4015500",
+    "film_title": "Marriage Story",
+    "is_win": true,
+    "people": [
+      { "name": "Laura Dern", "role": "Actress" }
+    ]
+  },
+  {
+    "ceremony_year": 2020,
+    "org_name": "Academy Awards",
+    "ceremony_name": "92nd Academy Awards",
+    "category_name": "Best Adapted Screenplay",
+    "imdb_id": "tt8579674",
+    "film_title": "Jojo Rabbit",
+    "is_win": true,
+    "people": [
+      { "name": "Taika Waititi", "role": "Writer" }
+    ]
+  }
+]

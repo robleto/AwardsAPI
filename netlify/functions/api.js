@@ -54,15 +54,27 @@ exports.handler = async (event, context) => {
     if (apikey && apikey !== 'demo') {
       try {
         const validation = await db.validateApiKey(apikey);
-        if (!validation.valid) {
+        if (!validation || !validation.valid) {
           return {
             statusCode: 429,
             headers,
             body: JSON.stringify({
               Response: "False",
-              Error: validation.error || "API key validation failed",
-              RemainingRequests: validation.requests_remaining_today || 0,
-              MonthlyLimit: validation.monthly_limit || 1000
+              Error: validation?.error || "API key validation failed",
+              RemainingRequests: validation?.requests_remaining_today || 0,
+              MonthlyLimit: validation?.monthly_limit || 1000
+            })
+          };
+        }
+        // Optional domain enforcement if metadata available
+        if (Array.isArray(validation.allowed_domains) && !validation.allowed_domains.includes('games')) {
+          return {
+            statusCode: 403,
+            headers,
+            body: JSON.stringify({
+              Response: "False",
+              Error: "API key not authorized for games domain",
+              AllowedDomains: validation.allowed_domains
             })
           };
         }
@@ -70,6 +82,9 @@ exports.handler = async (event, context) => {
         headers['X-RateLimit-Remaining-Daily'] = validation.requests_remaining_today || 0;
         headers['X-RateLimit-Remaining-Monthly'] = validation.requests_remaining_month || 0;
         headers['X-RateLimit-Tier'] = validation.tier || 'free';
+        if (validation.allowed_domains) {
+          headers['X-Allowed-Domains'] = JSON.stringify(validation.allowed_domains);
+        }
       } catch (e) {
         console.error('API key validation error:', e);
         return {
