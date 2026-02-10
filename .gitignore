@@ -55,3 +55,25 @@ build-info.json
 *.swo
 *~
 .history/
+
+# Temporary verification and implementation docs
+*-VERIFICATION*.md
+*-IMPLEMENTATION.md
+*-SUMMARY.md
+PRICING-STATUS.md
+QUICK-VERIFICATION.md
+CLEANUP-RECOMMENDATIONS.md
+
+# Intermediate data files
+data/*old*.json
+data/oscars_*.json
+!data/oscars_complete.json
+
+# Legacy platforms (migrated to Neon)
+supabase/
+
+# Deno (not used - Node.js project)
+deno.lock
+
+# Archive folder
+archive/
