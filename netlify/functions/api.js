@@ -327,10 +327,12 @@ async function searchAwards(sql, searchTerm, filters = {}) {
   const params = [];
   const clauses = buildFilters(filters, params);
 
-  params.unshift(`%${searchTerm}%`);
-  clauses.unshift(
-    `(a.title ILIKE $1 OR a.award_set ILIKE $1 OR a.award_set_raw ILIKE $1 OR a.position ILIKE $1 OR g.name ILIKE $1)`
-  );
+  if (searchTerm && String(searchTerm).trim().length > 0) {
+    params.unshift(`%${searchTerm}%`);
+    clauses.unshift(
+      `(a.title ILIKE $1 OR a.award_set ILIKE $1 OR a.award_set_raw ILIKE $1 OR a.position ILIKE $1 OR g.name ILIKE $1)`
+    );
+  }
 
   const limitValue = Math.min(Math.max(parseInt(filters.limit, 10) || 50, 1), 200);
   const offsetValue = Math.max(parseInt(filters.offset, 10) || 0, 0);
@@ -338,6 +340,8 @@ async function searchAwards(sql, searchTerm, filters = {}) {
   const limitIndex = params.length;
   params.push(offsetValue);
   const offsetIndex = params.length;
+
+  const whereClause = clauses.length ? clauses.join(" AND ") : "TRUE";
 
   const query = `
     SELECT
@@ -351,7 +355,7 @@ async function searchAwards(sql, searchTerm, filters = {}) {
     FROM boardgames.awards a
     LEFT JOIN boardgames.award_games ag ON ag.award_id = a.id
     LEFT JOIN boardgames.games g ON g.id = ag.game_id
-    WHERE ${clauses.join(" AND ")}
+    WHERE ${whereClause}
     GROUP BY a.id
     ORDER BY a.year DESC NULLS LAST
     LIMIT $${limitIndex}
