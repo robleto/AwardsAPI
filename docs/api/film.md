@@ -90,21 +90,21 @@ Requires a valid API key via one of:
 ```bash
 # Basic request
 curl -H "x-api-key: your_key_here" \
-  "https://gameawards.netlify.app/film-awards?imdb_id=tt0133093"
+  "https://awards.netlify.app/film-awards?imdb_id=tt0133093"
 
 # Using query parameter for API key
-curl "https://gameawards.netlify.app/film-awards?imdb_id=tt0133093&apikey=your_key_here"
+curl "https://awards.netlify.app/film-awards?imdb_id=tt0133093&apikey=your_key_here"
 
 # Using short alias
 curl -H "x-api-key: your_key_here" \
-  "https://gameawards.netlify.app/film-awards?i=tt15398776"
+  "https://awards.netlify.app/film-awards?i=tt15398776"
 ```
 
 ### JavaScript (Fetch)
 
 ```javascript
 const response = await fetch(
-  'https://gameawards.netlify.app/film-awards?imdb_id=tt0133093',
+  'https://awards.netlify.app/film-awards?imdb_id=tt0133093',
   {
     headers: {
       'x-api-key': 'your_key_here'
@@ -128,7 +128,7 @@ const axios = require('axios');
 async function getFilmAwards(imdbId) {
   try {
     const { data } = await axios.get(
-      `https://gameawards.netlify.app/film-awards?imdb_id=${imdbId}`,
+      `https://awards.netlify.app/film-awards?imdb_id=${imdbId}`,
       {
         headers: {
           'x-api-key': process.env.AWARDS_API_KEY
@@ -229,7 +229,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt0133093"
 ## Support
 
 For API issues or questions:
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 - 📚 Main docs: [../README.md](../../README.md)
 
 ## Related Endpoints

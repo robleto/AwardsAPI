@@ -115,7 +115,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt0133093" | jq
 
 ### ReAwarding Integration
 1. Add env vars:
-   - `AWARDS_API_BASE_URL=https://gameawards.netlify.app`
+   - `AWARDS_API_BASE_URL=https://awards.netlify.app`
    - `AWARDS_API_KEY=your_comp_key`
 2. Server component fetches at film page load
 3. Render badges + nominations
@@ -229,7 +229,7 @@ curl "http://localhost:8888/film-awards?imdb_id=tt15398776"
 Questions or issues?
 - Review: `docs/FILM-AWARDS-SETUP.md`
 - API Docs: `docs/api/film.md`
-- Email: support@gameawardsapi.com
+- Email: support@awardsapi.com
 
 ---
 

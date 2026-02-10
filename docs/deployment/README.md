@@ -41,4 +41,4 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for complete list of required environment var
 
 ## Support
 
-For deployment issues, see the troubleshooting sections in each guide or contact support@gameawardsapi.com.
+For deployment issues, see the troubleshooting sections in each guide or contact support@awardsapi.com.

@@ -16,7 +16,7 @@ ON CONFLICT (key_hash) DO NOTHING;
 -- Sample usage rows
 INSERT INTO api_usage (api_key, endpoint, parameters, status_code, timestamp) VALUES
   ('gaa_demo_key_for_testing_only', '/api/', '{"s": "Spiel des Jahres"}', 200, now() - interval '1 hour'),
-  ('gaa_demo_key_for_testing_only', '/api/', '{"bgg_id": "13"}', 200, now() - interval '2 hours'),
+  ('gaa_demo_key_for_testing_only', '/api/', '{"game_id": "game_qsi3zo"}', 200, now() - interval '2 hours'),
   ('gaa_dev_key_for_mobile_app', '/api/', '{"s": "Origins"}', 200, now() - interval '30 minutes'),
   ('gaa_research_university_key', '/api/awards', '{}', 200, now() - interval '45 minutes')
 ON CONFLICT DO NOTHING;

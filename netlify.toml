@@ -28,6 +28,7 @@
   from = "/film-awards"
   to = "/.netlify/functions/film-awards"
   status = 200
+  force = true
 
 # SPA fallback for client-side routing
 [[redirects]]

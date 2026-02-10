@@ -132,7 +132,7 @@ BEGIN
   SET 
     allowed_domains = new_domains,
     updated_at = NOW()
-  WHERE key_hash = update_api_key_domains.key_hash;
+  WHERE api_keys.key_hash = key_hash;
   
   RETURN FOUND;
 END;

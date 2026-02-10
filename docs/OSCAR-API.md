@@ -26,14 +26,25 @@ Retrieve all Oscar nominations and wins for a specific film.
 
 **Parameters:**
 - `imdb_id` (required): IMDb ID (e.g., `tt0111161`)
+- `organization` (optional): Filter by awards organization; comma-separated.
+  - Aliases supported: `oscars` → `Academy Awards`, `golden globes|globes` → `Golden Globes`
+  - Future alias support (pre-wired): `bafta` → `British Academy Film Awards`, `sag` → `Screen Actors Guild Awards`
 - `apikey` (required): Your API key
 
 **Example Request:**
+
 ```bash
 curl "https://gameawardsapi.netlify.app/.netlify/functions/film-awards?imdb_id=tt0111161&apikey=YOUR_KEY"
 ```
 
+Filter to Golden Globes only:
+
+```bash
+curl "https://gameawardsapi.netlify.app/.netlify/functions/film-awards?imdb_id=tt0053291&organization=golden%20globes&apikey=YOUR_KEY"
+```
+
 **Example Response:**
+
 ```json
 {
   "imdb_id": "tt0111161",
@@ -61,7 +72,8 @@ curl "https://gameawardsapi.netlify.app/.netlify/functions/film-awards?imdb_id=t
   "stats": {
     "nominations": 7,
     "wins": 0
-  }
+  },
+  "sources": ["Academy Awards", "Golden Globes"]
 }
 ```
 
@@ -468,7 +480,7 @@ print(f"Wins: {awards['stats']['wins']}")
 - **Documentation:** https://gameawardsapi.netlify.app/docs
 - **API Key:** https://gameawardsapi.netlify.app/apikey
 - **Issues:** Open an issue on GitHub
-- **Email:** support@gameawardsapi.com
+- **Email:** support@awardsapi.com
 
 ---
 

@@ -15,8 +15,8 @@
     <meta property="og:title" content="Board Game Awards API" />
     <meta property="og:description" content="Access board game awards data: Spiel des Jahres, Origins, Golden Geek, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://boardgameawardsapi.example.com/board-games" />
-    <meta property="og:image" content="https://boardgameawardsapi.example.com/og-image.png" />
+    <meta property="og:url" content="https://awardsapi.example.com/board-games" />
+    <meta property="og:image" content="https://awardsapi.example.com/og-image.png" />
     
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -78,7 +78,7 @@
                 </h1>
                 <p class="text-xl text-secondary mb-8 leading-relaxed">
                     Access comprehensive board game awards data including Spiel des Jahres, Kennerspiel, Origins Awards, 
-                    Golden Geek, Diana Jones Award, and 20+ more prestigious gaming honors. Query by title, designer, or BoardGameGeek ID.
+                    Golden Geek, Diana Jones Award, and 20+ more prestigious gaming honors. Query by title, designer, or internal game ID.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                     <a href="/apikey" class="btn-conversion btn-primary text-lg">
@@ -108,7 +108,7 @@
                     </div>
                     <span class="ml-4 text-gray-400 text-sm">Terminal - Board Game Awards API</span>
                 </div>
-                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://gameawards.netlify.app/api?s=wingspan&apikey=your_key"
+                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://awards.netlify.app/api?s=wingspan&apikey=your_key"
 
 {
   "awards": [
@@ -118,7 +118,7 @@
       "award": "Kennerspiel des Jahres",
       "category": "Game of the Year",
       "designer": "Elizabeth Hargrave",
-      "bgg_id": 266192
+      "game_id": "game_f7zvvu"
     },
     {
       "title": "Wingspan",
@@ -126,7 +126,7 @@
       "award": "Golden Geek",
       "category": "Board Game of the Year",
       "designer": "Elizabeth Hargrave",
-      "bgg_id": 266192
+      "game_id": "game_f7zvvu"
     }
   ],
   "total": 2,
@@ -166,8 +166,8 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                         </svg>
                     </div>
-                    <h3 class="text-lg font-semibold heading-secondary mb-2">BoardGameGeek Integration</h3>
-                    <p class="text-secondary">Query by BGG ID for instant results. Perfect for apps already using BoardGameGeek data.</p>
+                    <h3 class="text-lg font-semibold heading-secondary mb-2">Internal Game IDs</h3>
+                    <p class="text-secondary">Query by our internal game ID for consistent, stable lookups.</p>
                 </div>
                 
                 <div class="feature-card text-center p-6">
@@ -242,8 +242,8 @@
                             <span class="ml-2 text-gray-700">Search across all fields</span>
                         </div>
                         <div class="bg-white p-4 rounded-lg border border-gray-200">
-                            <code class="text-primary font-mono">bgg_id</code>
-                            <span class="ml-2 text-gray-700">BoardGameGeek game ID</span>
+                            <code class="text-primary font-mono">game_id</code>
+                            <span class="ml-2 text-gray-700">Internal game ID</span>
                         </div>
                         <div class="bg-white p-4 rounded-lg border border-gray-200">
                             <code class="text-primary font-mono">year</code>
@@ -289,7 +289,7 @@
                     <div class="bg-white p-6 rounded-lg border border-gray-200">
                         <h4 class="font-semibold text-gray-900 mb-2">Get all awards for a game:</h4>
                         <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
-                            /api?bgg_id=266192&apikey=yourkey
+                            /api?game_id=game_f7zvvu&apikey=yourkey
                         </div>
                     </div>
                     

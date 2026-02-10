@@ -10,7 +10,14 @@
 - Stripe Setup: `technical/STRIPE-SETUP.md`
 - Repository Status: `technical/REPOSITORY-STATUS.md`
 
+### API
+
+- Oscars API: `OSCAR-API.md`
+- Film Awards: `api/film-awards.md`
+
+
 ### Business (Optional)
+
 - Strategy: `business/BUSINESS-STRATEGY.md`
 - Summary: `business/BUSINESS-SUMMARY.md`
 - Project Overview: `business/PROJECT-OVERVIEW.md`

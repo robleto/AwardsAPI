@@ -194,7 +194,7 @@ Reawarding App receives priority for:
 
 **Primary Contact:**  
 Greg Robleto  
-Email: greg@gameawardsapi.com  
+Email: greg@awardsapi.com  
 
 **Dispute Resolution:**  
 Any disputes will be resolved through good-faith negotiation. If negotiation fails, disputes will be resolved through binding arbitration in accordance with the laws of [Your Jurisdiction].

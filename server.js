@@ -50,14 +50,13 @@ app.get('/apikey', (req, res) => {
 
 // Main API endpoint - Get award by ID
 app.get('/api/', (req, res) => {
-  const { i: awardId, t: title, s: search, bgg_id, year, category, award_set, type, r: format = 'json' } = req.query;
+  const { i: awardId, t: title, s: search, game_id, year, category, award_set, type, r: format = 'json' } = req.query;
   
   // Require API key for production
   const apiKey = req.query.apikey;
   if (process.env.NODE_ENV === 'production' && !apiKey) {
     return res.status(401).json({
-      Response: "False",
-      Error: "No API key provided. Request API key at https://gameawardsapi.com/apikey"
+      Error: "No API key provided. Request API key at https://awardsapi.com/apikey"
     });
   }
 
@@ -73,13 +72,13 @@ app.get('/api/', (req, res) => {
     } else if (title) {
       // Get award by title
       result = getAwardByTitle(title, { year, category, award_set });
-    } else if (bgg_id) {
-      // Get all awards for a specific BGG game ID
-      result = getAwardsByBggId(bgg_id);
+    } else if (game_id) {
+      // Get all awards for a specific internal game ID
+      result = getAwardsByGameId(game_id);
     } else {
       return res.status(400).json({
         Response: "False",
-        Error: "Incorrect parameters. Please provide 'i' (award ID), 't' (title), 's' (search), or 'bgg_id'."
+        Error: "Incorrect parameters. Please provide 'i' (award ID), 't' (title), 's' (search), or 'game_id'."
       });
     }
 
@@ -191,9 +190,9 @@ function getAwardByTitle(title, filters = {}) {
   };
 }
 
-function getAwardsByBggId(bggId) {
-  const awards = awardsData.filter(award => 
-    award.boardgames.some(game => game.bggId == bggId)
+function getAwardsByGameId(gameId) {
+  const awards = awardsData.filter(award =>
+    award.boardgames.some(game => game.gameId == gameId)
   );
 
   if (awards.length === 0) {
@@ -204,11 +203,11 @@ function getAwardsByBggId(bggId) {
   }
 
   // Get game name from first result
-  const gameName = awards[0].boardgames.find(game => game.bggId == bggId)?.name;
+  const gameName = awards[0].boardgames.find(game => game.gameId == gameId)?.name;
 
   return {
     Response: "True",
-    bggId: bggId,
+    gameId: gameId,
     gameName: gameName,
     totalResults: awards.length,
     awards: awards

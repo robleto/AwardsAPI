@@ -7,7 +7,12 @@
     "title": "Charles S Roberts Best Amateur Game Winner",
     "primaryName": "Manassas",
     "alternateNames": [],
-    "boardgames": [ { "bggId": 18158, "name": "Manassas" } ],
+    "boardgames": [
+      {
+        "name": "Manassas",
+        "gameId": "game_1nspm3c"
+      }
+    ],
     "awardSet": "1974 Charles S. Roberts",
     "position": "Charles S. Roberts Best Amateur Game",
     "isWinner": true,
@@ -21,7 +26,12 @@
     "title": "Spiel des Jahres Winner",
     "primaryName": "Just One",
     "alternateNames": [],
-    "boardgames": [ { "bggId": 254640, "name": "Just One" } ],
+    "boardgames": [
+      {
+        "name": "Just One",
+        "gameId": "game_ohcgav"
+      }
+    ],
     "awardSet": "2019 Spiel des Jahres",
     "position": "Spiel des Jahres",
     "isWinner": true,
@@ -35,7 +45,12 @@
     "title": "Spiel des Jahres Winner",
     "primaryName": "Pictures",
     "alternateNames": [],
-    "boardgames": [ { "bggId": 284083, "name": "Pictures" } ],
+    "boardgames": [
+      {
+        "name": "Pictures",
+        "gameId": "game_sxqp3i"
+      }
+    ],
     "awardSet": "2020 Spiel des Jahres",
     "position": "Spiel des Jahres",
     "isWinner": true,
@@ -48,8 +63,15 @@
     "year": 2020,
     "title": "Kennerspiel des Jahres Winner",
     "primaryName": "The Crew: The Quest for Planet Nine",
-    "alternateNames": ["Die Crew"],
-    "boardgames": [ { "bggId": 284083, "name": "The Crew: The Quest for Planet Nine" } ],
+    "alternateNames": [
+      "Die Crew"
+    ],
+    "boardgames": [
+      {
+        "name": "The Crew: The Quest for Planet Nine",
+        "gameId": "game_1w8z9ld"
+      }
+    ],
     "awardSet": "2020 Kennerspiel des Jahres",
     "position": "Kennerspiel des Jahres",
     "isWinner": true,
@@ -63,7 +85,12 @@
     "title": "Spiel des Jahres Nominee",
     "primaryName": "MicroMacro: Crime City",
     "alternateNames": [],
-    "boardgames": [ { "bggId": 318977, "name": "MicroMacro: Crime City" } ],
+    "boardgames": [
+      {
+        "name": "MicroMacro: Crime City",
+        "gameId": "game_ibpsvu"
+      }
+    ],
     "awardSet": "2021 Spiel des Jahres",
     "position": "Spiel des Jahres",
     "isWinner": false,

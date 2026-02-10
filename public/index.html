@@ -15,8 +15,8 @@
     <meta property="og:title" content="Awards API - Games & Film" />
     <meta property="og:description" content="Unified API for board game and film award data. Spiel des Jahres, Oscars, Origins, Golden Globes, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://boardgameawardsapi.example.com/" />
-    <meta property="og:image" content="https://boardgameawardsapi.example.com/og-image.png" />
+    <meta property="og:url" content="https://awardsapi.example.com/" />
+    <meta property="og:image" content="https://awardsapi.example.com/og-image.png" />
     <meta property="og:image:alt" content="Awards API star logo" />
     <meta property="og:site_name" content="Awards API" />
 
@@ -24,7 +24,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Awards API - Games & Film" />
     <meta name="twitter:description" content="Unified API for board game and film award data. Spiel des Jahres, Oscars, Origins, Golden Globes, and more." />
-    <meta name="twitter:image" content="https://boardgameawardsapi.example.com/og-image.png" />
+    <meta name="twitter:image" content="https://awardsapi.example.com/og-image.png" />
     <meta name="twitter:image:alt" content="Awards API star logo" />
     
     <script src="https://cdn.tailwindcss.com"></script>
@@ -128,7 +128,7 @@
                     </div>
                     <span class="ml-4 text-gray-400 text-sm">Terminal - Board Game Awards</span>
                 </div>
-                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://gameawards.netlify.app/api?s=wingspan&apikey=your_key"
+                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://awards.netlify.app/api?s=wingspan&apikey=your_key"
 
 {
   "awards": [
@@ -156,7 +156,7 @@
                     </div>
                     <span class="ml-4 text-gray-400 text-sm">Terminal - Film Awards</span>
                 </div>
-                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://gameawards.netlify.app/film-awards?imdb_id=tt0133093&apikey=your_key"
+                <pre class="text-green-400 text-sm overflow-x-auto"><code>curl "https://awards.netlify.app/film-awards?imdb_id=tt0133093&apikey=your_key"
 
 {
   "film": {
@@ -322,8 +322,8 @@
                             <span class="ml-2 text-gray-700">Search across all fields</span>
                         </div>
                         <div class="bg-white p-4 rounded-lg border border-gray-200">
-                            <code class="text-primary font-mono">bgg_id</code>
-                            <span class="ml-2 text-gray-700">BoardGameGeek game ID</span>
+                            <code class="text-primary font-mono">game_id</code>
+                            <span class="ml-2 text-gray-700">Internal game ID</span>
                         </div>
                         <div class="bg-white p-4 rounded-lg border border-gray-200">
                             <code class="text-primary font-mono">year</code>
@@ -369,7 +369,7 @@
                     <div class="bg-white p-6 rounded-lg border border-gray-200">
                         <h4 class="font-semibold text-gray-900 mb-2">Get all awards for a game:</h4>
                         <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
-                            /api?bgg_id=361&apikey=yourkey
+                            /api?game_id=game_f7zvvu&apikey=yourkey
                         </div>
                     </div>
                     
@@ -456,6 +456,37 @@
                         <div class="bg-gray-900 p-3 rounded text-green-400 font-mono text-sm overflow-x-auto">
                             /film-awards?ceremony=Academy%20Awards&year=2024&apikey=yourkey
                         </div>
+                    </div>
+                </div>
+                
+                <!-- Live Tester (Film) -->
+                <div class="lg:col-span-2">
+                    <div class="bg-white p-6 rounded-lg border border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-3">Try It Live (Film Awards)</h4>
+                        <p class="text-secondary mb-4">Enter an IMDb ID and your API key. Optionally filter by organization (aliases: <code>oscars</code>, <code>globes</code>, etc.).</p>
+                        <form id="filmLiveTester" class="grid grid-cols-1 md:grid-cols-4 gap-3 items-end">
+                            <div>
+                                <label class="block text-sm text-gray-600 mb-1">IMDb ID</label>
+                                <input id="idxImdb" type="text" placeholder="tt0053291" class="w-full border rounded-lg px-3 py-2" />
+                            </div>
+                            <div>
+                                <label class="block text-sm text-gray-600 mb-1">Organization (optional)</label>
+                                <input id="idxOrg" type="text" placeholder="oscars,globes" class="w-full border rounded-lg px-3 py-2" />
+                            </div>
+                            <div class="md:col-span-2">
+                                <label class="block text-sm text-gray-600 mb-1">API Key</label>
+                                <input id="idxKey" type="text" placeholder="paste your key" class="w-full border rounded-lg px-3 py-2 mb-2" />
+                                <label class="inline-flex items-center gap-2 text-sm text-gray-600">
+                                    <input id="idxRemember" type="checkbox" class="rounded" /> Remember key
+                                </label>
+                            </div>
+                            <div class="md:col-span-4 flex gap-3">
+                                <button id="idxRun" type="submit" class="btn-conversion btn-primary">Run Request</button>
+                                <button id="idxClear" type="button" class="btn-conversion btn-secondary">Clear</button>
+                            </div>
+                        </form>
+                        <div id="idxReq" class="mt-4 text-sm text-gray-600" style="display:none"></div>
+                        <pre id="idxOut" class="mt-3 bg-gray-900 text-green-400 rounded-lg p-4 overflow-x-auto whitespace-pre-wrap" style="display:none"></pre>
                     </div>
                 </div>
             </div>
@@ -649,6 +680,68 @@
                         gsap.to('.hero',{backgroundPosition:'50% 60%', ease:'none', scrollTrigger:{trigger:'.hero', start:'top bottom', end:'bottom top', scrub:1}});
                     }
                     boot({ animations: initIndexAnimations });
+                </script>
+                <script>
+                    // Film Live Tester wiring
+                    (function(){
+                        const imdbEl = document.getElementById('idxImdb');
+                        const orgEl = document.getElementById('idxOrg');
+                        const keyEl = document.getElementById('idxKey');
+                        const rememberEl = document.getElementById('idxRemember');
+                        const formEl = document.getElementById('filmLiveTester');
+                        const outEl = document.getElementById('idxOut');
+                        const reqEl = document.getElementById('idxReq');
+
+                        if (!formEl) return; // Guard if section hidden
+
+                        try {
+                            const stored = localStorage.getItem('awards_api_key');
+                            if (stored) { keyEl.value = stored; rememberEl.checked = true; }
+                        } catch(_) {}
+
+                        document.getElementById('idxClear').addEventListener('click', () => {
+                            imdbEl.value = '';
+                            orgEl.value = '';
+                            outEl.style.display = 'none';
+                            reqEl.style.display = 'none';
+                        });
+
+                        formEl.addEventListener('submit', async (e) => {
+                            e.preventDefault();
+                            const imdb = imdbEl.value.trim();
+                            const org = orgEl.value.trim();
+                            const key = keyEl.value.trim();
+                            if (!imdb) { alert('Please enter an IMDb ID (e.g., tt0053291)'); return; }
+
+                            try {
+                                if (rememberEl.checked && key) localStorage.setItem('awards_api_key', key);
+                                else if (!rememberEl.checked) localStorage.removeItem('awards_api_key');
+                            } catch(_) {}
+
+                            const params = new URLSearchParams({ imdb_id: imdb });
+                            if (key) params.set('apikey', key);
+                            if (org) params.set('organization', org);
+                            const url = `/film-awards?${params}`; // Pretty route → function
+
+                            reqEl.textContent = `GET ${url}`;
+                            reqEl.style.display = 'block';
+                            outEl.textContent = 'Loading...';
+                            outEl.style.display = 'block';
+
+                            try {
+                                const res = await fetch(url, { headers: { 'Accept': 'application/json' }});
+                                const txt = await res.text();
+                                try {
+                                    const json = JSON.parse(txt);
+                                    outEl.textContent = JSON.stringify(json, null, 2);
+                                } catch {
+                                    outEl.textContent = txt;
+                                }
+                            } catch (err) {
+                                outEl.textContent = `Error: ${err.message}`;
+                            }
+                        });
+                    })();
                 </script>
 </body>
 </html>

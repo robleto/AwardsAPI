@@ -10,24 +10,22 @@
     "build:meta": "node scripts/generate-build-info.js",
     "build:functions": "echo 'Functions build complete'",
     "test": "jest --runInBand",
-    "netlify:dev": "netlify dev",
-    "functions:dev": "node local-functions-server.js",
     "query": "node scripts/query-awards.js",
-    "bgg": "node scripts/bgg-lookup.js",
     "db:migrate": "export PATH=\"/opt/homebrew/opt/libpq/bin:$PATH\" && export PGPASSWORD=$PGPASSWORD && psql -h ep-quiet-glade-adjp9y5d-pooler.c-2.us-east-1.aws.neon.tech -U $PGUSER -d neondb -f neon/schema.sql",
     "db:seed": "export PATH=\"/opt/homebrew/opt/libpq/bin:$PATH\" && export PGPASSWORD=$PGPASSWORD && psql -h ep-quiet-glade-adjp9y5d-pooler.c-2.us-east-1.aws.neon.tech -U $PGUSER -d neondb -f neon/seed.sql",
     "deploy:audit": "node dev-scripts/deploy-audit.js",
-    "dev:functions": "node dev-scripts/local-functions-server.js",
     "setup:stripe": "node dev-scripts/setup-stripe-products.js",
     "test:webhooks": "node dev-scripts/test-stripe-webhooks.js",
-    "stripe:ensure:starter": "node scripts/stripe-ensure-starter-prices.js"
+    "stripe:ensure:starter": "node scripts/stripe-ensure-starter-prices.js",
+    "import:globes": "node -r dotenv/config scripts/import-golden-globes.js",
+    "normalize:film-categories": "node -r dotenv/config scripts/normalize-film-categories.js",
+    "db:neon:apply": "node -r dotenv/config scripts/apply-neon-sql.js"
   },
   "keywords": [
     "board-games",
     "awards",
     "api",
     "rest",
-    "boardgamegeek",
     "gaming"
   ],
   "author": "Greg Robleto",

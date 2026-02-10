@@ -32,9 +32,6 @@ Migration from Supabase? See the [Migration Guide](docs/deployment/NEON-MIGRATIO
 ```bash
 npm install
 npm run dev  # nodemon auto-restart (Express)
-
-# Or test Netlify functions + static site locally
-netlify dev
 ```
 
 The dataset includes major awards like Spiel des Jahres, Origins Awards, Diana Jones Award, and many more.
@@ -44,9 +41,6 @@ The dataset includes major awards like Spiel des Jahres, Origins Awards, Diana J
 ```bash
 npm install
 npm run dev          # Express + auto-reload
-# or test serverless functions directly
-node scripts/local-functions-server.js &
-node scripts/run-function.js api "s=wingspan&apikey=demo"
 ```
 
 Stripe test bootstrap (optional now, required before subscriptions):
@@ -58,14 +52,14 @@ node scripts/setup-stripe-products.js
 
 Health & build metadata:
 ```bash
-curl http://localhost:4000/.netlify/functions/health
+curl http://localhost:3000/health
 ```
 
 ## 📋 API Endpoints
 
 ### Board Game Awards
 
-**Base URL:** `/api/` or `/.netlify/functions/api`
+**Base URL:** `/api/`
 
 #### Parameters
 
@@ -74,17 +68,18 @@ curl http://localhost:4000/.netlify/functions/health
 | `i` | Optional* | Award ID | `10865` |
 | `t` | Optional* | Award title search | `Spiel des Jahres Winner` |
 | `s` | Optional* | Search across all fields | `Catan` |
-| `bgg_id` | Optional* | BoardGameGeek game ID | `13` |
+| `game_id` | Optional* | Internal game ID | `game_ohcgav` |
 | `year` | No | Filter by year | `2023` |
 | `category` | No | Filter by category | `Game of the Year` |
 | `award_set` | No | Filter by award set | `Spiel des Jahres` |
 | `type` | No | Filter by type | `winner` or `nominee` |
 
-*At least one of `i`, `t`, `s`, or `bgg_id` is required.
+*At least one of `i`, `t`, `s`, or `game_id` is required.
+`game_id` values are returned in the `boardgames` array from any search or title query.
 
 **Example:**
 ```bash
-curl -H "x-api-key: YOUR_KEY" "https://gameawards.netlify.app/api/?s=Wingspan"
+curl -H "x-api-key: YOUR_KEY" "https://awards.netlify.app/api/?s=Wingspan"
 ```
 
 ### Film Awards
@@ -99,7 +94,7 @@ curl -H "x-api-key: YOUR_KEY" "https://gameawards.netlify.app/api/?s=Wingspan"
 
 **Example:**
 ```bash
-curl -H "x-api-key: YOUR_KEY" "https://gameawards.netlify.app/film-awards?imdb_id=tt15398776"
+curl -H "x-api-key: YOUR_KEY" "https://awards.netlify.app/film-awards?imdb_id=tt15398776"
 ```
 
 **Documentation:** [Film Awards API](docs/api/film.md)
@@ -118,7 +113,7 @@ GET /api/?s=Spiel des Jahres&year=2023
 
 #### Get all awards for a specific game
 ```
-GET /api/?bgg_id=361
+GET /api/?game_id=game_ohcgav
 ```
 
 #### Get film awards by IMDb ID
@@ -157,16 +152,19 @@ Each award object contains:
   "alternateNames": [],
   "boardgames": [
     {
-      "bggId": 18158,
+      "gameId": "game_1nspm3c",
       "name": "Manassas"
     }
   ],
-  "awardSet": "1974 Charles S. Roberts",
+  "awardSetRaw": "1974 Charles S. Roberts",
+  "awardSet": "Charles S. Roberts",
   "position": "Charles S. Roberts Best Amateur Game",
   "isWinner": true,
   "isNominee": false
 }
 ```
+
+Note: `awardSet` is normalized by stripping a leading year or year range; the original source value is preserved in `awardSetRaw`.
 
 ## 🎮 Use Cases
 
@@ -233,7 +231,7 @@ Not Permitted:
 - Reselling the raw dataset or bulk exports as a standalone product
 - Open‑sourcing the private full dataset
 
-Need broader rights (OEM / white‑label)? Email sales@gameawardsapi.com.
+Need broader rights (OEM / white‑label)? Email sales@awardsapi.com.
 
 ### Managing the Private Dataset
 
@@ -241,7 +239,7 @@ Current search layer reads from `lib/awards-data.js`, which attempts to load a p
 
 To use a full dataset privately:
 1. Place the JSON file at `internal/enhanced-honors-complete.json`
-2. Restart local dev (`npm run dev` or `netlify dev`)
+2. Restart local dev (`npm run dev`)
 3. The loader will detect and use it automatically (log line: "Loaded full private dataset").
 
 Do NOT redistribute proprietary or third‑party dataset dumps. Keep the full dataset private under `internal/`.
@@ -252,13 +250,13 @@ See `LICENSE-COMMERCIAL.md`.
 
 ## 🙏 Acknowledgments
 
-- Board game award data sourced from BoardGameGeek community
+- Board game award data sourced from public community archives
 - Inspired by the excellent OMDB API structure
 - Built for the board gaming community
 
 ## 📞 Support
 
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 
 ---
 

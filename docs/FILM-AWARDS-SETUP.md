@@ -196,7 +196,7 @@ node scripts/import-oscars.js path/to/your/data.json
 ### Environment Variables
 
 ```env
-AWARDS_API_BASE_URL=https://gameawards.netlify.app
+AWARDS_API_BASE_URL=https://awards.netlify.app
 AWARDS_API_KEY=your_comp_key_here
 ```
 
@@ -303,6 +303,6 @@ Should see: `nominations_category_id_imdb_id_key`
 
 ## Support
 
-- 📧 Email: support@gameawardsapi.com
+- 📧 Email: support@awardsapi.com
 - 📚 Main docs: [README.md](../README.md)
 - 🎬 Film API docs: [docs/api/film.md](docs/api/film.md)

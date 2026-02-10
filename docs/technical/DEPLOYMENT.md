@@ -69,8 +69,6 @@ Netlify UI → Site Settings:
 ```bash
 cp .env.example .env   # populate values
 npm install
-netlify dev            # spins functions + static + proxy
-# or
 npm run dev            # Express only (no serverless simulation)
 ```
 

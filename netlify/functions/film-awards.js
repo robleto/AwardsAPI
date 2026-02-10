@@ -31,6 +31,35 @@ exports.handler = async (event) => {
     return json(400, { error: 'Invalid or missing imdb_id (e.g., tt0133093)' });
   }
 
+  // Optional organization filter (comma-separated). Accept aliases like 'oscars' or 'golden globes'.
+  const orgParam = qs.organization || qs.organizations || qs.org || null;
+  const orgFilters = (() => {
+    if (!orgParam) return null;
+    const aliases = new Map([
+      ['oscars', 'Academy Awards'],
+      ['academy awards', 'Academy Awards'],
+      ['academy', 'Academy Awards'],
+      ['golden globes', 'Golden Globes'],
+      ['golden globe', 'Golden Globes'],
+      ['globes', 'Golden Globes'],
+      // Future orgs
+      ['bafta', 'British Academy Film Awards'],
+      ['british academy', 'British Academy Film Awards'],
+      ['british academy film awards', 'British Academy Film Awards'],
+      ['sag', 'Screen Actors Guild Awards'],
+      ['sag awards', 'Screen Actors Guild Awards'],
+      ['screen actors guild', 'Screen Actors Guild Awards']
+    ]);
+    return String(orgParam)
+      .split(',')
+      .map(s => s.trim())
+      .filter(Boolean)
+      .map(s => {
+        const k = s.toLowerCase();
+        return aliases.get(k) || s;
+      });
+  })();
+
   // Accept either header x-api-key or query ?apikey= (to match existing endpoints)
   const headerKey = event.headers && (event.headers['x-api-key'] || event.headers['X-API-KEY']);
   const apiKey = headerKey || qs.apikey || qs.api_key || null;
@@ -68,17 +97,29 @@ exports.handler = async (event) => {
     const dataRows = await sql`SELECT get_film_awards_by_imdb(${imdbId}) AS data`;
     const badgesRows = await sql`SELECT get_film_award_badges_by_imdb(${imdbId}) AS badges`;
 
-    const data = dataRows?.[0]?.data || null;
+    let data = dataRows?.[0]?.data || null;
     const badges = badgesRows?.[0]?.badges || [];
 
+    if (data && Array.isArray(data.nominations) && orgFilters && orgFilters.length) {
+      data = {
+        ...data,
+        nominations: data.nominations.filter(n => orgFilters.includes(n.organization))
+      };
+    }
+
     const hasAny = !!(data && Array.isArray(data.nominations) && data.nominations.length);
+
+    const sources = hasAny
+      ? Array.from(new Set((data.nominations || []).map(n => n.organization)))
+      : [];
 
     const payload = hasAny
       ? {
           imdb_id: imdbId,
           nominations: data.nominations,
           badges,
-          stats: data.stats || { nominations: data.nominations.length, wins: 0 }
+          stats: data.stats || { nominations: data.nominations.length, wins: 0 },
+          sources
         }
       : { error: 'No awards found for imdb_id', imdb_id: imdbId };
 

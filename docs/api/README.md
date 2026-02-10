@@ -14,7 +14,7 @@ The Game Awards API provides RESTful access to comprehensive board game awards d
 ## Base URL
 
 ```
-Production: https://gameawards.netlify.app/api/
+Production: https://awards.netlify.app/api/
 Local Dev: http://localhost:3000/api/
 ```
 
@@ -23,7 +23,7 @@ Local Dev: http://localhost:3000/api/
 1. [Get your API key](../../public/apikey.html)
 2. Make your first request:
    ```bash
-   curl "https://gameawards.netlify.app/api/?s=wingspan&apikey=your_key"
+   curl "https://awards.netlify.app/api/?s=wingspan&apikey=your_key"
    ```
 
 ## Response Format
@@ -42,4 +42,4 @@ All responses are in JSON format with consistent structure:
 
 ## Support
 
-- 📧 API Issues: support@gameawardsapi.com
+- 📧 API Issues: support@awardsapi.com

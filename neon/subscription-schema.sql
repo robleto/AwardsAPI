@@ -21,9 +21,9 @@ RETURNS BOOLEAN
 LANGUAGE plpgsql
 AS $$
 DECLARE
-  key_hash TEXT;
+  v_key_hash TEXT;
 BEGIN
-  key_hash := encode(digest(api_key_value, 'sha256'), 'hex');
+  v_key_hash := encode(digest(api_key_value, 'sha256'), 'hex');
   
   UPDATE api_keys
   SET 
@@ -33,7 +33,7 @@ BEGIN
     stripe_customer_id = COALESCE(stripe_customer, stripe_customer_id),
     stripe_subscription_id = COALESCE(stripe_subscription, stripe_subscription_id),
     updated_at = NOW()
-  WHERE key_hash = update_api_key_limits.key_hash;
+  WHERE api_keys.key_hash = v_key_hash;
   
   RETURN FOUND;
 END;

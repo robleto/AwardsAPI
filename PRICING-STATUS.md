@@ -80,11 +80,11 @@ Once env vars are set:
 node scripts/deploy-audit.js
 
 # Start local dev
-netlify dev
+npm run dev
 
 # Test subscription creation
 # Test API key validation with domain enforcement
-curl "http://localhost:8888/.netlify/functions/film-awards?imdb_id=tt15398776&apikey=YOUR_KEY"
+curl "http://localhost:3000/film-awards?imdb_id=tt15398776&apikey=YOUR_KEY"
 ```
 
 ## Summary
