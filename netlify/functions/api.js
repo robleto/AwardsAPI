@@ -32,7 +32,29 @@ exports.handler = async (event, context) => {
       };
     }
 
-    const { i: awardId, t: title, s: search, game_id, year, category, award_set, type, r: format = 'json', apikey } = query;
+    const {
+      i: awardId,
+      t: title,
+      s: search,
+      game_id,
+      year,
+      category,
+      award_set,
+      type,
+      r: format = 'json',
+      apikey,
+      page,
+      limit,
+      per_page,
+      page_size,
+    } = query;
+
+    const parsedLimit = Math.min(
+      Math.max(parseInt(limit || per_page || page_size || '50', 10) || 50, 1),
+      200
+    );
+    const parsedPage = Math.max(parseInt(page || '1', 10) || 1, 1);
+    const offset = (parsedPage - 1) * parsedLimit;
 
     // Check API key in production
     if (process.env.NETLIFY_DEV !== 'true' && !apikey) {
@@ -96,15 +118,19 @@ exports.handler = async (event, context) => {
 
     let result;
     const sql = db.init();
+    const filters = { year, category, award_set, type, limit: parsedLimit, offset };
 
     if (search) {
-      result = await searchAwards(sql, search, { year, category, award_set, type });
+      result = await searchAwards(sql, search, filters);
     } else if (awardId) {
       result = await getAwardById(sql, awardId);
     } else if (title) {
       result = await getAwardByTitle(sql, title, { year, category, award_set });
     } else if (game_id) {
       result = await getAwardsByGameId(sql, game_id);
+    } else if (year || category || award_set || type) {
+      // Allow filtered queries without a search term (e.g., year-only sync)
+      result = await searchAwards(sql, '', filters);
     } else {
       return {
         statusCode: 400,
@@ -306,6 +332,13 @@ async function searchAwards(sql, searchTerm, filters = {}) {
     `(a.title ILIKE $1 OR a.award_set ILIKE $1 OR a.award_set_raw ILIKE $1 OR a.position ILIKE $1 OR g.name ILIKE $1)`
   );
 
+  const limitValue = Math.min(Math.max(parseInt(filters.limit, 10) || 50, 1), 200);
+  const offsetValue = Math.max(parseInt(filters.offset, 10) || 0, 0);
+  params.push(limitValue);
+  const limitIndex = params.length;
+  params.push(offsetValue);
+  const offsetIndex = params.length;
+
   const query = `
     SELECT
       a.*,
@@ -321,7 +354,8 @@ async function searchAwards(sql, searchTerm, filters = {}) {
     WHERE ${clauses.join(" AND ")}
     GROUP BY a.id
     ORDER BY a.year DESC NULLS LAST
-    LIMIT 10
+    LIMIT $${limitIndex}
+    OFFSET $${offsetIndex}
   `;
 
   const rows = await sql(query, params);
