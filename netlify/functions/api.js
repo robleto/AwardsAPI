@@ -1,9 +1,5 @@
 const db = require('../../config/database');
 
-// Load awards data (for now, still using JSON file)
-// In production, this would come from the database
-const awardsData = require('../../lib/awards-data');
-
 exports.handler = async (event, context) => {
   // Enable CORS
   const headers = {
@@ -99,15 +95,16 @@ exports.handler = async (event, context) => {
     }
 
     let result;
+    const sql = db.init();
 
     if (search) {
-      result = searchAwards(search, { year, category, award_set, type });
+      result = await searchAwards(sql, search, { year, category, award_set, type });
     } else if (awardId) {
-      result = getAwardById(awardId);
+      result = await getAwardById(sql, awardId);
     } else if (title) {
-      result = getAwardByTitle(title, { year, category, award_set });
+      result = await getAwardByTitle(sql, title, { year, category, award_set });
     } else if (game_id) {
-      result = getAwardsByGameId(game_id);
+      result = await getAwardsByGameId(sql, game_id);
     } else {
       return {
         statusCode: 400,
@@ -147,118 +144,189 @@ exports.handler = async (event, context) => {
   }
 };
 
-// Helper functions (same as original server.js)
-function getAwardById(id) {
-  const award = awardsData.find(a => a.id === id);
-  if (!award) {
-    return {
-      Response: "False",
-      Error: "Award not found!"
-    };
-  }
+function formatAwardRow(row) {
+  const boardgames = Array.isArray(row.boardgames) ? row.boardgames : [];
   return {
-    Response: "True",
-    ...award
+    id: row.id,
+    slug: row.slug,
+    url: row.url,
+    year: row.year,
+    title: row.title,
+    primaryName: row.primary_name || boardgames[0]?.name || null,
+    alternateNames: row.alternate_names || [],
+    boardgames,
+    awardSet: row.award_set_raw || row.award_set || "",
+    position: row.position || "",
+    isWinner: row.is_winner,
+    isNominee: row.is_nominee
   };
 }
 
-function getAwardByTitle(title, filters = {}) {
-  let results = awardsData.filter(award => 
-    award.title && award.title.toLowerCase().includes(title.toLowerCase())
-  );
+function buildFilters(filters = {}, params = []) {
+  const clauses = [];
 
-  // Apply filters
   if (filters.year) {
-    results = results.filter(award => award.year == filters.year);
+    params.push(parseInt(filters.year, 10));
+    clauses.push(`a.year = $${params.length}`);
   }
   if (filters.category) {
-    results = results.filter(award => 
-      award.position && award.position.toLowerCase().includes(filters.category.toLowerCase())
-    );
+    params.push(`%${filters.category}%`);
+    clauses.push(`a.position ILIKE $${params.length}`);
   }
   if (filters.award_set) {
-    results = results.filter(award => 
-      award.awardSet && award.awardSet.toLowerCase().includes(filters.award_set.toLowerCase())
-    );
+    params.push(`%${filters.award_set}%`);
+    clauses.push(`(a.award_set ILIKE $${params.length} OR a.award_set_raw ILIKE $${params.length})`);
+  }
+  if (filters.type) {
+    params.push(`%${filters.type}%`);
+    clauses.push(`a.title ILIKE $${params.length}`);
   }
 
-  if (results.length === 0) {
+  return clauses;
+}
+
+async function getAwardById(sql, id) {
+  const rows = await sql`
+    SELECT
+      a.*,
+      COALESCE(
+        jsonb_agg(
+          DISTINCT jsonb_build_object('name', g.name, 'gameId', g.id)
+        ) FILTER (WHERE g.id IS NOT NULL),
+        '[]'::jsonb
+      ) AS boardgames
+    FROM boardgames.awards a
+    LEFT JOIN boardgames.award_games ag ON ag.award_id = a.id
+    LEFT JOIN boardgames.games g ON g.id = ag.game_id
+    WHERE a.id = ${id}
+    GROUP BY a.id
+    LIMIT 1
+  `;
+
+  const row = rows?.[0];
+  if (!row) {
+    return {
+      Response: "False",
+      Error: "Award not found!"
+    };
+  }
+  return {
+    Response: "True",
+    ...formatAwardRow(row)
+  };
+}
+
+async function getAwardByTitle(sql, title, filters = {}) {
+  const params = [`%${title}%`];
+  const clauses = buildFilters(filters, params);
+  clauses.unshift(`a.title ILIKE $1`);
+
+  const query = `
+    SELECT
+      a.*,
+      COALESCE(
+        jsonb_agg(
+          DISTINCT jsonb_build_object('name', g.name, 'gameId', g.id)
+        ) FILTER (WHERE g.id IS NOT NULL),
+        '[]'::jsonb
+      ) AS boardgames
+    FROM boardgames.awards a
+    LEFT JOIN boardgames.award_games ag ON ag.award_id = a.id
+    LEFT JOIN boardgames.games g ON g.id = ag.game_id
+    WHERE ${clauses.join(" AND ")}
+    GROUP BY a.id
+    ORDER BY a.year DESC NULLS LAST
+  `;
+
+  const rows = await sql(query, params);
+
+  if (!rows || rows.length === 0) {
     return {
       Response: "False",
       Error: "Award not found!"
     };
   }
 
-  if (results.length === 1) {
+  if (rows.length === 1) {
     return {
       Response: "True",
-      ...results[0]
+      ...formatAwardRow(rows[0])
     };
   }
 
   return {
     Response: "True",
-    totalResults: results.length,
-    awards: results
+    totalResults: rows.length,
+    awards: rows.map(formatAwardRow)
   };
 }
 
-function getAwardsByGameId(gameId) {
-  const awards = awardsData.filter(award =>
-    award.boardgames && award.boardgames.some(game => game.gameId == gameId)
-  );
+async function getAwardsByGameId(sql, gameId) {
+  const rows = await sql`
+    SELECT
+      a.*,
+      COALESCE(
+        jsonb_agg(
+          DISTINCT jsonb_build_object('name', g.name, 'gameId', g.id)
+        ) FILTER (WHERE g.id IS NOT NULL),
+        '[]'::jsonb
+      ) AS boardgames
+    FROM boardgames.award_games ag
+    JOIN boardgames.awards a ON a.id = ag.award_id
+    JOIN boardgames.games g ON g.id = ag.game_id
+    WHERE ag.game_id = ${gameId}
+    GROUP BY a.id
+    ORDER BY a.year DESC NULLS LAST
+  `;
 
-  if (awards.length === 0) {
+  if (!rows || rows.length === 0) {
     return {
       Response: "False",
       Error: "No awards found for this game!"
     };
   }
 
-  const gameName = awards[0].boardgames.find(game => game.gameId == gameId)?.name;
+  const gameName = rows[0].boardgames?.find(bg => bg.gameId == gameId)?.name || null;
 
   return {
     Response: "True",
     gameId: gameId,
     gameName: gameName,
-    totalResults: awards.length,
-    awards: awards
+    totalResults: rows.length,
+    awards: rows.map(formatAwardRow)
   };
 }
 
-function searchAwards(searchTerm, filters = {}) {
-  let results = awardsData.filter(award => {
-    const titleMatch = award.title && award.title.toLowerCase().includes(searchTerm.toLowerCase());
-    const awardSetMatch = award.awardSet && award.awardSet.toLowerCase().includes(searchTerm.toLowerCase());
-    const positionMatch = award.position && award.position.toLowerCase().includes(searchTerm.toLowerCase());
-    const gameMatch = award.boardgames && award.boardgames.some(game => 
-      game.name && game.name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    
-    return titleMatch || awardSetMatch || positionMatch || gameMatch;
-  });
+async function searchAwards(sql, searchTerm, filters = {}) {
+  const params = [];
+  const clauses = buildFilters(filters, params);
 
-  // Apply filters
-  if (filters.year) {
-    results = results.filter(award => award.year == filters.year);
-  }
-  if (filters.category) {
-    results = results.filter(award => 
-      award.position && award.position.toLowerCase().includes(filters.category.toLowerCase())
-    );
-  }
-  if (filters.award_set) {
-    results = results.filter(award => 
-      award.awardSet && award.awardSet.toLowerCase().includes(filters.award_set.toLowerCase())
-    );
-  }
-  if (filters.type) {
-    results = results.filter(award => 
-      award.title && award.title.toLowerCase().includes(filters.type.toLowerCase())
-    );
-  }
+  params.unshift(`%${searchTerm}%`);
+  clauses.unshift(
+    `(a.title ILIKE $1 OR a.award_set ILIKE $1 OR a.award_set_raw ILIKE $1 OR a.position ILIKE $1 OR g.name ILIKE $1)`
+  );
 
-  if (results.length === 0) {
+  const query = `
+    SELECT
+      a.*,
+      COALESCE(
+        jsonb_agg(
+          DISTINCT jsonb_build_object('name', g.name, 'gameId', g.id)
+        ) FILTER (WHERE g.id IS NOT NULL),
+        '[]'::jsonb
+      ) AS boardgames
+    FROM boardgames.awards a
+    LEFT JOIN boardgames.award_games ag ON ag.award_id = a.id
+    LEFT JOIN boardgames.games g ON g.id = ag.game_id
+    WHERE ${clauses.join(" AND ")}
+    GROUP BY a.id
+    ORDER BY a.year DESC NULLS LAST
+    LIMIT 10
+  `;
+
+  const rows = await sql(query, params);
+
+  if (!rows || rows.length === 0) {
     return {
       Response: "False",
       Error: "No awards found!"
@@ -267,9 +335,9 @@ function searchAwards(searchTerm, filters = {}) {
 
   return {
     Response: "True",
-    totalResults: results.length,
+    totalResults: rows.length,
     search: searchTerm,
-    awards: results.slice(0, 10)
+    awards: rows.map(formatAwardRow)
   };
 }
 
